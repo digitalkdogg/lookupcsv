@@ -1,6 +1,0 @@
-DC Number,Type,Date,Application,Summary,Status,CRQ
-2364,Enhancement,6/10/2025,Order Fulfillment,Rollout OT to EI fixes,Deployed,CHG3250198
-2364,Enhancement,6/12/2025,Atlas Loading,Rollout: Enable BCDR and Trailer reason code,Deployed,CHG3259691
-2364,Enhancement,6/12/2025,Atlas Moves,Rollout: Snyk vulnerabilities fix,Deployed,CHG3260503
-2364,Enhancement,6/12/2025,Atlas Moves,Rollout: BCDR CCM Config changes,Deployed,CHG3260744
-2364,Enhancement,6/16/2025,Slotaway,Simulation fix rollout,Scheduled,CHG3269175
