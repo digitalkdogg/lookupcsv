@@ -1,0 +1,989 @@
+﻿State,Store ID,CBSA,Type,Address,Zip Code,City
+AR,54,"Fayetteville-Springdale-Rogers, AR-MO",SUP,2004 S Pleasant St,72764-6204,Springdale
+AR,100,"Fayetteville-Springdale-Rogers, AR-MO",SUP,406 S Walton Blvd,72712-5705,Bentonville
+AR,144,"Fayetteville-Springdale-Rogers, AR-MO",SUP,2875 W Martin Luther King Blvd,72704-7625,Fayetteville
+MO,184,"Kansas City, MO-KS",SUP,600 Ne Coronado Dr,64014-3084,Blue Springs
+TX,194,"Houston-The Woodlands-Sugar Land, TX",SUP,4900 Garth Rd,77521-2257,Baytown
+IL,201,"St. Louis, MO-IL",SUP,2608 Green Mount Commons Dr,62221-6742,BELLEVILLE
+TX,202,"Dallas-Fort Worth-Arlington, TX",SUP,16066 State Highway 121,75035-0000,Frisco
+TX,206,"Dallas-Fort Worth-Arlington, TX",SUP,2041 N Redbud Blvd,75069-8214,Mckinney
+OK,212,"Oklahoma City, OK",SUP,333 N Interstate Dr,73069-6326,Norman
+TX,217,"Dallas-Fort Worth-Arlington, TX",SUP,801 W Main St,75067-3556,Lewisville
+MO,234,"Kansas City, MO-KS",SUP,8301 N Church Rd,64158-1106,Kansas City
+IL,256,"St. Louis, MO-IL",SUP,400 Junction Dr,62034-4323,Glen Carbon
+TX,266,"Dallas-Fort Worth-Arlington, TX",SUP,1601 W State Highway 114,76051-8651,Grapevine
+TN,272,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,3600 Mallory Ln,37067-2900,Franklin
+OK,277,"Oklahoma City, OK",SUP,501 Sw 19th St,73160-5427,Moore
+TX,297,"Houston-The Woodlands-Sugar Land, TX",SUP,23561 Us Hwy 59,77365-4991,Porter
+MO,319,"Kansas City, MO-KS",SUP,2015 W Foxwood Dr,64083-9380,Raymore
+TX,351,"Houston-The Woodlands-Sugar Land, TX",SUP,25800 Kuykendahl Rd,77375-0000,Tomball
+AR,359,"Fayetteville-Springdale-Rogers, AR-MO",SUP,3919 No Mall Ave,72703-4906,Fayetteville
+IL,361,"St. Louis, MO-IL",SUP,1040 Collinsville Crossing Blvd,62234-1882,Collinsville
+OK,389,"Oklahoma City, OK",SUP,1225 W I35 Frontage,73034-7394,Edmond
+TN,406,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,570 Enon Springs Rd E,37167-4409,Smyrna
+TX,426,"Dallas-Fort Worth-Arlington, TX",SUP,4691 State Highway 121,75056-4010,Colony
+TX,467,"Dallas-Fort Worth-Arlington, TX",SUP,1515 S Loop 288,76205-4729,Denton
+TX,471,"Dallas-Fort Worth-Arlington, TX",SUP,150 N Interstate 35 E,75146-1844,Lancaster
+OK,472,"Tulsa, OK",SUP,2301 W Kenosha St,74012-8912,Broken Arrow
+TX,475,"Austin-Round Rock, TX",SUP,2701 S Interstate 35,78664-7320,Round Rock
+TX,500,"El Paso, TX",SUP,4530 Woodrow Bean,79924-4408,El Paso
+TX,512,"El Paso, TX",SUP,10727 Gateway Blvd W,79935-4906,El Paso
+KY,526,"Louisville-Jefferson County, KY-IN",SUP,3706 Diann Marie Rd,40241-3818,Louisville
+FL,528,"North Port-Sarasota-Bradenton, FL",SUP,2911 53rd Ave E,34203-4312,Braden River
+TX,529,"Houston-The Woodlands-Sugar Land, TX",SUP,6410 Interstate 45,77568-3085,La Marque
+LA,541,"New Orleans-Metairie, LA",SUP,880 N Highway 190,70433-5147,Covington
+OK,544,"Oklahoma City, OK",SUP,5401 Tinker Diagonal St,73115-4622,Oklahoma City
+TX,546,"Houston-The Woodlands-Sugar Land, TX",SUP,5330 Fm 1640 Rd,77469-5435,Richmond
+GA,548,"Atlanta-Sandy Springs-Roswell, GA",SUP,630 Collins Hill Rd,30046-4461,Lawrenceville
+LA,553,"New Orleans-Metairie, LA",SUP,39142 Natchez Dr,70461-2142,Slidell
+OK,564,"Oklahoma City, OK",SUP,6100 W Reno Ave,73127-6507,Oklahoma City
+MO,573,"Kansas City, MO-KS",SUP,1000 Ne Sam Walton Ln,64086-8426,Lees Summit
+GA,575,"Atlanta-Sandy Springs-Roswell, GA",SUP,12182 Highway 92,30188-4481,Woodstock
+OK,576,"Tulsa, OK",SUP,207 S Memorial Dr,74112-2201,Tulsa
+KS,577,"Kansas City, MO-KS",SUP,13600 S Alden St,66062-5829,Olathe
+SC,585,"Charlotte-Concord-Gastonia, NC-SC",SUP,2377 Dave Lyle Blvd,29730-7939,Rock Hill
+KY,589,"Louisville-Jefferson County, KY-IN",SUP,11901 Standiford Plaza Dr,40229-5906,Louisville
+TX,590,"Dallas-Fort Worth-Arlington, TX",SUP,6300 Oakmont Blvd,76132-2807,Fort Worth
+KS,592,"Wichita, KS",SUP,2020 N Nelson Dr,67037-2572,Derby
+GA,594,"Atlanta-Sandy Springs-Roswell, GA",SUP,125 Pavilion Pkwy,30214-4098,Fayetteville
+TX,602,"Houston-The Woodlands-Sugar Land, TX",SUP,1025 Sawdust Rd,77380-0000,Spring
+GA,618,"Atlanta-Sandy Springs-Roswell, GA",SUP,4166 Jimmy Lee Smith Pkwy,30141-2647,Hiram
+OK,622,"Oklahoma City, OK",SUP,7800 NW Expressway,73132-1554,Oklahoma City
+MO,648,"St. Louis, MO-IL",SUP,1661 Jungermann Rd,63304-2821,SAINT PETERS
+TN,659,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,7044 Charlotte Pike,37209-4210,Nashville
+TN,682,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,2000 Old Fort Pkwy,37129-6907,Murfreesboro
+TN,688,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,5824 Nolensville Pike,37211-6502,Nashville
+TN,695,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,2232 Gallatin Pike,37115-2006,Madison
+TX,703,"Houston-The Woodlands-Sugar Land, TX",SUP,27650 State Highway 249,77375-6518,Tomball
+FL,705,"Orlando-Kissimmee-Sanford, FL",SUP,17030 Us Highway 441,32757-6733,Mount Dora
+TN,710,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,4424 Lebanon Pike,37076-1312,Hermitage
+OK,743,"Oklahoma City, OK",SUP,100 East I240 Service Rd,73149-1612,Oklahoma City
+TX,744,"Houston-The Woodlands-Sugar Land, TX",SUP,6626 Fm 1960 Rd E,77346-2712,Humble
+GA,745,"Atlanta-Sandy Springs-Roswell, GA",SUP,5600 N Henry Blvd,30281-3246,Stockbridge
+TX,752,"Houston-The Woodlands-Sugar Land, TX",SUP,5200 Fairmont Pkwy,77505-3802,Pasadena
+TX,765,"San Antonio-New Braunfels, TX",SUP,16503 Nacogdoches Rd,78247-1010,San Antonio
+TX,768,"Houston-The Woodlands-Sugar Land, TX",SUP,1313 N Fry Rd,77449-3343,Katy
+FL,769,"North Port-Sarasota-Bradenton, FL",SUP,4150 Tamiami Trl S,34293-5130,Venice
+TX,772,"Houston-The Woodlands-Sugar Land, TX",SUP,3506 Highway 6 S,77082-4204,Houston
+GA,787,"Atlanta-Sandy Springs-Roswell, GA",SUP,7050 Highway 85,30274-2946,Riverdale
+TX,789,"Dallas-Fort Worth-Arlington, TX",SUP,200 Us Highway 80 E,75149-1656,Mesquite
+FL,800,"Orlando-Kissimmee-Sanford, FL",SUP,2501 Citrus Blvd,34748-7204,Leesburg
+MO,805,"St. Louis, MO-IL",SUP,653 Gravois Bluffs Blvd,63026-7716,FENTON
+TX,807,"Dallas-Fort Worth-Arlington, TX",SUP,6401 Ne Loop 820,76180-6041,North Richland Hills
+FL,817,"Orlando-Kissimmee-Sanford, FL",SUP,4444 W Vine St,34746-5315,Kissimmee
+IN,828,"Indianapolis-Carmel-Anderson, IN",SUP,2373 E Main St,46168-2717,Plainfield
+LA,839,"Baton Rouge, LA",SUP,9350 Cortana Pl,70815-8603,Baton Rouge
+MS,848,"Memphis, TN-MS-AR",SUP,6811 Southcrest Pkwy,38671-9538,Southaven
+TX,849,"Houston-The Woodlands-Sugar Land, TX",SUP,155 Louetta Xing,77373-3007,Spring
+FL,857,"Orlando-Kissimmee-Sanford, FL",SUP,3653 S Orlando Dr,32773-5611,Sanford
+TX,872,"Houston-The Woodlands-Sugar Land, TX",SUP,1919 N Main St,77581-3305,Pearland
+GA,878,"Atlanta-Sandy Springs-Roswell, GA",SUP,1500 Market Place Blvd,30041-7926,Cumming
+TX,880,"Dallas-Fort Worth-Arlington, TX",SUP,4100 W Airport Fwy,75062-5913,Irving
+FL,890,"Orlando-Kissimmee-Sanford, FL",SUP,11250 E Colonial Dr,32817-4537,Orlando
+OK,894,"Tulsa, OK",SUP,6625 S Memorial Dr,74133-2036,Tulsa
+TX,896,"Dallas-Fort Worth-Arlington, TX",SUP,2225 W Interstate 20,75052-3926,Grand Prairie
+CO,905,"Greeley, CO",SUP,2285 E Ken Pratt Blvd,80504-0000,Longmont
+FL,908,"Orlando-Kissimmee-Sanford, FL",SUP,8101 S John Young Pkwy,32819-9021,Orlando
+LA,909,"New Orleans-Metairie, LA",SUP,8101 W Judge Perez Dr,70043-1659,Chalmette
+LA,911,"New Orleans-Metairie, LA",SUP,4810 Lapalco Blvd,70072-4382,Marrero
+TX,915,"Houston-The Woodlands-Sugar Land, TX",SUP,11210 W Airport Blvd,77477-3000,Stafford
+IN,923,"Indianapolis-Carmel-Anderson, IN",SUP,16865 Clover Rd,46060-3640,Noblesville
+FL,931,"Sebastian-Vero Beach, FL",SUP,5555 20th St,32966-4632,Vero Beach
+LA,935,"Baton Rouge, LA",SUP,904 S Range Ave,70726-4802,Denham Springs
+GA,937,"Atlanta-Sandy Springs-Roswell, GA",SUP,2795 Chastain Meadows Pkwy,30066-3361,Marietta
+TX,940,"Dallas-Fort Worth-Arlington, TX",SUP,6770 Westworth Blvd,76114-4002,Westworth Village
+FL,941,"Tampa-St. Petersburg-Clearwater, FL",SUP,2140 Bloomingdale Avenue,33596-6210,Valrico
+FL,942,"Orlando-Kissimmee-Sanford, FL",SUP,10500 W Colonial Dr,34761-2946,Ocoee
+FL,943,"Orlando-Kissimmee-Sanford, FL",SUP,1239 State Road 436 Ste 101,32707-6447,Casselberry
+TN,950,"Memphis, TN-MS-AR",SUP,8400 Us Highway 64,38133-4187,Bartlett
+CO,953,"Fort Collins, CO",SUP,1325 Denver Ave,80537-5120,Loveland
+FL,955,"Orlando-Kissimmee-Sanford, FL",SUP,1700 S Orange Blossom Trail,32703-7745,Apopka
+TX,964,"El Paso, TX",SUP,9441 Alameda Ave,79907-5601,El Paso
+FL,967,"Tampa-St. Petersburg-Clearwater, FL",SUP,1485 Commercial Way,34606-4525,Spring Hill
+TX,972,"Dallas-Fort Worth-Arlington, TX",SUP,6360 Lake Worth Blvd,76135-3604,Lake Worth
+FL,988,"Tampa-St. Petersburg-Clearwater, FL",SUP,1575 Land O Lakes Blvd,33549-2930,Lutz
+LA,989,"New Orleans-Metairie, LA",SUP,8912 Veterans Memorial Blvd,70003-5200,Metairie
+OK,992,"Tulsa, OK",SUP,2019 E 81st St,74137-4232,Tulsa
+FL,994,"Tampa-St. Petersburg-Clearwater, FL",SUP,8745 State Road 54,34655-3006,New Port Richey
+KS,998,"Kansas City, MO-KS",WNM,4701 Mission Rd,66205-0000,Westwood
+TX,999,"San Antonio-New Braunfels, TX",SUP,7239 Sw Loop 410,78242-0000,San Antonio
+FL,1004,"North Port-Sarasota-Bradenton, FL",SUP,5315 Cortez Rd W,34210-2814,Bradenton
+MO,1014,"Kansas City, MO-KS",SUP,4000 S Bolger Rd,64055-6776,Independence
+TX,1015,"El Paso, TX",SUP,7555 N Mesa St,79912-3505,El Paso
+NC,1027,"Charlotte-Concord-Gastonia, NC-SC",SUP,150 Concord Commons Pl Sw,28027-5026,Concord
+TX,1040,"Houston-The Woodlands-Sugar Land, TX",SUP,15955 Fm 529 Rd,77095-2513,Houston
+GA,1047,"Atlanta-Sandy Springs-Roswell, GA",SUP,6065 Jonesboro Rd,30260-1106,Morrow
+TX,1055,"Dallas-Fort Worth-Arlington, TX",SUP,5302 N Garland Ave,75040-2715,Garland
+TX,1062,"Houston-The Woodlands-Sugar Land, TX",SUP,150 W El Dorado Blvd,77546-6500,Friendswood
+FL,1068,"Sebastian-Vero Beach, FL",SUP,2001 Us Highway 1,32958-1615,Sebastian
+FL,1082,"Jacksonville, FL",SUP,10991 San Jose Blvd Ste 1,32223-6600,Jacksonville
+FL,1083,"Jacksonville, FL",SUP,6830 Normandy Blvd,32205-1902,Jacksonville
+FL,1085,"Tampa-St. Petersburg-Clearwater, FL",SUP,8701 Us Highway 19,34668-5349,Port Richey
+FL,1087,"Port St. Lucie, FL",SUP,4001 Se Federal Hwy,34997-4909,Stuart
+FL,1090,"Jacksonville, FL",SUP,6767 103rd St,32210-7135,Jacksonville
+MO,1094,"Kansas City, MO-KS",SUP,10300 E Highway 350,64138-1803,Raytown
+KS,1099,"Wichita, KS",SUP,501 E Pawnee St,67211-4944,Wichita
+LA,1102,"Baton Rouge, LA",SUP,14507 Plank Rd,70714-5431,Baker
+TX,1103,"Houston-The Woodlands-Sugar Land, TX",SUP,3450 Fm 1960 Rd W,77068-3606,Houston
+TX,1117,"Dallas-Fort Worth-Arlington, TX",SUP,6001 N Central Expy,75023-4702,Plano
+TX,1118,"Dallas-Fort Worth-Arlington, TX",SUP,12300 Lake June Rd,75180-1636,Balch Springs
+MO,1120,"Kansas City, MO-KS",SUP,7207 N M1 Hwy,64119-5351,Gladstone
+TX,1129,"Austin-Round Rock, TX",SUP,13201 Ranch Road 620 N,78717-1011,Austin
+LA,1136,"Baton Rouge, LA",SUP,3255 La Highway 1 S,70767-5858,Port Allen
+TX,1137,"Houston-The Woodlands-Sugar Land, TX",SUP,13750 East Fwy,77015-5929,Houston
+KS,1151,"Kansas City, MO-KS",SUP,10824 Parallel Pkwy,66109-3649,Kansas City
+NC,1156,"Charlotte-Concord-Gastonia, NC-SC",SUP,169 Norman Station Blvd,28117-6396,Mooresville
+MO,1161,"St. Louis, MO-IL",SUP,2897 Veterans Memorial Pkwy,63303-3526,SAINT CHARLES
+LA,1163,"New Orleans-Metairie, LA",SUP,4001 Behrman Pl,70114-0932,New Orleans
+WI,1167,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,3500 Brumback Blvd,53144-4816,Kenosha
+KY,1170,"Louisville-Jefferson County, KY-IN",SUP,10445 Dixie Hwy,40272-3953,Louisville
+FL,1171,"North Port-Sarasota-Bradenton, FL",SUP,8320 Lockwood Ridge Rd,34243-2902,Sarasota
+FL,1172,"Jacksonville, FL",SUP,13490 Beach Blvd,32224-0290,Jacksonville
+FL,1173,"Jacksonville, FL",SUP,8808 Beach Blvd,32216-4621,Jacksonville
+MO,1177,"St. Louis, MO-IL",SUP,201 Highlands Boulevard Dr,63011-4383,Manchester
+GA,1181,"Atlanta-Sandy Springs-Roswell, GA",SUP,1785 Cobb Pkwy S,30060-9288,Marietta
+GA,1184,"Atlanta-Sandy Springs-Roswell, GA",SUP,1825 Rockbridge Rd,30087-3335,Stone Mountain
+TX,1185,"Austin-Round Rock, TX",SUP,1030 Norwood Park Blvd,78753-6600,Austin
+TX,1198,"San Antonio-New Braunfels, TX",SUP,1515 N Loop 1604 E,78232-1431,San Antonio
+CO,1200,"Colorado Springs, CO",SUP,3201 E Platte Ave,80909-6408,Colorado Springs
+LA,1206,"Baton Rouge, LA",SUP,3132 College Dr,70808-3180,Baton Rouge
+NC,1209,"Charlotte-Concord-Gastonia, NC-SC",SUP,306 N Generals Blvd,28092-3559,Lincolnton
+FL,1213,"Tampa-St. Petersburg-Clearwater, FL",SUP,13300 Cortez Blvd,34613-4887,Brooksville
+TX,1216,"Dallas-Fort Worth-Arlington, TX",SUP,1213 E Trinity Mills Rd,75006-1446,Carrollton
+FL,1219,"Jacksonville, FL",SUP,12100 Lem Turner Rd,32218-2304,Jacksonville
+FL,1220,"Orlando-Kissimmee-Sanford, FL",SUP,2500 S Kirkman Rd,32811-2345,ORLANDO
+KS,1221,"Wichita, KS",SUP,6110 W Kellogg Dr,67209-2361,Wichita
+FL,1225,"Jacksonville, FL",SUP,899 Blanding Blvd,32065-8917,Orange Park
+IL,1228,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,2680 N Il Route 83,60073-4983,Round Lake Beach
+AL,1229,"Birmingham-Hoover, AL",SUP,2780 John Hawkins Pkwy,35244-4001,Hoover
+CO,1231,"Denver-Aurora-Lakewood, CO",SUP,9901 Grant St,80229-2157,Thornton
+TN,1248,"Memphis, TN-MS-AR",SUP,7525 Winchester Rd,38125-2202,Memphis
+CO,1252,"Denver-Aurora-Lakewood, CO",SUP,6675 Business Center Dr,80130-3603,Highlands Ranch
+TX,1253,"Austin-Round Rock, TX",SUP,710 E Ben White Blvd,78704-7404,Austin
+IL,1256,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,2424 W Jefferson St,60435-6429,Joliet
+LA,1266,"Baton Rouge, LA",SUP,2171 Oneal Ln,70816-3206,Baton Rouge
+CO,1273,"Colorado Springs, CO",SUP,6310 S Us Highway 8587,80817-1006,Fountain
+TX,1279,"Houston-The Woodlands-Sugar Land, TX",SUP,10411 N Freeway 45,77037-1124,Houston
+AZ,1291,"Tucson, AZ",SUP,7150 E Speedway Blvd,85710-1318,Tucson
+CO,1308,"Denver-Aurora-Lakewood, CO",SUP,7700 W Quincy Ave,80123-2404,Littleton
+TX,1313,"San Antonio-New Braunfels, TX",SUP,1200 Se Military Dr,78214-2851,San Antonio
+GA,1314,"Atlanta-Sandy Springs-Roswell, GA",SUP,3795 Buford Dr,30519-4906,Buford
+LA,1342,"New Orleans-Metairie, LA",SUP,300 W Esplanade Ave,70065-2540,Kenner
+TX,1347,"San Antonio-New Braunfels, TX",SUP,1430 Austin Hwy,78209-4338,San Antonio
+FL,1349,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,3306 N University Dr,33351-6720,Sunrise
+LA,1353,"New Orleans-Metairie, LA",SUP,5110 Jefferson Hwy,70123-5302,Harahan
+GA,1373,"Atlanta-Sandy Springs-Roswell, GA",SUP,4004 Lawrenceville Hwy Nw,30047-2820,Lilburn
+IL,1377,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,3801 Running Brk Farm Blvd,60050-5425,Johnsburg
+AZ,1381,"Phoenix-Mesa-Scottsdale, AZ",SUP,2555 W Apache Trl,85120-5204,Apache Junction
+NC,1385,"Charlotte-Concord-Gastonia, NC-SC",SUP,3000 E Franklin Blvd,28056-9451,Gastonia
+FL,1387,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,3801 Turtle Creek Dr,33067-4282,Coral Springs
+FL,1390,"Tampa-St. Petersburg-Clearwater, FL",SUP,8001 Us Highway 19 N,33781-1744,Pinellas Park
+FL,1398,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,4545 Hypoluxo Rd,33463-7508,Lake Worth
+IL,1401,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,2552 W 75th St,60564-7572,Naperville
+IL,1404,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,820 S Rand Rd,60047-2465,Lake Zurich
+TX,1409,"Houston-The Woodlands-Sugar Land, TX",SUP,10750 Westview Dr,77043-5019,Houston
+IL,1413,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,1205 S Il Route 31,60014-8213,Crystal Lake
+IL,1418,"St. Louis, MO-IL",SUP,1530 West Hwy 50,62269-1619,O Fallon
+IL,1420,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,850 S Barrington Rd,60107-2255,Streamwood
+VA,1424,"Richmond, VA",SUP,671 Southpark Blvd,23834-3617,Colonial Heights
+CO,1434,"Colorado Springs, CO",SUP,707 S 8th St,80905-1811,Colorado Springs
+FL,1436,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,6294 Forest Hill Blvd,33415-6109,Greenacres
+OH,1441,"Cincinnati, OH-KY-IN",SUP,5303 Bowen Dr,45040-6732,Mason
+OH,1443,"Cincinnati, OH-KY-IN",SUP,4370 Eastgate Square Dr,45245-4502,Cincinnati
+FL,1444,"Jacksonville, FL",SUP,9890 Hutchinson Park Dr,32225-7205,Jacksonville
+TX,1455,"Dallas-Fort Worth-Arlington, TX",SUP,8401 Anderson Blvd,76120-3857,Fort Worth
+GA,1458,"Chattanooga, TN-GA",SUP,3040 Battlefield Pkwy,30742-4004,Fort Oglethorpe
+IN,1459,"Indianapolis-Carmel-Anderson, IN",SUP,7245 Us 31 S,46227-8538,Indianapolis
+NC,1464,"Charlotte-Concord-Gastonia, NC-SC",SUP,8180 S Tryon St,28273-3325,Charlotte
+TN,1469,"Chattanooga, TN-GA",SUP,2020 Gunbarrel Rd Ste 250,37421-2663,Chattanooga
+IN,1476,"Louisville-Jefferson County, KY-IN",SUP,1351 Veterans Pkwy,47129-7747,Clarksville
+AL,1481,"Birmingham-Hoover, AL",SUP,209 Lakeshore Pkwy,35209-7105,Homewood
+GA,1488,"Atlanta-Sandy Springs-Roswell, GA",SUP,7001 Concourse Pkwy,30134-4549,Douglasville
+CO,1492,"Denver-Aurora-Lakewood, CO",SUP,14000 E Exposition Ave,80012-2538,Aurora
+IL,1497,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,22401 Central Ave,60471-2062,Richton Park
+KS,1507,"Wichita, KS",SUP,3030 N Rock Rd,67226-1309,Wichita
+KY,1510,"Cincinnati, OH-KY-IN",SUP,7625 Doering Dr,41042-4211,Florence
+FL,1511,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,1800 South University Drive,33025-2231,Miramar
+AZ,1512,"Phoenix-Mesa-Scottsdale, AZ",SUP,800 W Warner Rd,85225-2939,Chandler
+FL,1513,"Tampa-St. Petersburg-Clearwater, FL",SUP,35404 Us Highway 19 N,34684-1738,Palm Harbor
+MO,1514,"St. Louis, MO-IL",SUP,2201 Michigan Ave,63010-2151,Arnold
+FL,1517,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,5001 N Federal Highway,33064-7056,Pompano Beach
+VA,1523,"Richmond, VA",SUP,11400 W Broad St Rd,23060-5821,Glen Allen
+VA,1524,"Richmond, VA",SUP,12000 Iron Bridge Rd,23831-1459,Chester
+VA,1525,"Richmond, VA",SUP,7430 Bell Creek Rd,23111-3550,Mechanicsville
+IL,1531,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,365 Lake Marian Road,60110-2096,Carpentersville
+AZ,1532,"Phoenix-Mesa-Scottsdale, AZ",SUP,5845 W Bell Rd,85308-3871,Glendale
+AZ,1533,"Phoenix-Mesa-Scottsdale, AZ",SUP,7975 W Peoria Ave,85345-5941,Peoria
+FL,1536,"Tampa-St. Petersburg-Clearwater, FL",SUP,10237 Bay Pines Blvd,33708-4106,St Petersburg
+FL,1541,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,9990 Belvedere Rd,33411-3518,West Palm Beach
+AZ,1549,"Phoenix-Mesa-Scottsdale, AZ",SUP,2020 N 75th Ave,85035-3200,Phoenix
+NC,1552,"Charlotte-Concord-Gastonia, NC-SC",SUP,323 S Arlington St,28144-5163,Salisbury
+IL,1553,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,314 West Army Trail Road,60108-2300,Bloomingdale
+IL,1556,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,9265 159th St,60487-5977,Orland Hills
+IN,1557,"Indianapolis-Carmel-Anderson, IN",SUP,8300 E 96th St,46037-9795,Fishers
+NV,1560,"Las Vegas-Henderson-Paradise, NV",SUP,6005 S Eastern Ave,89119-3135,Las Vegas
+TN,1561,"Memphis, TN-MS-AR",SUP,3950 Austin Peay Hwy,38128-2516,Memphis
+CA,1563,"Los Angeles-Long Beach-Anaheim, CA",SUP,44665 Valley Central Way,93536-6500,Lancaster
+GA,1578,"Atlanta-Sandy Springs-Roswell, GA",SUP,970 Mansell Rd,30076-1506,Roswell
+NV,1584,"Las Vegas-Henderson-Paradise, NV",SUP,3615 S Rainbow Blvd,89103-1057,Las Vegas
+GA,1586,"Atlanta-Sandy Springs-Roswell, GA",SUP,1133 E W Connector,30106-1779,Austell
+FL,1589,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,16205 S Military Trl,33484-6503,Delray Beach
+FL,1590,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,5851 Nw 177th St,33015-5127,Hialeah
+OH,1594,"Columbus, OH",SUP,911 Hebron Rd,43056-1182,Heath
+IL,1596,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,200 S Bolingbrook Dr,60440-0000,Bolingbrook
+OK,1597,"Tulsa, OK",SUP,10938 S Memorial Dr,74133-7352,Tulsa
+AZ,1598,"Phoenix-Mesa-Scottsdale, AZ",SUP,4617 E Bell Rd,85032-2305,Phoenix
+KS,1599,"Kansas City, MO-KS",SUP,11701 Metcalf Ave,66210-2202,Overland Park
+IN,1601,"Indianapolis-Carmel-Anderson, IN",SUP,2001 E 151st St,46033-7737,Carmel
+TN,1606,"Chattanooga, TN-GA",SUP,5764 Highway 153,37343-3727,Hixson
+IN,1618,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,2936 E 79th Ave,46410-5748,Merrillville
+OK,1626,"Oklahoma City, OK",SUP,2000 W Memorial Rd,73134-6506,Oklahoma City
+VA,1631,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,1900 Cunningham Dr,23666-4260,Hampton
+NE,1637,"Omaha-Council Bluffs, NE-IA",SUP,6304 N 99th St,68134-1528,Omaha
+AZ,1646,"Phoenix-Mesa-Scottsdale, AZ",SUP,6131 E Southern Ave,85206-3734,Mesa
+CA,1660,"Los Angeles-Long Beach-Anaheim, CA",SUP,40130 10th St W,93551-3005,Palmdale
+NC,1662,"Charlotte-Concord-Gastonia, NC-SC",SUP,1116 Crossroads Dr,28625-8277,Statesville
+NC,1666,"Charlotte-Concord-Gastonia, NC-SC",SUP,3850 E Independence Blvd,28205-7305,Charlotte
+IL,1668,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,6590 Grand Ave,60031-1621,Gurnee
+NE,1671,"Omaha-Council Bluffs, NE-IA",SUP,8525 S 71st Plz,68133-2100,Papillion
+IL,1681,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,930 Mount Prospect Plz,60056-2652,Mount Prospect
+VA,1682,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,2448 Chesapeake Square Ring Rd,23321-2173,Chesapeake
+UT,1686,"Salt Lake City, UT",SUP,5469 S Redwood Rd,84123-5318,Taylorsville
+VA,1688,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,657 Phoenix Dr,23452-7318,Virginia Beach
+CO,1689,"Denver-Aurora-Lakewood, CO",SUP,5650 S Chambers Rd,80015-1132,AURORA (S)
+AL,1711,"Birmingham-Hoover, AL",SUP,1600 Montclair Rd,35210-2410,Birmingham
+FL,1712,"Tampa-St. Petersburg-Clearwater, FL",SUP,990 Missouri Ave N,33770-1812,Largo
+GA,1720,"Atlanta-Sandy Springs-Roswell, GA",SUP,1550 Scenic Hwy N,30078-2130,Snellville
+IN,1728,"Indianapolis-Carmel-Anderson, IN",SUP,2321 Charles St,46013-2762,Anderson
+IL,1735,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,1455 E Lake Cook Rd,60090-2247,Wheeling
+IL,1737,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,900 South Route 83,60181-0000,Villa Park
+PA,1739,"Pittsburgh, PA",SUP,30 Trinity Point Dr,15301-2974,Washington
+AZ,1746,"Phoenix-Mesa-Scottsdale, AZ",SUP,1380 W Elliot Rd,85284-1102,Tempe
+CA,1760,"Sacramento--Roseville--Arden-Arcade, CA",SUP,1018 Riley St,95630-3268,Folsom
+IL,1761,"St. Louis, MO-IL",SUP,379 W Pontoon Rd,62040-6848,Granite City
+PA,1770,"Pittsburgh, PA",SUP,20245 Route 19,16066-6101,Cranberry Township
+VA,1773,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,12401 Jefferson Ave,23602-4311,Newport News
+TX,1800,"Dallas-Fort Worth-Arlington, TX",SUP,1801 Marketplace Dr,75041-5605,Garland
+TX,1801,"Dallas-Fort Worth-Arlington, TX",SUP,4801 S Cooper St,76017-5928,Arlington
+NY,1810,"New York-Newark-Jersey City, NY-NJ-PA",SUP,26 W Merritt Blvd,12524-2243,Fishkill
+VA,1811,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,1170 N Military Hwy,23502-2425,Norfolk
+IL,1814,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,1100 S Randall Rd,60123-4109,Elgin
+VA,1825,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,8386 Sudley Rd,20109-3428,Manassas
+VA,1833,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,1800 Carl D Silver Pkwy,22401-4960,Fredericksburg
+TX,1837,"Houston-The Woodlands-Sugar Land, TX",SUP,9451 Fm 1960 Bypass,77338-4035,Humble
+VA,1841,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,1521 Sams Cir,23320-4694,Chesapeake
+FL,1845,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,4700 S Flamingo Rd,33330-2300,Cooper City
+IL,1848,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,3s100 Route 53,60137-7394,Glen Ellyn
+FL,1851,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,7900 W Mcnab Rd,33068-4303,North Lauderdale
+VA,1852,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,14000 Worth Ave,22192-4121,Woodbridge
+CA,1881,"Sacramento--Roseville--Arden-Arcade, CA",SUP,7901 Watt Ave,95843-2025,Antelope
+PA,1883,"Pittsburgh, PA",SUP,3942 Brodhead Rd,15061-3028,Monaca
+PA,1885,"Pittsburgh, PA",SUP,400 Butler Cmns,16001-2496,Butler
+IL,1892,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,9450 Joliet Rd,60525-4156,Hodgkins
+CO,1896,"Colorado Springs, CO",SUP,8250 Razorback Rd,80920-3950,Colorado Springs
+IL,1897,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,801 Meacham Rd,60007-3073,Elk Grove Village
+IL,1898,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,150 Smith Rd,60174-5203,Saint Charles
+VA,1904,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,19360 Compass Creek Pkwy,20175-0000,Leesburg
+FL,1916,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,5571 W Hillsboro Blvd,33073-4376,Coconut Creek
+IL,1938,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,7050 S Cicero Ave,60638-6402,Bedford Park
+CA,1941,"Los Angeles-Long Beach-Anaheim, CA",SUP,1950 Auto Center Drive,91740-6700,Glendora
+NY,1959,"New York-Newark-Jersey City, NY-NJ-PA",SUP,470 Route 211 E,10940-2245,Middletown
+FL,1960,"Tampa-St. Petersburg-Clearwater, FL",SUP,1505 N Dale Mabry Hwy,33607-2552,Tampa
+IA,1965,"Omaha-Council Bluffs, NE-IA",SUP,3201 Manawa Centre Dr,51501-7672,Council Bluffs
+VA,1969,"Richmond, VA",SUP,900 Walmart Way,23113-2600,Midlothian
+NJ,1977,"New York-Newark-Jersey City, NY-NJ-PA",SUP,1872 Route 88,08724-3535,Brick
+CA,1988,"Sacramento--Roseville--Arden-Arcade, CA",SUP,900 Pleasant Grove Blvd,95678-6126,Roseville
+IL,1998,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,3626 Touhy Ave,60076-0000,Skokie
+NJ,2003,"New York-Newark-Jersey City, NY-NJ-PA",SUP,979 Route 1,08902-0000,North Brunswick
+NC,2005,"Charlotte-Concord-Gastonia, NC-SC",SUP,2420 Supercenter Dr Ne,28083-6426,Kannapolis
+VA,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,13059 Fair Lakes Parkway,22033-0000,Fairfax
+VA,2038,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,45415 Dulles Crossing Plz,20166-8921,Sterling
+NV,2050,"Las Vegas-Henderson-Paradise, NV",SUP,300 E Lake Mead Pkwy,89015-5576,Henderson
+PA,2059,"Pittsburgh, PA",SUP,2200 Greengate Centre Cir,15601-1290,Greensburg
+TX,2066,"Houston-The Woodlands-Sugar Land, TX",SUP,2727 Dunvale Rd,77063-4401,Houston
+FL,2081,"Tampa-St. Petersburg-Clearwater, FL",SUP,23106 Us Highway 19 N,33765-1849,Clearwater
+CA,2082,"Los Angeles-Long Beach-Anaheim, CA",SUP,12701 Towne Center Dr,90703-8545,Cerritos
+TX,2086,"Dallas-Fort Worth-Arlington, TX",SUP,1700 Dallas Pkwy,75093-4519,Plano
+FL,2091,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,8651 Nw 13th Ter,33126-1512,Doral
+OH,2098,"Columbus, OH",SUP,3900 Morse Rd,43219-3016,Columbus
+NY,2104,"New York-Newark-Jersey City, NY-NJ-PA",SUP,1201 Route 300,12550-5005,Newburgh
+TX,2105,"Dallas-Fort Worth-Arlington, TX",SUP,4122 L B J Fwy,75244-5703,Dallas
+CA,2110,"Los Angeles-Long Beach-Anaheim, CA",SUP,14501 Lakewood Blvd,90723-3601,Paramount
+AZ,2112,"Phoenix-Mesa-Scottsdale, AZ",SUP,4915 N Pima Rd,85251-1872,Scottsdale
+CA,2119,"San Jose-Sunnyvale-Santa Clara, CA",SUP,301 Ranch Dr,95035-5100,Milpitas
+CO,2125,"Denver-Aurora-Lakewood, CO",SUP,7455 W Colfax Ave,80214-5400,Lakewood
+LA,2132,"Baton Rouge, LA",SUP,10606 N Mall Dr,70809-4800,Baton Rouge
+TX,2133,"Austin-Round Rock, TX",SUP,5017 W Highway 290,78735-6703,Austin
+NC,2134,"Charlotte-Concord-Gastonia, NC-SC",SUP,7735 N Tryon St,28262-3498,Charlotte
+GA,2154,"Atlanta-Sandy Springs-Roswell, GA",SUP,2635 Pleasant Hill Rd,30096-1450,Duluth
+FL,2176,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,2144 W Indiantown Rd,33458-5810,Jupiter
+NJ,2195,"New York-Newark-Jersey City, NY-NJ-PA",SUP,4900 Us Highway 9,07731-3724,Howell
+TX,2201,"El Paso, TX",SUP,7101 Gateway Blvd W,79925-5604,El Paso
+IL,2204,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,1300 Des Plaines Ave,60130-2507,Forest Park
+UT,2207,"Salt Lake City, UT",SUP,7250 Union Park Ave,84047-1840,Midvale
+MO,2213,"St. Louis, MO-IL",SUP,3270 Telegraph Rd,63125-5565,Saint Louis
+IL,2215,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,2189 75th St,60561-4383,Darien
+CA,2218,"Los Angeles-Long Beach-Anaheim, CA",SUP,26502 Towne Centre Dr,92610-2417,Foothill Ranch
+CO,2223,"Denver-Aurora-Lakewood, CO",SUP,9499 Sheridan Blvd,80031-6532,Westminster
+CA,2226,"Los Angeles-Long Beach-Anaheim, CA",WNM,19340 Hawthorne Blvd,90503-0000,Torrance
+MD,2233,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,7400 Guilford Dr,21704-5183,Frederick
+TX,2239,"San Antonio-New Braunfels, TX",SUP,8923 W Military Dr,78245-2102,San Antonio
+CA,2242,"Los Angeles-Long Beach-Anaheim, CA",SUP,440 N Euclid St,92801-5505,Anaheim
+OH,2250,"Cincinnati, OH-KY-IN",SUP,4000 Red Bank Rd,45227-3416,Cincinnati
+CA,2251,"Los Angeles-Long Beach-Anaheim, CA",SUP,17150 Gale Ave,91745-1809,City Of Industry
+TX,2257,"Houston-The Woodlands-Sugar Land, TX",SUP,13484 Northwest Fwy,77040-6007,Houston
+PA,2281,"Pittsburgh, PA",SUP,2351 Century Dr,15122-2430,West Mifflin
+CA,2292,"Los Angeles-Long Beach-Anaheim, CA",SUP,1275 N Azusa Ave,91722-1246,Covina
+NJ,2294,"New York-Newark-Jersey City, NY-NJ-PA",SUP,152 Route 31 North,08822-5734,Flemington
+VA,2295,"Richmond, VA",SUP,7901 Brook Rd,23227-1336,Richmond
+PA,2300,"Pittsburgh, PA",SUP,250 Summit Park Dr,15275-1202,Pittsburgh
+UT,2307,"Salt Lake City, UT",SUP,11328 S Jordan Gtwy,84095-4112,South Jordan
+OH,2309,"Cincinnati, OH-KY-IN",SUP,8288 Cincinnati Dayton Rd,45069-2143,West Chester
+TN,2322,"Memphis, TN-MS-AR",SUP,577 N Germantown Pkwy,38018-6211,Cordova
+MD,2357,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,20910 Frederick Rd,20876-4134,Germantown
+GA,2360,"Atlanta-Sandy Springs-Roswell, GA",SUP,4725 Ashford Dunwoody Rd,30338-5561,Dunwoody
+FL,2387,"Tampa-St. Petersburg-Clearwater, FL",SUP,11110 Causeway Blvd,33511-2900,Brandon
+FL,2391,"Tampa-St. Petersburg-Clearwater, FL",WNM,8745 Little Rd,34654-0000,New Port Richey
+FL,2392,"North Port-Sarasota-Bradenton, FL",WNM,3560 Bee Ridge Rd,34239-7233,Sarasota
+TX,2404,"San Antonio-New Braunfels, TX",SUP,8500 Jones Maltsberger Rd,78216-5913,San Antonio
+FL,2406,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,3155 S Federal Hwy,33483-0000,Delray Beach
+PA,2420,"Pittsburgh, PA",SUP,100 Sara Way,15012-1963,Belle Vernon
+OH,2426,"Columbus, OH",SUP,5200 West Pointe Plaza,43228-9126,Columbus
+TX,2427,"Dallas-Fort Worth-Arlington, TX",SUP,9301 Forest Ln,75243-8982,Dallas
+OH,2441,"Cincinnati, OH-KY-IN",SUP,1505 Main St,45013-1079,Hamilton
+MO,2442,"Kansas City, MO-KS",WNM,5261 Ne Antioch Road,64119-0000,Kansas City
+OH,2447,"Cincinnati, OH-KY-IN",SUP,2322 Ferguson Rd,45238-3503,Cincinnati
+CA,2457,"Sacramento--Roseville--Arden-Arcade, CA",SUP,10655 Folsom Blvd,95670-4828,Rancho Cordova
+FL,2459,"North Port-Sarasota-Bradenton, FL",SUP,4381 Cattlemen Rd,34233-5070,Sarasota
+TX,2463,"Dallas-Fort Worth-Arlington, TX",SUP,355 Stonebrook Pkwy,75034-0000,Frisco
+CA,2464,"Sacramento--Roseville--Arden-Arcade, CA",SUP,8270 Delta Shores Cir S,95832-0000,Sacramento
+OH,2471,"Columbus, OH",SUP,5900 Britton Pkwy,43016-1207,Dublin
+GA,2475,"Atlanta-Sandy Springs-Roswell, GA",SUP,1436 Dogwood Dr Se,30013-5091,Conyers
+AZ,2482,"Phoenix-Mesa-Scottsdale, AZ",SUP,857 N Dobson Rd,85201-7585,Mesa
+NV,2483,"Las Vegas-Henderson-Paradise, NV",SUP,6973 Blue Diamond Rd,89178-0000,Las Vegas
+CA,2486,"San Jose-Sunnyvale-Santa Clara, CA",WNM,4080 Stevens Creek Blvd,95129-0000,San Jose
+TX,2505,"Houston-The Woodlands-Sugar Land, TX",SUP,5501 Highway 6,77459-4190,Missouri City
+AZ,2512,"Phoenix-Mesa-Scottsdale, AZ",SUP,1825 W Bell Rd,85023-3415,Phoenix
+AZ,2515,"Phoenix-Mesa-Scottsdale, AZ",SUP,3721 E Thomas Rd,85018-7507,Phoenix
+CA,2517,"Los Angeles-Long Beach-Anaheim, CA",SUP,3600 W Mcfadden Ave,92704-1330,Santa Ana
+VA,2520,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,125 Washington Square Plz,22405-3235,Fredericksburg
+VA,2529,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,2021 Lynnhaven Pkwy,23456-1410,Virginia Beach
+IN,2544,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,6087 Us Highway 6,46368-5046,Portage
+AZ,2554,"Phoenix-Mesa-Scottsdale, AZ",SUP,13055 W Rancho Santa Fe Blvd,85392-1700,Avondale
+PA,2588,"Pittsburgh, PA",SUP,100 Walmart Dr,15137-1535,North Versailles
+FL,2591,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,151 Sw 184th Ave,33029-5465,Pembroke Pines
+NV,2592,"Las Vegas-Henderson-Paradise, NV",SUP,1807 W Craig Rd,89032-0217,North Las Vegas
+NV,2593,"Las Vegas-Henderson-Paradise, NV",SUP,2310 E Serene Ave,89123-3248,Las Vegas
+TX,2599,"San Antonio-New Braunfels, TX",SUP,5555 De Zavala Rd,78249-1735,San Antonio
+MO,2600,"St. Louis, MO-IL",SUP,100 Thf Blvd,63005-1123,Chesterfield
+CA,2609,"Los Angeles-Long Beach-Anaheim, CA",SUP,2770 Carson St,90712-4004,Lakewood
+TX,2612,"El Paso, TX",SUP,1850 N Zaragoza Rd,79936-7911,El Paso
+MO,2616,"St. Louis, MO-IL",SUP,1307 Highway K,63366-5978,O Fallon
+FL,2627,"Tampa-St. Petersburg-Clearwater, FL",SUP,2701 E Fletcher Ave,33612-9414,Tampa
+AZ,2632,"Phoenix-Mesa-Scottsdale, AZ",WNM,115 E Dunlap Ave,85020-0000,Phoenix
+NY,2637,"New York-Newark-Jersey City, NY-NJ-PA",SUP,288 Larkin Dr,10950-4911,Monroe
+TX,2649,"Dallas-Fort Worth-Arlington, TX",SUP,1635 Market Place Blvd,75063-7239,Irving
+NJ,2651,"New York-Newark-Jersey City, NY-NJ-PA",SUP,100 North Main Street,08835-1358,Manville
+TX,2667,"Dallas-Fort Worth-Arlington, TX",SUP,7401 Samuell Blvd,75228-6166,Dallas
+AZ,2671,"Phoenix-Mesa-Scottsdale, AZ",SUP,1175 S Arizona Ave,85286-6504,Chandler
+IN,2691,"Louisville-Jefferson County, KY-IN",SUP,2910 Grant Line Rd,47150-2456,New Albany
+CA,2697,"San Francisco-Oakland-Hayward, CA",SUP,4893 Lone Tree Way,94531-8553,Antioch
+LA,2706,"New Orleans-Metairie, LA",SUP,1501 Manhattan Blvd,70058-3405,Harvey
+AL,2713,"Birmingham-Hoover, AL",SUP,5919 Trussville Crossings Pkwy,35235-8635,Birmingham
+TX,2724,"Houston-The Woodlands-Sugar Land, TX",SUP,1107 Shaver St,77506-4405,Pasadena
+OH,2725,"Columbus, OH",SUP,8659 Columbus Pike,43035-9699,Lewis Center
+OH,2726,"Columbus, OH",SUP,2793 Taylor Road Ext,43068-9549,Reynoldsburg
+FL,2727,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,33501 S Dixie Hwy,33034-5628,Florida City
+OK,2734,"Oklahoma City, OK",SUP,601 12th Ave Ne,73071-5324,Norman
+CA,2735,"Sacramento--Roseville--Arden-Arcade, CA",SUP,6051 Florin Rd,95823-2304,Sacramento
+FL,2740,"Tampa-St. Petersburg-Clearwater, FL",SUP,19910 Bruce B Downs Blvd,33647-2446,Tampa
+CO,2751,"Denver-Aurora-Lakewood, CO",SUP,601 Englewood Pkwy,80110-2374,Englewood
+CO,2752,"Denver-Aurora-Lakewood, CO",SUP,5990 Dahlia St,80022-3708,Commerce City
+MD,2756,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,2421 Monocacy Blvd,21701-3275,Frederick
+TN,2757,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,2012 Memorial Blvd,37129-0000,Murfreesboro
+AZ,2766,"Phoenix-Mesa-Scottsdale, AZ",SUP,15355 N Northsight Blvd,85260-2603,Scottsdale
+AZ,2767,"Phoenix-Mesa-Scottsdale, AZ",SUP,4505 E Mckellips Rd,85215-2523,Mesa
+AZ,2768,"Phoenix-Mesa-Scottsdale, AZ",SUP,1955 S Stapley Dr,85204-6615,Mesa
+OH,2774,"Columbus, OH",SUP,7730 Sawmill Rd,43016-0000,Dublin
+AZ,2777,"Phoenix-Mesa-Scottsdale, AZ",SUP,13770 W Bell Rd,85374-3865,Surprise
+IN,2786,"Indianapolis-Carmel-Anderson, IN",SUP,9500 E Us Highway 36,46123-7366,Avon
+IN,2787,"Indianapolis-Carmel-Anderson, IN",SUP,7325 N Keystone Ave,46240-3245,Indianapolis
+IN,2788,"Indianapolis-Carmel-Anderson, IN",SUP,400 W Northfield Dr,46112-8122,Brownsburg
+FL,2789,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,3200 Old Boynton Rd,33436-6506,Boynton Beach
+FL,2796,"Tampa-St. Petersburg-Clearwater, FL",SUP,3801 Tampa Rd,34677-3008,Oldsmar
+OK,2803,"Oklahoma City, OK",SUP,2200 W Danforth Rd,73003-4600,Edmond
+OK,2804,"Oklahoma City, OK",SUP,1801 Belle Isle Blvd,73118-4221,Oklahoma City
+VA,2808,"Richmond, VA",SUP,12200 Chattanooga Plz,23112-4865,Midlothian
+FL,2814,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,9300 Nw 77th Ave,33016-2504,Hialeah
+IL,2817,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,17625 Torrence Ave,60438-6018,Lansing
+IN,2818,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,7850 Cabela Dr,46324-0015,Hammond
+VA,2821,"Richmond, VA",SUP,2410 Sheila Ln,23225-2041,Richmond
+TX,2835,"San Antonio-New Braunfels, TX",WNM,9006 Guilbeau Road,78250-0000,San Antonio
+NV,2838,"Las Vegas-Henderson-Paradise, NV",SUP,540 Marks St,89014-6654,Henderson
+MS,2846,"Memphis, TN-MS-AR",SUP,7950 Craft Goodman Frontage Rd,38654-6608,Olive Branch
+NE,2847,"Omaha-Council Bluffs, NE-IA",SUP,10504 S 15th St,68123-4084,Bellevue
+KS,2855,"Kansas City, MO-KS",SUP,16100 W 65th St,66217-9301,Shawnee
+MO,2857,"Kansas City, MO-KS",SUP,8551 N Boardwalk Ave,64154-2547,Kansas City
+TX,2864,"San Antonio-New Braunfels, TX",SUP,6703 W Loop 1604 N,78254-9539,San Antonio
+OK,2875,"Oklahoma City, OK",WNM,6437 N Macarthur Blvd,73132-6503,Warr Acres
+FL,2881,"Orlando-Kissimmee-Sanford, FL",SUP,1471 E Osceola Pkwy,34744-1604,Kissimmee
+TX,2883,"Dallas-Fort Worth-Arlington, TX",SUP,8801 Ohio Dr,75024-2268,Plano
+NV,2884,"Las Vegas-Henderson-Paradise, NV",SUP,8060 W Tropical Pkwy,89149-4528,Las Vegas
+CA,2886,"Los Angeles-Long Beach-Anaheim, CA",SUP,8500 Washington Blvd,90660-3788,Pico Rivera
+CO,2892,"Denver-Aurora-Lakewood, CO",SUP,11101 S Parker Rd,80134-4773,Parker
+TX,2918,"Dallas-Fort Worth-Arlington, TX",SUP,730 W Exchange Pkwy,75013-7078,Allen
+FL,2920,"Jacksonville, FL",SUP,1505 County Road 220,32003-7926,Orange Park
+AZ,2922,"Tucson, AZ",SUP,7635 N La Cholla B,85741-4202,Tucson
+TX,2926,"Dallas-Fort Worth-Arlington, TX",SUP,6000 Coit Rd,75023-5903,Plano
+FL,2930,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,6931 Nw 88th Avenue,33321-0000,Tamarac
+GA,2941,"Atlanta-Sandy Springs-Roswell, GA",SUP,5200 Windward Pkwy,30004-3842,Alpharetta
+FL,2946,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,2500 W Broward Blvd,33312-0000,Fort Lauderdale
+CA,2948,"Los Angeles-Long Beach-Anaheim, CA",SUP,13310 Telegraph Rd,90670-4016,Santa Fe Springs
+CA,2950,"Los Angeles-Long Beach-Anaheim, CA",SUP,37140 47th St E,93552-4450,Palmdale
+CA,2951,"Los Angeles-Long Beach-Anaheim, CA",SUP,1731 E Avenue J,93535-6928,Lancaster
+MO,2955,"Kansas City, MO-KS",SUP,1701 W 133rd St,64145-1631,Kansas City
+IL,2956,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,1401 Il Route 59,60431-8209,Shorewood
+FL,2962,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,2300 W Atlantic Blvd,33069-2655,Pompano Beach
+FL,2963,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,6001 Coral Ridge Dr,33076-3306,Coral Springs
+KY,2967,"Cincinnati, OH-KY-IN",SUP,3450 Valley Plaza Pkwy,41017-8177,Ft Wright
+TX,2973,"Dallas-Fort Worth-Arlington, TX",SUP,115 West Fm 544,75094-4572,Murphy
+TX,2974,"Dallas-Fort Worth-Arlington, TX",WNM,1501 Buckingham Rd,75081-5304,Richardson
+TX,2976,"Dallas-Fort Worth-Arlington, TX",WNM,915 N Town East Blvd,75150-4743,Mesquite
+TX,2977,"Dallas-Fort Worth-Arlington, TX",WNM,735 W Sublett Rd,76017-6404,Arlington
+TX,2978,"Dallas-Fort Worth-Arlington, TX",SUP,7451 Mccart Ave,76133-7296,Fort Worth
+TX,2979,"Dallas-Fort Worth-Arlington, TX",WNM,7401 Park Vista Blvd,76137-3769,Fort Worth
+TX,2980,"Dallas-Fort Worth-Arlington, TX",SUP,8520 N Beach St,76244-4918,Fort Worth
+TX,2981,"Dallas-Fort Worth-Arlington, TX",WNM,2130 Rufe Snow Dr,76248-5632,Keller
+FL,2987,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,4301 S University Dr,33328-3002,Davie
+TX,2991,"Austin-Round Rock, TX",SUP,201 Walton Way,78613-7016,Cedar Park
+TX,2993,"Houston-The Woodlands-Sugar Land, TX",SUP,345 Highway 6,77478-4933,Sugar Land
+TX,2995,"Dallas-Fort Worth-Arlington, TX",WNM,8040 Independence Pkwy,75025-4059,Plano
+TX,2996,"Dallas-Fort Worth-Arlington, TX",SUP,18121 Marsh Ln,75287-5742,Dallas
+IL,3004,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,3320 S Cicero Ave,60804-0000,Cicero
+FL,3011,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,9840 S Military Trl Ste G1,33436-3201,Boynton Beach
+TX,3014,"Dallas-Fort Worth-Arlington, TX",SUP,200 Short Blvd,75232-0000,Dallas
+CO,3018,"Colorado Springs, CO",SUP,4425 Venetucci Blvd,80906-4013,Fountain
+CO,3019,"Denver-Aurora-Lakewood, CO",WNM,850 E 88th Ave,80229-4999,Thornton
+CA,3023,"San Jose-Sunnyvale-Santa Clara, CA",WNM,4055 Evergreen Village Sq Ste 140,95135-1764,San Jose
+DC,3035,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,310 Riggs Rd Ne,20011-0000,Washington
+TX,3044,"Dallas-Fort Worth-Arlington, TX",SUP,2900 Renaissance Square,76105-0000,Fort Worth
+TX,3057,"San Antonio-New Braunfels, TX",SUP,12550 Leslie Rd,78023-4740,Helotes
+TX,3058,"San Antonio-New Braunfels, TX",SUP,918 Bandera Rd,78228-0000,San Antonio
+MO,3061,"St. Louis, MO-IL",SUP,7437 Watson Road,63119-0000,Shrewsbury
+FL,3066,"North Port-Sarasota-Bradenton, FL",WNM,3500 N Tamiami Trail,34234-5358,Sarasota
+GA,3067,"Atlanta-Sandy Springs-Roswell, GA",SUP,4975 Jimmy Carter Blvd,30093-3535,Norcross
+GA,3069,"Atlanta-Sandy Springs-Roswell, GA",WNM,3101 Roswell Rd,30062-0000,Marietta
+GA,3071,"Atlanta-Sandy Springs-Roswell, GA",WNM,3201 Tucker Norcross Rd,30084-0000,Tucker
+VA,3077,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,6530 Trading Sq,20169-0000,Haymarket
+NJ,3078,"New York-Newark-Jersey City, NY-NJ-PA",SUP,290 State Route 18,08816-1995,East Brunswick
+CA,3081,"Sacramento--Roseville--Arden-Arcade, CA",SUP,8915 Gerber Road,95829-0000,SACRAMENTO
+CO,3083,"Colorado Springs, CO",WNM,665 N Murray Blvd,80915-3405,Colorado Springs
+CA,3101,"Los Angeles-Long Beach-Anaheim, CA",WNM,121 N Beach Blvd,92801-0000,ANAHEIM  (BEACH /LINCOLN)
+FL,3104,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,1101 S Military Trl,33442-7645,Deerfield Beach
+TX,3106,"San Antonio-New Braunfels, TX",SUP,8538 Interstate Hwy 35 S,78211-0000,San Antonio
+TX,3112,"San Antonio-New Braunfels, TX",SUP,4096 N Foster Rd,78244-0000,San Antonio
+GA,3118,"Atlanta-Sandy Springs-Roswell, GA",SUP,2525 N Decatur Rd,30033-6126,Decatur
+CA,3123,"San Jose-Sunnyvale-Santa Clara, CA",WNM,3255 Mission College Blvd,95054-0000,Santa Clara
+CO,3126,"Denver-Aurora-Lakewood, CO",WNM,16746 E Smoky Hill Rd,80015-2472,Centennial
+CO,3128,"Denver-Aurora-Lakewood, CO",WNM,1442 S Parker Rd,80231-2707,Denver
+CA,3132,"Los Angeles-Long Beach-Anaheim, CA",WNM,778 E Arrow Hwy,91767-0000,Pomona
+AZ,3143,"Tucson, AZ",WNM,8640 E Broadway Blvd,85710-4014,Tucson
+IA,3150,"Omaha-Council Bluffs, NE-IA",SUP,1800 N 16th St,51501-0000,Council Bluffs
+VA,3156,"Virginia Beach-Norfolk-Newport News, VA-NC",WNM,117 Marketplace Drive,23666-0000,Hampton
+NJ,3159,"New York-Newark-Jersey City, NY-NJ-PA",SUP,1 Teterboro Landing Dr,07608-0000,Teterboro
+FL,3161,"Tampa-St. Petersburg-Clearwater, FL",WNM,6850 Gulfport Blvd S,33707-0000,South Pasadena
+FL,3162,"Orlando-Kissimmee-Sanford, FL",WNM,2715 S Orange Ave,32806-5403,ORLANDO
+FL,3163,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,301 S State Road 7,33023-0000,Hollywood
+LA,3167,"New Orleans-Metairie, LA",SUP,4301 Chef Menteur Hwy,70126-0000,New Orleans
+NE,3172,"Omaha-Council Bluffs, NE-IA",WNM,5051 L St,68117-1328,Omaha
+NE,3173,"Omaha-Council Bluffs, NE-IA",WNM,9460 Giles Rd,68128-0000,La Vista
+CO,3175,"Colorado Springs, CO",WNM,4142 Austin Bluffs Pkwy,80918-0000,Colorado Springs
+CO,3176,"Colorado Springs, CO",WNM,1725 N Union Blvd,80909-0000,Colorado Springs
+CA,3180,"Los Angeles-Long Beach-Anaheim, CA",SUP,4651 Firestone Blvd,90280-0000,South Gate
+GA,3188,"Atlanta-Sandy Springs-Roswell, GA",SUP,5935 Memorial Dr,30083-0000,Stone Mountain
+FL,3197,"Tampa-St. Petersburg-Clearwater, FL",SUP,15302 N Nebraska Ave,33613-0000,Tampa
+TX,3198,"Dallas-Fort Worth-Arlington, TX",WNM,4025 Old Denton Rd,75007-0000,Carrollton
+GA,3201,"Atlanta-Sandy Springs-Roswell, GA",SUP,135 Willow Ln,30253-6574,Mcdonough
+GA,3205,"Atlanta-Sandy Springs-Roswell, GA",SUP,1100 Thornton Rd,30122-2616,Lithia Springs
+FL,3207,"Orlando-Kissimmee-Sanford, FL",SUP,1601 Rinehart Rd,32771-7392,Sanford
+TX,3213,"Houston-The Woodlands-Sugar Land, TX",SUP,3040 College Park Dr,77384-8002,The Woodlands
+VA,3214,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,6259 College Dr,23435-2610,Suffolk
+VA,3216,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,1149 Nimmo Pkwy,23456-7730,Virginia Beach
+TX,3224,"Dallas-Fort Worth-Arlington, TX",SUP,555 W Interstate 30,75043-5729,Garland
+TX,3225,"Dallas-Fort Worth-Arlington, TX",SUP,2501 Lakeview Pkwy,75088-3350,Rowlett
+TX,3226,"Houston-The Woodlands-Sugar Land, TX",SUP,25108 Market Place Dr,77494-4430,Katy
+PA,3228,"Pittsburgh, PA",SUP,6700 Hollywood Blvd,15626-2401,Delmont
+UT,3232,"Salt Lake City, UT",SUP,7671 S 3800 W,84084-4316,West Jordan
+FL,3235,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,1425 Ne 163rd St,33162-4624,North Miami Beach
+NJ,3236,"New York-Newark-Jersey City, NY-NJ-PA",SUP,326 W Main St,07728-2524,Freehold
+AZ,3241,"Phoenix-Mesa-Scottsdale, AZ",SUP,18551 N 83rd Ave,85308-0501,Glendale
+CA,3248,"Los Angeles-Long Beach-Anaheim, CA",SUP,1340 S Beach Blvd,90631-6374,La Habra
+VA,3265,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,2601 George Washington Memorial Hwy,23693-3409,Yorktown
+NE,3267,"Omaha-Council Bluffs, NE-IA",SUP,18201 Wright St,68130-2875,Omaha
+KS,3273,"Kansas City, MO-KS",SUP,15700 Metcalf Ave,66223-3004,Overland Park
+TX,3274,"Dallas-Fort Worth-Arlington, TX",SUP,9101 N Tarrant Pkwy,76182-8655,North Richland Hills
+TX,3279,"San Antonio-New Braunfels, TX",SUP,2100 Se Loop 410,78220-4927,San Antonio
+KS,3283,"Wichita, KS",SUP,10600 W 21st St N,67205-1886,Wichita
+TX,3284,"Dallas-Fort Worth-Arlington, TX",SUP,4800 Us 287 Highway,76017-2816,Arlington
+TX,3285,"Dallas-Fort Worth-Arlington, TX",SUP,621 Uptown Blvd,75104-3508,Cedar Hill
+KY,3294,"Louisville-Jefferson County, KY-IN",SUP,7101 Cedar Springs Blvd,40291-2587,Louisville
+TX,3296,"Houston-The Woodlands-Sugar Land, TX",SUP,2700 S Kirkwood Rd,77077-6696,Houston
+TX,3297,"Houston-The Woodlands-Sugar Land, TX",SUP,12353 Fm 1960 Rd W,77065-4993,Houston
+TX,3298,"Houston-The Woodlands-Sugar Land, TX",SUP,255 Fm 518 Rd,77565-3245,Kemah
+TX,3302,"Houston-The Woodlands-Sugar Land, TX",SUP,9460 W Sam Houston Pkwy S,77099-1850,Houston
+FL,3308,"Jacksonville, FL",SUP,1580 Branan Field Rd,32068-8427,Middleburg
+FL,3309,"Jacksonville, FL",SUP,4250 Phillips Hwy,32207-6730,Jacksonville
+CO,3313,"Denver-Aurora-Lakewood, CO",SUP,10900 E Briarwood Ave,80112-3820,Centennial
+AZ,3314,"Phoenix-Mesa-Scottsdale, AZ",WNM,7450 W Glendale Ave,85303-3000,Glendale
+AZ,3315,"Phoenix-Mesa-Scottsdale, AZ",WNM,4230 W Union Hills Dr,85308-1704,Glendale
+OK,3340,"Tulsa, OK",WNM,4720 E 21st St,74114-2109,Tulsa
+TX,3341,"Dallas-Fort Worth-Arlington, TX",WNM,2305 N Central Expy,75204-3800,Dallas
+FL,3348,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,101 N Congress Ave,33403-3804,Lake Park
+NV,3350,"Las Vegas-Henderson-Paradise, NV",SUP,5198 Boulder Hwy,89122-6002,Las Vegas
+NV,3351,"Las Vegas-Henderson-Paradise, NV",SUP,6464 N Decatur Blvd,89131-2959,Las Vegas
+NV,3354,"Las Vegas-Henderson-Paradise, NV",WNM,1401 American Pacific Dr,89074-7401,Henderson
+NV,3355,"Las Vegas-Henderson-Paradise, NV",WNM,1400 S Lamb Blvd,89104-5416,Las Vegas
+NV,3356,"Las Vegas-Henderson-Paradise, NV",WNM,7445 S Eastern Ave,89123-1538,Las Vegas
+AZ,3360,"Phoenix-Mesa-Scottsdale, AZ",SUP,2750 E Germann Rd,85286-1403,Chandler
+FL,3370,"North Port-Sarasota-Bradenton, FL",SUP,508 10th St E,34221-4062,Palmetto
+FL,3372,"Tampa-St. Petersburg-Clearwater, FL",SUP,2677 Roosevelt Blvd,33760-2512,Largo
+FL,3387,"North Port-Sarasota-Bradenton, FL",SUP,17000 Tamiami Trl,34287-7281,North Port
+GA,3388,"Atlanta-Sandy Springs-Roswell, GA",SUP,1400 Lawrenceville Hwy,30044-2029,Lawrenceville
+GA,3389,"Atlanta-Sandy Springs-Roswell, GA",SUP,3435 Centerville Hwy,30039-6117,Snellville
+TX,3390,"Houston-The Woodlands-Sugar Land, TX",SUP,10001 Woodlands Pkwy,77382-2883,Woodlands
+TX,3392,"Dallas-Fort Worth-Arlington, TX",WNM,2108 Bedford Rd,76021-5711,Bedford
+FL,3397,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,17650 Nw 2nd Ave,33169-5019,Miami Gardens
+IL,3400,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,2300 Us Highway 34,60543-7132,Oswego
+GA,3401,"Atlanta-Sandy Springs-Roswell, GA",SUP,6149 Old National Hwy,30349-4479,College Park
+GA,3402,"Atlanta-Sandy Springs-Roswell, GA",SUP,1400 Hudson Bridge Rd,30281-5018,Stockbridge
+GA,3403,"Atlanta-Sandy Springs-Roswell, GA",SUP,3615 Marietta Hwy,30157-9472,Dallas
+TX,3406,"Dallas-Fort Worth-Arlington, TX",SUP,15220 Montfort Rd,75248-6401,Dallas
+FL,3414,"Tampa-St. Petersburg-Clearwater, FL",WNM,3400 E Lake Rd,34685-0000,Palm Harbor
+FL,3415,"Tampa-St. Petersburg-Clearwater, FL",SUP,41232 Us Highway 19 N,34689-5106,Tarpon Springs
+FL,3418,"Tampa-St. Petersburg-Clearwater, FL",SUP,28500 State Road 54,33543-3210,Wesley Chapel
+TX,3419,"Dallas-Fort Worth-Arlington, TX",WNM,6756 W Vickery Blvd,76116-9156,Fort Worth
+TX,3425,"Houston-The Woodlands-Sugar Land, TX",SUP,9598 Rowlett Rd,77075-2414,Houston
+OK,3430,"Oklahoma City, OK",SUP,9011 Ne 23rd St,73141-3009,Oklahoma City
+TX,3432,"Dallas-Fort Worth-Arlington, TX",SUP,951 W Belt Line Rd,75115-3822,Desoto
+TX,3433,"Dallas-Fort Worth-Arlington, TX",SUP,100 S Ryan Dr,75154-4214,Red Oak
+IL,3434,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,1275 Lake Ave,60098-7415,Woodstock
+IN,3435,"Indianapolis-Carmel-Anderson, IN",SUP,1133 No Emerson Road,46143-0000,Greenwood
+TX,3452,"Houston-The Woodlands-Sugar Land, TX",WNM,4810 Highway 6 N,77084-2979,Houston
+GA,3461,"Atlanta-Sandy Springs-Roswell, GA",SUP,2717 Highway 54,30269-1031,Peachtree City
+GA,3462,"Atlanta-Sandy Springs-Roswell, GA",SUP,3245 Lawrenceville Suwanee Rd,30024-6541,Suwanee
+FL,3463,"Tampa-St. Petersburg-Clearwater, FL",SUP,1208 E Brandon Blvd,33511-5529,Brandon
+AZ,3465,"Phoenix-Mesa-Scottsdale, AZ",SUP,5010 N 95th Ave,85305-3042,Glendale
+GA,3471,"Atlanta-Sandy Springs-Roswell, GA",SUP,3105 Cobb Pkwy Nw,30152-1013,Acworth
+NV,3473,"Las Vegas-Henderson-Paradise, NV",SUP,4505 W Charleston Blvd,89102-1501,Las Vegas
+FL,3474,"North Port-Sarasota-Bradenton, FL",SUP,6225 E State Road 64,34208-6244,Bradenton
+CA,3477,"Los Angeles-Long Beach-Anaheim, CA",SUP,7250 Carson Blvd,90808-2358,Long Beach
+TX,3482,"Dallas-Fort Worth-Arlington, TX",SUP,425 Coit Rd,75075-5709,Plano
+KS,3492,"Wichita, KS",SUP,11411 E Kellogg Dr,67207-1928,Wichita
+TX,3500,"Houston-The Woodlands-Sugar Land, TX",SUP,5655 E Sam Houston Pkwy N,77015-3250,Houston
+OH,3502,"Cincinnati, OH-KY-IN",SUP,3201 Princeton Rd,45011-5332,Hamilton
+TX,3509,"Houston-The Woodlands-Sugar Land, TX",WNM,11755 Beechnut St,77072-4107,Houston
+TX,3510,"Houston-The Woodlands-Sugar Land, TX",SUP,1710 Broadway St,77581-5604,Pearland
+CA,3522,"Los Angeles-Long Beach-Anaheim, CA",SUP,3250 Big Dalton Ave,91706-5107,Baldwin Park
+CA,3523,"Los Angeles-Long Beach-Anaheim, CA",SUP,26471 Carl Boyer Dr,91350-2996,Santa Clarita
+CO,3533,"Denver-Aurora-Lakewood, CO",SUP,7800 Smith Rd,80207-1719,Denver
+TX,3542,"Houston-The Woodlands-Sugar Land, TX",WNM,11242 S Gessner Dr,77071-1910,Houston
+CO,3566,"Denver-Aurora-Lakewood, CO",SUP,9400 E Hampden Ave,80231-5414,Denver
+UT,3568,"Salt Lake City, UT",SUP,3180 S 5600 W,84120-1300,West Valley City
+TX,3569,"Austin-Round Rock, TX",SUP,12900 No I35 Svc Rd Sb,78753-1049,Austin
+OH,3571,"Cincinnati, OH-KY-IN",SUP,2900 Towne Blvd,45044-6200,Middletown
+TX,3572,"Houston-The Woodlands-Sugar Land, TX",SUP,10505 Broadway St,77584-8076,Pearland
+VA,3573,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,9401 Liberia Ave,20110-1718,Manassas
+OH,3580,"Columbus, OH",SUP,1315 N 21st St,43055-3090,Newark
+CO,3582,"Colorado Springs, CO",SUP,1575 Space Center Dr,80915-2441,Colorado Springs
+TX,3584,"Houston-The Woodlands-Sugar Land, TX",SUP,5405 South Rice Avenue,77081-0000,Houston
+CA,3587,"Sacramento--Roseville--Arden-Arcade, CA",SUP,5454 Crossings Dr,95677-3919,Rocklin
+VA,3588,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,17041 Jefferson Davis Hwy,22026-2129,Dumfries
+UT,3589,"Salt Lake City, UT",SUP,350 Hope Ave,84115-5116,Salt Lake City
+TX,3594,"Dallas-Fort Worth-Arlington, TX",WNM,2610 W Pioneer Pkwy,76013-5904,Pantego
+TN,3599,"Memphis, TN-MS-AR",WNM,6520 Memphis Arlington Rd,38135-2402,Bartlett
+IL,3601,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,4700 135th St,60445-1405,Crestwood
+GA,3609,"Atlanta-Sandy Springs-Roswell, GA",SUP,2940 Anvil Block Rd,30294-2403,Ellenwood
+GA,3611,"Atlanta-Sandy Springs-Roswell, GA",SUP,6520 Earnest Barrett Parkway,30064-4571,Marietta
+OK,3615,"Oklahoma City, OK",WNM,2217 Nw 23rd St,73107-2403,Oklahoma City
+UT,3620,"Salt Lake City, UT",SUP,13502 Hamilton View Rd,84065-6059,Riverton
+GA,3621,"Atlanta-Sandy Springs-Roswell, GA",SUP,1871 Chamblee Tucker Rd,30341-2737,Chamblee
+FL,3625,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,3001 N State Road 7,33313-1913,Lauderdale Lakes
+TX,3631,"Dallas-Fort Worth-Arlington, TX",SUP,1221 Fm 1187,76036-4370,Crowley
+VA,3639,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,24635 Dulles Landing Dr,20166-2614,Dulles
+TX,3640,"Houston-The Woodlands-Sugar Land, TX",SUP,1118 Silber Rd,77055-7126,Houston
+CA,3652,"Sacramento--Roseville--Arden-Arcade, CA",SUP,755 Riverpoint Ct,95605-1654,West Sacramento
+NV,3655,"Las Vegas-Henderson-Paradise, NV",WNM,10440 W Cheyenne Ave,89129-8712,Las Vegas
+TN,3659,"Chattanooga, TN-GA",SUP,501 Signal Mountain Rd,37405-1919,Chattanooga
+TX,3661,"El Paso, TX",WNM,1551 N Zaragoza Rd,79936-7906,El Paso
+NC,3700,"Charlotte-Concord-Gastonia, NC-SC",SUP,2101 Younts Rd,28079-8505,Indian Trail
+LA,3703,"New Orleans-Metairie, LA",WNM,3520 Williams Blvd,70065-3415,Kenner
+GA,3709,"Atlanta-Sandy Springs-Roswell, GA",SUP,2427 Gresham Rd Se,30316-3709,Atlanta
+CA,3712,"Sacramento--Roseville--Arden-Arcade, CA",SUP,7010 Auburn Blvd,95621-4342,Citrus Heights
+TN,3717,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,4040 Nolensville Pike,37211-4516,Nashville
+IL,3725,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,8500 W Golf Rd,60714-1154,Niles
+NV,3728,"Las Vegas-Henderson-Paradise, NV",SUP,3950 W Lake Mead Blvd,89032-4895,North Las Vegas
+SC,3733,"Charlotte-Concord-Gastonia, NC-SC",SUP,1151 Stonecrest Blvd,29708-6555,Tega Cay
+GA,3741,"Atlanta-Sandy Springs-Roswell, GA",SUP,1105 Research Center Atlanta Dr Sw,30331-8592,Atlanta
+GA,3748,"Atlanta-Sandy Springs-Roswell, GA",SUP,3826 Cobb Pkwy Nw,30101-4022,Acworth
+OH,3749,"Cincinnati, OH-KY-IN",SUP,2801 Cunningham Rd,45241-3270,Cincinnati
+AZ,3751,"Phoenix-Mesa-Scottsdale, AZ",SUP,1725 W Hunt Hwy,85143-5203,San Tan Valley
+TX,3763,"El Paso, TX",SUP,12236 Montana Ave,79938-4851,El Paso
+AZ,3771,"Phoenix-Mesa-Scottsdale, AZ",SUP,6150 S 35th Ave,85041-5004,Phoenix
+TX,3777,"Dallas-Fort Worth-Arlington, TX",SUP,12220 Fm 423,75033-5222,Frisco
+FL,3782,"Orlando-Kissimmee-Sanford, FL",SUP,5991 S Goldenrod Rd,32822-8775,Orlando
+OH,3784,"Cincinnati, OH-KY-IN",SUP,1275 E 2nd St,45005-1994,Franklin
+GA,3786,"Atlanta-Sandy Springs-Roswell, GA",SUP,3250 Sardis Church Rd,30519-6019,Buford
+NV,3788,"Las Vegas-Henderson-Paradise, NV",WNM,6310 W Charleston Blvd,89146-1128,Las Vegas
+IL,3790,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,16241 S Farrell Rd,60441-8101,Lockport
+AZ,3799,"Phoenix-Mesa-Scottsdale, AZ",SUP,240 W Baseline Rd,85210-6107,Mesa
+OH,3812,"Columbus, OH",SUP,2700 Bethel Rd,43220-2217,Columbus
+CO,3824,"Denver-Aurora-Lakewood, CO",SUP,7155 Sheridan Blvd,80003-3803,Westminster
+TX,3827,"Houston-The Woodlands-Sugar Land, TX",SUP,5660 W Grand Pkwy S,77406-5880,Richmond
+AZ,3833,"Phoenix-Mesa-Scottsdale, AZ",SUP,1606 S Signal Butte Rd,85209-1482,Mesa
+PA,3838,"Pittsburgh, PA",SUP,2010 Village Center Dr,15084-3850,Tarentum
+AZ,3844,"Phoenix-Mesa-Scottsdale, AZ",WNM,5137 W Olive Ave,85302-4204,Glendale
+AZ,3845,"Phoenix-Mesa-Scottsdale, AZ",WNM,6645 W Peoria Ave,85302-1011,Glendale
+FL,3858,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,22100 S State Road 7,33428-4218,Boca Raton
+AZ,3861,"Phoenix-Mesa-Scottsdale, AZ",SUP,5290 S Power Rd,85295-8478,GILBERT
+CO,3867,"Denver-Aurora-Lakewood, CO",SUP,200 W 136th Ave,80234-1204,Westminster
+VA,3869,"Richmond, VA",SUP,1504 N Parham Rd,23229-4621,Richmond
+TX,3870,"Dallas-Fort Worth-Arlington, TX",WNM,5401 Park Springs Blvd,76017-3418,Arlington
+AZ,3884,"Tucson, AZ",SUP,3435 E Broadway Blvd,85716-0000,Tucson
+TX,3888,"San Antonio-New Braunfels, TX",SUP,11210 Potranco Rd,78253-5844,San Antonio
+IL,3891,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,3900 Fountain Square Pl,60085-6708,Waukegan
+IL,3893,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,4000 Il Route 173,60099-5107,Zion
+AZ,3896,"Phoenix-Mesa-Scottsdale, AZ",SUP,21655 N Lake Pleasant Pkwy,85382-7436,Peoria
+NJ,3912,"New York-Newark-Jersey City, NY-NJ-PA",SUP,461 Rt 10 Suite A100,07852-0000,Ledgewood
+FL,3935,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,14325 Sw 268th St,33032-0000,Miami
+IL,4049,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,21000 Western Ave,60461-1900,Olympia Fields
+IN,4053,"Indianapolis-Carmel-Anderson, IN",WNM,5555 Michigan Rd,46228-0000,Indianapolis
+TX,4055,"San Antonio-New Braunfels, TX",SUP,510 Kitty Hawk Rd,78148-0000,Universal City
+TX,4056,"San Antonio-New Braunfels, TX",WNM,10781 Toepperwein Rd,78109-0000,Converse
+VA,4064,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,4821 Virginia Beach Blvd,23462-0000,Virginia Beach
+AR,4108,"Fayetteville-Springdale-Rogers, AR-MO",SUP,4870 Elm Springs Rd,72762-0000,Springdale
+TX,4131,"San Antonio-New Braunfels, TX",SUP,9427 Culebra Rd,78251-0000,San Antonio
+CA,4132,"Los Angeles-Long Beach-Anaheim, CA",SUP,9001 Apollo Way,90242-0000,Downey
+CA,4134,"Los Angeles-Long Beach-Anaheim, CA",WNM,12840 Beach Blvd,90680-4005,Stanton
+FL,4140,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,6991 Sw 8th St,33144-4743,Miami
+FL,4141,"Tampa-St. Petersburg-Clearwater, FL",WNM,9020 Ulmerton Rd,33771-0000,Largo
+FL,4142,"Orlando-Kissimmee-Sanford, FL",WNM,4520 S Semoran Blvd,32822-4006,Orlando
+NJ,4153,"New York-Newark-Jersey City, NY-NJ-PA",SUP,2825 State Route 18,08857-0000,Old Bridge
+TX,4162,"San Antonio-New Braunfels, TX",SUP,12639 Blanco Rd,78231-0000,San Antonio
+TX,4163,"Austin-Round Rock, TX",SUP,2801 E Whitestone Blvd,78613-0000,Cedar Park
+TX,4165,"Dallas-Fort Worth-Arlington, TX",SUP,2245 Jacksboro Hwy,76114-2319,Fort Worth
+CA,4171,"Los Angeles-Long Beach-Anaheim, CA",SUP,11822 Gilbert St,92841-2720,Garden Grove
+CA,4174,"San Jose-Sunnyvale-Santa Clara, CA",WNM,1450 Monterey Rd,95112-0000,San Jose
+TX,4182,"Dallas-Fort Worth-Arlington, TX",WNM,3312 Preston Rd,75093-0000,Plano
+GA,4185,"Atlanta-Sandy Springs-Roswell, GA",SUP,2395 Peachtree Pkwy,30041-0000,Cumming
+VA,4191,"Richmond, VA",SUP,6920 Frst Ave,23230-0000,Richmond
+CO,4196,"Denver-Aurora-Lakewood, CO",WNM,15240 E Iliff Ave,80014-0000,Aurora
+FL,4197,"Orlando-Kissimmee-Sanford, FL",WNM,902 Lee Rd,32810-5538,Orlando
+CA,4202,"Sacramento--Roseville--Arden-Arcade, CA",SUP,1400 Lead Hill Blvd,95661-2949,Roseville
+UT,4208,"Salt Lake City, UT",SUP,2705 E Parleys Way,84109-1619,Salt Lake City
+FL,4211,"Orlando-Kissimmee-Sanford, FL",WNM,5559 Clarcona Ocoee Rd,32810-4057,Orlando
+TX,4219,"Austin-Round Rock, TX",SUP,690 Old San Antonio Rd,78610-8904,Buda
+AZ,4232,"Phoenix-Mesa-Scottsdale, AZ",SUP,4747 E Cactus Rd,85032-7725,Phoenix
+SC,4237,"Charlotte-Concord-Gastonia, NC-SC",SUP,10048 Charlotte Hwy,29707-7135,Indian Land
+TX,4240,"Dallas-Fort Worth-Arlington, TX",SUP,3060 Justin Rd,75077-7047,Highland Village
+FL,4260,"Port St. Lucie, FL",SUP,1850 Sw Gatlin Blvd,34953-2703,Port St Lucie
+AZ,4275,"Phoenix-Mesa-Scottsdale, AZ",WNM,7421 West Thunderbird Road,85381-5036,Peoria
+CO,4284,"Denver-Aurora-Lakewood, CO",SUP,440 Wadsworth Blvd,80226-1510,Lakewood
+IL,4286,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,2000 Orchard Rd,60538-1028,Montgomery
+CO,4288,"Denver-Aurora-Lakewood, CO",SUP,4651 W 121st Ave,80020-5662,Broomfield
+TX,4298,"Houston-The Woodlands-Sugar Land, TX",SUP,9235 N Sam Houston Pkwy E,77396-3160,Humble
+FL,4303,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,3200 Nw 79th St,33147-0000,Miami
+CA,4309,"Sacramento--Roseville--Arden-Arcade, CA",SUP,8961 Greenback Ln,95662-4601,Orangevale
+KS,4321,"Wichita, KS",SUP,5475 N Meridian Ave,67204-1620,Wichita
+AZ,4324,"Phoenix-Mesa-Scottsdale, AZ",WNM,1900 E Chandler Blvd,85225-5113,Chandler (Cooper)
+FL,4332,"Orlando-Kissimmee-Sanford, FL",SUP,8990 Turkey Lake Rd,32819-7320,Orlando
+AZ,4336,"Phoenix-Mesa-Scottsdale, AZ",SUP,12900 W Thunderbird Rd,85335-5945,El Mirage
+NV,4356,"Las Vegas-Henderson-Paradise, NV",SUP,7200 Arroyo Crossing Pkwy,89113-4058,Las Vegas
+NE,4358,"Omaha-Council Bluffs, NE-IA",SUP,1606 S 72nd St,68124-1600,Omaha
+FL,4380,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,10635 W Atlantic Blvd,33071-5669,Coral Springs
+CA,4393,"Sacramento--Roseville--Arden-Arcade, CA",SUP,4675 Watt Ave,95660-5517,North Highlands
+IL,4405,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,2900 Kirk Rd,60502-6015,Aurora
+TX,4415,"El Paso, TX",WNM,8115 North Loop Dr,79907-4112,EL PASO (NO. LOOP)
+TX,4416,"Houston-The Woodlands-Sugar Land, TX",SUP,13003 Tomball Pkwy,77086-3122,Houston
+FL,4425,"Orlando-Kissimmee-Sanford, FL",WNM,7818 Colonial West Drive,32818-6674,Orlando
+TN,4435,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,3458 Dickerson Pike,37207-2511,Nashville
+GA,4436,"Atlanta-Sandy Springs-Roswell, GA",SUP,5455 Atlanta Hwy,30004-2928,Alpharetta
+FL,4441,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,4400 Forest Hill Blvd,33406-0000,Palm Springs Village
+FL,4444,"Jacksonville, FL",SUP,10251 Shops Ln,32258-7406,Jacksonville
+FL,4446,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,4225 45th St,33407-1919,West Palm Beach
+KY,4450,"Louisville-Jefferson County, KY-IN",SUP,12981 Shelbyville Rd,40243-1538,Middletown
+AZ,4451,"Phoenix-Mesa-Scottsdale, AZ",SUP,21055 E Rittenhouse Rd,85142-4477,Queen Creek
+TX,4465,"Houston-The Woodlands-Sugar Land, TX",WNM,11425 Barker Cypress Rd,77433-0000,Cypress
+TX,4466,"Houston-The Woodlands-Sugar Land, TX",WNM,13322 West Airport Blvd,77478-0000,Sugar Land
+TX,4468,"Houston-The Woodlands-Sugar Land, TX",WNM,20903 Highland Knolls Dr,77450-0000,Katy
+GA,4472,"Atlanta-Sandy Springs-Roswell, GA",SUP,8424 Mall Parkway,30038-2979,Lithonia
+KS,4475,"Kansas City, MO-KS",SUP,395 N K 7 Hwy,66061-8901,Olathe
+TN,4482,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,300 Pleasant Grove Rd Ste 600,37122-3792,Mount Juliet
+AL,4497,"Birmingham-Hoover, AL",SUP,1007 Red Farmer Dr,35023-1886,Hueytown
+FL,4498,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,4650 N University Dr,33067-4626,Coral Springs
+TX,4503,"Dallas-Fort Worth-Arlington, TX",SUP,2650 S State Highway 161,75052-0000,Grand Prairie
+AL,4504,"Birmingham-Hoover, AL",WNM,312 Palisades Blvd,35209-5148,Birmingham
+TX,4512,"Houston-The Woodlands-Sugar Land, TX",SUP,22850 Morton Ranch Rd,77449-0000,Katy
+KY,4524,"Louisville-Jefferson County, KY-IN",WNM,5360 Dixie Hwy,40216-1564,Louisville
+IL,4529,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,501 E Lincoln Hwy,60451-1909,New Lenox
+IL,4531,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,420 Weber Road,60446-6531,Romeoville
+TX,4538,"Houston-The Woodlands-Sugar Land, TX",SUP,6060 N Fry Rd,77449-1800,Katy
+FL,4546,"Sebastian-Vero Beach, FL",WNM,1750 Us Highway 1,32960-5545,Vero Beach
+MO,4553,"Kansas City, MO-KS",SUP,11601 E Us Highway 40,64133-1908,Kansas City
+TX,4554,"Austin-Round Rock, TX",SUP,2525 W Anderson Ln,78757-1180,Austin
+NV,4557,"Las Vegas-Henderson-Paradise, NV",SUP,3075 E Tropicana Ave,89121-7311,Las Vegas
+GA,4558,"Atlanta-Sandy Springs-Roswell, GA",SUP,4200 Salem Rd,30016-4533,Covington
+FL,4560,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,6901 Okeechobee Blvd,33411-2511,West Palm Beach
+FL,4561,"Jacksonville, FL",WNM,9550 Baymeadows Rd,32256-0710,Jacksonville
+FL,4563,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,401 E Sheridan St,33004-4603,Dania Beach
+CO,4567,"Denver-Aurora-Lakewood, CO",SUP,7101 E 128th Ave,80602-9101,Brighton
+NC,4574,"Charlotte-Concord-Gastonia, NC-SC",SUP,5825 Thunder Rd,28027-7270,Concord
+AL,4580,"Birmingham-Hoover, AL",WNM,1300 Montgomery Hwy,35216-2702,Vestavia Hills
+FL,4588,"Orlando-Kissimmee-Sanford, FL",SUP,3101 W Princeton St,32808-5600,Orlando
+MO,4590,"Kansas City, MO-KS",SUP,3410 Sw Market St,64082-2309,Lees Summit
+SC,4593,"Charlotte-Concord-Gastonia, NC-SC",SUP,4875 Old York Rd,29732-8127,Rock Hill
+NE,4600,"Omaha-Council Bluffs, NE-IA",SUP,11350 Wickersham Blvd,68028-6979,Gretna
+OH,4609,"Cincinnati, OH-KY-IN",SUP,10240 Colerain Ave,45251-4904,Cincinnati
+KS,4611,"Kansas City, MO-KS",SUP,5701 Silverheel St,66226-0000,Shawnee
+FL,4617,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,1199 S Federal Hwy,33062-7067,Pompano Beach
+TX,4618,"Houston-The Woodlands-Sugar Land, TX",WNM,2625 W Main St,77573-0000,League City
+VA,4623,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,6111 Jefferson Ave,23605-0000,Newport News
+TX,4627,"Dallas-Fort Worth-Arlington, TX",SUP,2750 W University Dr,76201-1628,Denton
+IN,4631,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,1100 5th Ave,46320-1002,Hammond
+IL,4641,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,12300 Route 47,60142-9634,Huntley
+PA,4643,"Pittsburgh, PA",SUP,1500 Economy Way,15005-0000,Economy
+PA,4644,"Pittsburgh, PA",SUP,7500 University Boulevard,15108-2532,Moon Township
+FL,4681,"Tampa-St. Petersburg-Clearwater, FL",SUP,4302 W Gandy Blvd,33611-3406,Tampa
+LA,4683,"Baton Rouge, LA",SUP,10550 Burbank Dr,70810-6468,Baton Rouge
+FL,4690,"Tampa-St. Petersburg-Clearwater, FL",SUP,201 34th St N,33713-8552,St Petersburg
+TN,4692,"Chattanooga, TN-GA",WNM,4150 Ringgold Rd,37412-0000,East Ridge
+CO,4734,"Denver-Aurora-Lakewood, CO",SUP,9400 Ralston Road,80002-0000,Arvada
+CO,4747,"Denver-Aurora-Lakewood, CO",WNM,10755 Washington Street,80233-0000,Northglenn
+CA,4759,"Sacramento--Roseville--Arden-Arcade, CA",WNM,6197 Sunrise Blvd,95610-0000,Citrus Heights
+CA,4762,"Los Angeles-Long Beach-Anaheim, CA",WNM,1180 S Diamond Bar Blvd,91765-0000,Diamond Bar
+FL,4826,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,8550 Stirling Rd,33024-0000,Davie
+NC,4848,"Charlotte-Concord-Gastonia, NC-SC",WNM,8322 Pineville Matthews Rd,28226-0000,Charlotte
+FL,5005,"Jacksonville, FL",WNM,6855 Wilson Blvd,32210-0000,Jacksonville
+TX,5021,"Dallas-Fort Worth-Arlington, TX",WNM,2275 Gus Thomasson Rd,75228-3002,Dallas
+LA,5022,"New Orleans-Metairie, LA",SUP,1901 Tchoupitoulas St,70130-1915,New Orleans
+AZ,5031,"Tucson, AZ",SUP,8280 N Cortaro Rd,85743-9393,Tucson
+FL,5036,"Tampa-St. Petersburg-Clearwater, FL",SUP,6192 Gunn Hwy,33625-4014,Tampa
+TN,5043,"Memphis, TN-MS-AR",WNM,6990 E Shelby Dr,38125-3416,Memphis
+TX,5045,"Houston-The Woodlands-Sugar Land, TX",SUP,22605 State Highway 249,77375-8239,Tomball
+CO,5049,"Denver-Aurora-Lakewood, CO",SUP,13420 W Coal Mine Ave,80127-5402,Littleton
+FL,5054,"Jacksonville, FL",SUP,11900 Atlantic Blvd,32225-2920,Jacksonville
+LA,5056,"Baton Rouge, LA",SUP,17585 Airline Hwy,70769-3303,Prairieville
+TN,5057,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,2900 S Rutherford Blvd,37130-5993,Murfreesboro
+TN,5058,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,3035 Hamilton Church Rd,37013-1429,Antioch
+IL,5060,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,1410 S Randall Rd,60102-5919,Algonquin
+NC,5063,"Charlotte-Concord-Gastonia, NC-SC",SUP,1830 Galleria Blvd,28270-2409,Charlotte
+NV,5070,"Las Vegas-Henderson-Paradise, NV",SUP,5200 S Fort Apache Rd,89148-1722,Las Vegas
+TX,5080,"Dallas-Fort Worth-Arlington, TX",SUP,1732 Precinct Line Rd,76054-3165,Hurst
+NC,5085,"Charlotte-Concord-Gastonia, NC-SC",SUP,701 Hawley Ave,28012-3382,Belmont
+TX,5091,"Houston-The Woodlands-Sugar Land, TX",SUP,26270 Northwest Fwy,77429-1761,Cypress
+TX,5092,"Dallas-Fort Worth-Arlington, TX",SUP,190 E Round Grove Rd,75067-8301,Lewisville
+TX,5094,"Houston-The Woodlands-Sugar Land, TX",WNM,9700 Hillcroft St,77096-3808,Houston
+LA,5102,"New Orleans-Metairie, LA",WNM,99 Westbank Expy,70053-3663,Gretna
+UT,5109,"Salt Lake City, UT",WNM,4570 S 4000 W,84120-6232,West Valley City
+TX,5116,"Houston-The Woodlands-Sugar Land, TX",SUP,9025 Spencer Hwy,77571-3870,La Porte
+TN,5119,"Nashville-Davidson--Murfreesboro--Franklin, TN",WNM,5531 Edmondson Pike,37211-5808,Nashville
+CO,5123,"Colorado Springs, CO",SUP,5550 E Woodmen Rd,80920-5257,Colorado Springs
+AZ,5124,"Phoenix-Mesa-Scottsdale, AZ",SUP,5605 W Northern Ave,85301-1332,Glendale
+FL,5132,"Orlando-Kissimmee-Sanford, FL",WNM,5216 Red Bug Lake Rd,32708-4912,WINTER SPRINGS
+CO,5137,"Denver-Aurora-Lakewood, CO",SUP,6101 S Aurora Pkwy,80016-5801,Aurora
+NE,5141,"Omaha-Council Bluffs, NE-IA",SUP,16960 W Maple Rd,68116-2237,Omaha
+NJ,5142,"New York-Newark-Jersey City, NY-NJ-PA",SUP,3575 State Route 66,07753-2602,Neptune
+TX,5144,"San Antonio-New Braunfels, TX",SUP,8315 Fm 78,78109-1043,Converse
+TX,5145,"San Antonio-New Braunfels, TX",SUP,1603 Vance Jackson Rd,78213-4470,San Antonio
+TX,5146,"San Antonio-New Braunfels, TX",SUP,8030 Bandera Rd,78250-5130,San Antonio
+TX,5147,"Dallas-Fort Worth-Arlington, TX",SUP,1521 N Cockrell Hill Rd,75211-1315,Dallas
+CA,5154,"Los Angeles-Long Beach-Anaheim, CA",SUP,1827 Walnut Grove Ave,91770-3789,Rosemead
+CA,5162,"Los Angeles-Long Beach-Anaheim, CA",SUP,27931 Kelly Johnson Pkwy,91355-5083,Santa Clarita
+FL,5179,"Orlando-Kissimmee-Sanford, FL",WNM,201 S Chickasaw Trl,32825-3504,Orlando
+KY,5183,"Louisville-Jefferson County, KY-IN",WNM,3800 Ruckriegel Pkwy,40299-3958,JEFFERSONTOWN
+OH,5184,"Columbus, OH",SUP,6674 Winchester Blvd,43110-2048,Canal Winchester
+OH,5185,"Columbus, OH",SUP,1221 Georgesville Rd,43228-3327,Columbus
+AZ,5186,"Phoenix-Mesa-Scottsdale, AZ",SUP,2501 S Market St,85295-1300,Gilbert
+AZ,5189,"Phoenix-Mesa-Scottsdale, AZ",SUP,5250 W Indian School Rd,85031-2605,Phoenix
+AZ,5190,"Phoenix-Mesa-Scottsdale, AZ",SUP,2501 W Happy Valley Rd Ste 34,85085-3712,Phoenix
+CA,5192,"Sacramento--Roseville--Arden-Arcade, CA",SUP,5821 Antelope Rd,95842-3902,Sacramento
+IL,5199,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,475 E Il Route 173,60002-9406,Antioch
+NJ,5201,"New York-Newark-Jersey City, NY-NJ-PA",WNM,2220 State Route 27,08817-3314,Edison
+KS,5207,"Kansas City, MO-KS",WNM,9000 Metcalf Ave,66212-1457,Overland Park
+TX,5211,"Dallas-Fort Worth-Arlington, TX",SUP,5001 Mckinney Ranch Pkwy,75070-8601,Mckinney
+FL,5218,"Tampa-St. Petersburg-Clearwater, FL",SUP,3501 34th St S,33711-3820,St Petersburg
+FL,5220,"Tampa-St. Petersburg-Clearwater, FL",SUP,8220 N Dale Mabry Hwy,33614-2686,Tampa
+FL,5221,"Tampa-St. Petersburg-Clearwater, FL",WNM,8885 N Florida Ave,33604-1415,Tampa
+UT,5233,"Salt Lake City, UT",SUP,5675 W 6200 S,84118-7915,West Valley City
+UT,5235,"Salt Lake City, UT",SUP,9151 S Quarry Bend Dr,84094-7701,Sandy
+PA,5241,"Pittsburgh, PA",SUP,915 Mills Dr,15642-4129,North Huntingdon
+TX,5245,"San Antonio-New Braunfels, TX",SUP,3302 Se Military Dr,78223-3980,San Antonio
+GA,5252,"Atlanta-Sandy Springs-Roswell, GA",SUP,4221 Atlanta Hwy,30052-7316,Loganville
+VA,5253,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,632 Grassfield Pkwy,23322-7449,Chesapeake
+AZ,5257,"Phoenix-Mesa-Scottsdale, AZ",WNM,5122 E University Dr,85205-7209,Mesa
+NV,5258,"Las Vegas-Henderson-Paradise, NV",WNM,5850 W Craig Rd,89130-2558,Las Vegas
+NV,5259,"Las Vegas-Henderson-Paradise, NV",WNM,6151 W Lake Mead Blvd,89108-2660,Las Vegas
+AR,5260,"Fayetteville-Springdale-Rogers, AR-MO",SUP,4208 Pleasant Crossing Blvd,72758-1345,Rogers
+AL,5262,"Birmingham-Hoover, AL",SUP,2181 Pelham Pkwy,35124-1119,Pelham
+FL,5264,"North Port-Sarasota-Bradenton, FL",SUP,13140 S Tamiami Trl,34229-3801,Osprey
+FL,5266,"Tampa-St. Petersburg-Clearwater, FL",SUP,12610 Us Highway 19,34667-1954,Hudson
+NV,5269,"Las Vegas-Henderson-Paradise, NV",WNM,490 E Silverado Ranch Blvd,89183-6290,Las Vegas
+GA,5275,"Atlanta-Sandy Springs-Roswell, GA",SUP,6435 Bells Ferry Rd,30189-2317,Woodstock
+OK,5286,"Oklahoma City, OK",WNM,9320 N Pennsylvania Pl,73120-1519,The Village
+TX,5287,"Houston-The Woodlands-Sugar Land, TX",SUP,21150 Kuykendahl Rd,77379-3300,Spring
+NY,5295,"New York-Newark-Jersey City, NY-NJ-PA",SUP,965 Broadhollow Rd,11735-3906,Farmingdale
+KY,5297,"Louisville-Jefferson County, KY-IN",WNM,143 Thierman Ln,40207-5009,Louisville
+NC,5298,"Charlotte-Concord-Gastonia, NC-SC",SUP,223 N Myrtle School Rd,28052-1257,Gastonia
+FL,5300,"Tampa-St. Petersburg-Clearwater, FL",SUP,9205 Gibsonton Dr,33534-4608,Gibsonton
+FL,5301,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,4375 Belvedere Rd,33406-1545,West Palm Beach
+AZ,5304,"Phoenix-Mesa-Scottsdale, AZ",WNM,1916 S Lindsay Rd,85204-7108,Mesa
+NV,5306,"Las Vegas-Henderson-Paradise, NV",WNM,5545 Simmons St,89031-9005,North Las Vegas
+KS,5308,"Kansas City, MO-KS",WNM,11010 W 74th Ter,66203-4422,Shawnee
+TX,5311,"Dallas-Fort Worth-Arlington, TX",SUP,1721 N Custer Rd,75071-3274,Mckinney
+TX,5312,"Dallas-Fort Worth-Arlington, TX",SUP,3851 Airport Fwy,76111-5906,Fort Worth
+MO,5313,"St. Louis, MO-IL",SUP,6100 Ronald Reagan Dr,63367-2660,Lake Saint Louis
+OK,5314,"Oklahoma City, OK",WNM,4420 S Western Ave,73109-3414,Oklahoma City
+TX,5316,"Dallas-Fort Worth-Arlington, TX",SUP,1401 N Saginaw Blvd,76179-5096,Saginaw
+TX,5317,"Austin-Round Rock, TX",SUP,9300 S Interstate 35 Ste B,78748-1741,Austin
+FL,5325,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,5555 W Atlantic Blvd,33063-5296,MARGATE
+LA,5327,"Baton Rouge, LA",WNM,9830 Old Hammond Hwy,70816-8251,Baton Rouge
+AZ,5330,"Phoenix-Mesa-Scottsdale, AZ",SUP,6145 N 35th Ave,85017-1940,Phoenix
+AZ,5331,"Phoenix-Mesa-Scottsdale, AZ",SUP,7575 W Lower Buckeye Rd,85043-3450,Phoenix
+AZ,5332,"Phoenix-Mesa-Scottsdale, AZ",WNM,730 E Mckellips Rd,85203-2537,Mesa
+CO,5334,"Denver-Aurora-Lakewood, CO",SUP,3301 Tower Rd,80011-3509,Aurora
+CO,5341,"Denver-Aurora-Lakewood, CO",SUP,500 Summit Blvd,80021-8219,Broomfield
+VA,5343,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,10001 Southpoint Pkwy,22407-2700,Fredericksburg
+AZ,5349,"Phoenix-Mesa-Scottsdale, AZ",WNM,8335 E Guadalupe Rd,85212-9630,Mesa
+UT,5350,"Salt Lake City, UT",SUP,4627 S 900 E,84117-4879,Salt Lake City
+IL,5352,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,801 N Randall Rd,60510-1992,Batavia
+TX,5353,"Houston-The Woodlands-Sugar Land, TX",WNM,24809 Aldine Westfield Rd,77373-0000,Spring
+NE,5361,"Omaha-Council Bluffs, NE-IA",SUP,12850 L St,68137-2078,Omaha
+GA,5363,"Atlanta-Sandy Springs-Roswell, GA",SUP,11465 Tara Blvd,30250-0000,Lovejoy
+AZ,5369,"Phoenix-Mesa-Scottsdale, AZ",SUP,1100 N Estrella Pkwy,85338-2808,Goodyear
+TX,5388,"Houston-The Woodlands-Sugar Land, TX",SUP,1701 W Fm 646 Rd,77573-4968,League City
+GA,5390,"Atlanta-Sandy Springs-Roswell, GA",SUP,210 Cobb Pkwy S,30060-6509,Marietta
+IN,5408,"Indianapolis-Carmel-Anderson, IN",WNM,3805 S Keystone Ave,46227-3540,Indianapolis
+NJ,5414,"New York-Newark-Jersey City, NY-NJ-PA",SUP,580 Us Highway 9,08734-2210,Lanoka Harbor
+TX,5416,"Dallas-Fort Worth-Arlington, TX",SUP,915 E Randol Mill Rd,76011-6017,Arlington
+KY,5417,"Louisville-Jefferson County, KY-IN",SUP,175 Outer Loop,40214-5544,Louisville
+KY,5418,"Louisville-Jefferson County, KY-IN",SUP,2020 Bashford Manor Ln,40218-2114,Louisville
+FL,5420,"Orlando-Kissimmee-Sanford, FL",SUP,3250 Vineland Rd,34746-4893,Kissimmee
+MO,5421,"St. Louis, MO-IL",WNM,45 Sutters Mill Rd,63376-0000,St. Peters
+NV,5423,"Las Vegas-Henderson-Paradise, NV",WNM,6570 E Lake Mead Blvd,89156-7044,Las Vegas
+MO,5427,"St. Louis, MO-IL",WNM,3031 Mid Rivers Mall Dr,63376-0000,St. Peters
+AZ,5428,"Phoenix-Mesa-Scottsdale, AZ",SUP,1710 S Greenfield Rd,85206-3481,Mesa
+AZ,5429,"Phoenix-Mesa-Scottsdale, AZ",SUP,14111 N Prasada Gateway Ave,85388-2201,Surprise
+CA,5435,"San Jose-Sunnyvale-Santa Clara, CA",SUP,777 Story Rd,95122-2628,San Jose
+IL,5442,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,1050 N Rohlwing Rd,60101-1034,Addison
+IN,5443,"Indianapolis-Carmel-Anderson, IN",SUP,4650 S Emerson Ave,46203-5932,Indianapolis
+NJ,5447,"New York-Newark-Jersey City, NY-NJ-PA",SUP,150 Harrison Ave,07032-5950,KEARNY
+TX,5449,"Houston-The Woodlands-Sugar Land, TX",SUP,9929 Hwy 6,77459-4149,Missouri City
+OH,5466,"Columbus, OH",SUP,1693 Stringtown Rd,43123-8265,Grove City
+TX,5479,"Austin-Round Rock, TX",SUP,1548 Fm 685,78660-3576,Pflugerville
+TX,5480,"Austin-Round Rock, TX",SUP,4700 E Palm Valley Blvd,78665-2580,Round Rock
+NC,5481,"Charlotte-Concord-Gastonia, NC-SC",SUP,9820 Callabridge Ct,28216-7669,Charlotte
+IN,5483,"Indianapolis-Carmel-Anderson, IN",SUP,882 S State Road 135,46143-0000,Greenwood
+IL,5485,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,2500 W 95th St,60805-2807,Evergreen Park
+VA,5488,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,7530 Tidewater Dr,23505-3703,Norfolk
+OH,5499,"Cincinnati, OH-KY-IN",SUP,201 Chamber Dr,45150-2516,Milford
+CA,5600,"Los Angeles-Long Beach-Anaheim, CA",WNM,30491 Avenida De Las Flores,92688-3923,Rancho Santa Margarita
+CA,5601,"Los Angeles-Long Beach-Anaheim, CA",WNM,21132 Beach Blvd,92648-5404,Huntington Beach
+CA,5602,"Los Angeles-Long Beach-Anaheim, CA",WNM,20226 Avalon Blvd,90746-0000,Carson
+CA,5603,"Los Angeles-Long Beach-Anaheim, CA",WNM,12270 Paramount Blvd,90242-3549,Downey
+CA,5604,"Los Angeles-Long Beach-Anaheim, CA",WNM,14441 Inglewood Ave,90250-6715,Hawthorne
+CA,5605,"Los Angeles-Long Beach-Anaheim, CA",WNM,14530 Nordhoff St,91402-1811,Panorama City
+CA,5610,"San Francisco-Oakland-Hayward, CA",WNM,9100 Alcosta Blvd,94583-3857,San Ramon
+CA,5611,"San Francisco-Oakland-Hayward, CA",WNM,3112 Santa Rita Rd,94566-8300,Pleasanton
+TX,5612,"Houston-The Woodlands-Sugar Land, TX",SUP,2391 S Wayside Dr,77023-0000,Houston
+TX,5613,"Dallas-Fort Worth-Arlington, TX",WNM,2121 N Collins St,76011-2878,Arlington
+TX,5614,"Dallas-Fort Worth-Arlington, TX",WNM,4904 Colleyville Blvd,76034-0000,Colleyville
+FL,5615,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,11800 Hialeah Gardens Blvd,33018-0000,Hialeah Gardens
+TN,5616,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,2421 Powell Ave,37204-4653,Nashville
+IL,5617,"Chicago-Naperville-Elgin, IL-IN-WI",SUP,4626 W Diversey Ave,60639-1829,Chicago
+FL,5622,"Tampa-St. Petersburg-Clearwater, FL",WNM,10863 Bloomingdale Ave,33578-3616,Riverview
+TX,5624,"Dallas-Fort Worth-Arlington, TX",WNM,13100 Josey Ln,75234-6351,FARMERS BRANCH
+AZ,5626,"Tucson, AZ",SUP,1260 E Tucson Marketplace Blvd,85713-0000,Tucson
+CA,5641,"Los Angeles-Long Beach-Anaheim, CA",SUP,1000 E Imperial Hwy,90631-7452,La Habra
+CA,5644,"Los Angeles-Long Beach-Anaheim, CA",SUP,16555 Von Karman Ave,92606-4928,IRVINE (N)
+FL,5654,"Tampa-St. Petersburg-Clearwater, FL",WNM,3671 W Hillsborough Ave,33614-0000,Tampa
+TX,5657,"Dallas-Fort Worth-Arlington, TX",WNM,3100 Custer Rd,75075-2060,Plano
+FL,5670,"Tampa-St. Petersburg-Clearwater, FL",WNM,2171 Gulf To Bay Blvd,33765-0000,Clearwater
+FL,5671,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,13600 Sw 288th St,33033-1905,Homestead
+TX,5672,"Dallas-Fort Worth-Arlington, TX",SUP,2662 W Lucas Rd,75002-0000,Lucas
+TX,5673,"Dallas-Fort Worth-Arlington, TX",SUP,8015 Woodbridge Pkwy,75048-0000,Sachse
+CA,5683,"Sacramento--Roseville--Arden-Arcade, CA",WNM,8455 Elk Grove Blvd,95758-9573,Elk Grove
+CA,5686,"Los Angeles-Long Beach-Anaheim, CA",SUP,1301 N Victory Pl,91502-1649,Burbank
+TX,5717,"El Paso, TX",SUP,7831 Paseo Del Norte Blvd,79912-8001,El Paso
+FL,5719,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,14720 Sw 26th St,33185-0000,Miami
+AZ,5725,"Tucson, AZ",WNM,831 E Fort Lowell Road,85719-0000,Tucson
+FL,5727,"North Port-Sarasota-Bradenton, FL",SUP,5810 Ranch Lake Blvd,34202-0000,Bradenton
+VA,5753,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,6303 Richmond Hwy,22306-6410,Alexandria
+FL,5758,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,3911 S Jog Rd,33467-1590,Greenacres
+FL,5759,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,6177 S Jog Rd,33467-6503,Lake Worth
+FL,5760,"Tampa-St. Petersburg-Clearwater, FL",WNM,1601 W Kennedy Blvd,33606-1844,Tampa
+UT,5763,"Salt Lake City, UT",SUP,3590 W South Jordan Pkwy,84095-8916,South Jordan
+IN,5767,"Indianapolis-Carmel-Anderson, IN",WNM,9354 Ambleside Dr,46038-0000,Fishers
+AZ,5768,"Phoenix-Mesa-Scottsdale, AZ",SUP,800 E Southern Ave,85282-5225,Tempe
+AZ,5799,"Tucson, AZ",SUP,2711 S Houghton Rd,85730-9006,Tucson
+CA,5807,"Los Angeles-Long Beach-Anaheim, CA",SUP,2100 N Long Beach Blvd,90221-1252,Compton
+TX,5810,"Dallas-Fort Worth-Arlington, TX",SUP,7075 W Wheatland Rd,75249-0000,Dallas
+GA,5814,"Atlanta-Sandy Springs-Roswell, GA",SUP,2200 Holly Springs Pkwy,30115-0000,Holly Springs
+GA,5815,"Atlanta-Sandy Springs-Roswell, GA",WNM,2909 Austell Rd Sw,30008-0000,Marietta
+TX,5823,"Dallas-Fort Worth-Arlington, TX",SUP,6185 Retail Rd,75231-7807,Dallas
+TX,5824,"Dallas-Fort Worth-Arlington, TX",WNM,1951 Military Pkwy,75149-0000,Mesquite
+FL,5826,"Tampa-St. Petersburg-Clearwater, FL",WNM,901 Lithia Pinecrest Rd,33511-6120,Brandon
+OH,5857,"Columbus, OH",SUP,50 E Schrock Rd,43081-2915,Westerville
+TX,5866,"Dallas-Fort Worth-Arlington, TX",SUP,8555 Preston Rd,75034-5606,Frisco
+NJ,5867,"New York-Newark-Jersey City, NY-NJ-PA",SUP,500 Bayonne Crossing Way,07002-5305,Bayonne
+FL,5871,"Orlando-Kissimmee-Sanford, FL",SUP,5734 S Orange Blossom Trl,32839-0000,Orlando
+FL,5876,"Tampa-St. Petersburg-Clearwater, FL",WNM,2102 Main St,34698-5604,Dunedin
+NC,5879,"Charlotte-Concord-Gastonia, NC-SC",SUP,11145 Bryton Town Center Dr,28078-7215,Huntersville
+VA,5880,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,11181 Lee Hwy,22030-5004,Fairfax
+FL,5882,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,2765 10th Ave N,33461-3192,Palm Springs
+CA,5884,"San Jose-Sunnyvale-Santa Clara, CA",SUP,5095 Almaden Expy,95118-2051,San Jose
+TX,5889,"Dallas-Fort Worth-Arlington, TX",SUP,9410 Webb Chapel Rd,75220-0000,Dallas
+FL,5894,"Orlando-Kissimmee-Sanford, FL",SUP,5511 Deep Lake Rd,32765-0000,Oviedo
+FL,5911,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,3625 S Federal Hwy,33435-8656,Boynton Beach
+FL,5912,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,21151 S Dixie Hwy,33189-0000,Miami
+VA,5922,"Virginia Beach-Norfolk-Newport News, VA-NC",SUP,546 First Colonial Rd,23451-0000,Virginia Beach
+MO,5927,"St. Louis, MO-IL",SUP,3390 N Highway 67,63033-1605,Florissant
+CA,5930,"Los Angeles-Long Beach-Anaheim, CA",SUP,88 E Orangethorpe Ave,92801-1206,Anaheim
+FL,5932,"Miami-Fort Lauderdale-West Palm Beach, FL",SUP,12800 Pines Blvd,33027-1708,Pembroke Pines
+FL,5945,"Miami-Fort Lauderdale-West Palm Beach, FL",WNM,400 W 49th St,33012-3603,Hialeah
+TX,5947,"El Paso, TX",SUP,5631 Dyer St,79904-6204,El Paso
+CA,5954,"Los Angeles-Long Beach-Anaheim, CA",SUP,2753 E Eastland Center Dr Ste 5555,91791-0000,West Covina
+CO,5957,"Denver-Aurora-Lakewood, CO",SUP,5957 W 44th Ave,80212-7410,Denver
+TX,5959,"Houston-The Woodlands-Sugar Land, TX",SUP,111 Yale St,77007-3730,Houston
+FL,5964,"Tampa-St. Petersburg-Clearwater, FL",SUP,1720 E Hillsborough Ave,33610-0000,Tampa
+DC,5968,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,5929 Georgia Ave Nw,20011-0000,Washington
+VA,5969,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SUP,4368 Chantilly Shopping Center Dr,20151-4016,Chantilly
+CA,5980,"Sacramento--Roseville--Arden-Arcade, CA",WNM,4080 Douglas Blvd,95746-5900,Granite Bay
+CA,5981,"Sacramento--Roseville--Arden-Arcade, CA",WNM,6005 Madison Ave,95608-0521,Carmichael
+CA,5982,"Sacramento--Roseville--Arden-Arcade, CA",WNM,2700 Marconi Ave,95821-4914,Sacramento
+FL,5988,"Orlando-Kissimmee-Sanford, FL",WNM,2271 N Semoran Blvd,32807-0000,ORLANDO (BALDWIN)
+OK,6170,"Tulsa, OK",WNM,3139 S Harvard Ave E,74135-0000,Tulsa
+KS,6172,"Kansas City, MO-KS",WNM,2300 Metropolitan Avenue,66106-0000,Kansas City
+CO,6178,"Denver-Aurora-Lakewood, CO",WNM,10400 E Colfax Ave,80010-0000,Aurora
+TX,6300,"Dallas-Fort Worth-Arlington, TX",SUP,500 Richland Blvd,75078-0000,Prosper
+AZ,6477,"Phoenix-Mesa-Scottsdale, AZ",SUP,9600 N Metro Pkwy W,85051-1402,Phoenix
+AZ,6480,"Phoenix-Mesa-Scottsdale, AZ",SUP,3460 W Chandler Blvd,85226-0000,Chandler
+MO,6500,"Kansas City, MO-KS",WNM,3411 S Noland Rd,64055-0000,Independence
+FL,6548,"Tampa-St. Petersburg-Clearwater, FL",WNM,4525 Gunn Hwy,33624-0000,Tampa
+TN,6807,"Memphis, TN-MS-AR",SUP,6727 Raleigh Lagrange Rd,38133-0000,Memphis
+FL,6894,"Orlando-Kissimmee-Sanford, FL",WNM,820 Balmy Beach Dr,32703-0000,Apopka
+KY,6931,"Louisville-Jefferson County, KY-IN",SUP,4840 Outer Loop,40219-0000,Louisville
+MS,6964,"Memphis, TN-MS-AR",SUP,4150 Goodman Road West,38637-0000,Horn Lake
+FL,6978,"Jacksonville, FL",SUP,7075 Collins Rd,32244-5041,Jacksonville
+TN,7020,"Nashville-Davidson--Murfreesboro--Franklin, TN",SUP,5511 Murfreesboro Rd,37086-0000,La Vergne
+VA,7032,"Richmond, VA",SUP,5001 Nine Mile Rd,23223-5732,Henrico
+VA,7174,"Richmond, VA",WNM,5700 Hopkins Rd,23234-0000,North Chesterfield
+GA,7185,"Atlanta-Sandy Springs-Roswell, GA",SUP,3655 Browns Bridge Rd,30028-0000,Cumming
+LA,7262,"Baton Rouge, LA",WNM,11550 Coursey Blvd,70816-0000,Baton Rouge
+KY,7290,"Louisville-Jefferson County, KY-IN",SUP,6501 Veterans Memorial Pkwy,40014-0000,Crestwood
+OK,7294,"Oklahoma City, OK",SUP,3651 Classen Blvd,73071-0000,Norman
+FL,7307,"North Port-Sarasota-Bradenton, FL",WNM,4536 53rd Ave E,34203-0000,Bradenton
+OK,7326,"Oklahoma City, OK",SUP,3301 Sw 104th St,73159-0000,Oklahoma City
+TX,7347,"Dallas-Fort Worth-Arlington, TX",WNM,720 W Pipeline Rd,76053-0000,Hurst
+TX,7357,"Houston-The Woodlands-Sugar Land, TX",WNM,8208 Barker Cypress Rd,77433-0000,Cypress
+TX,7361,"Houston-The Woodlands-Sugar Land, TX",WNM,12631 Broadway Street,77584-0000,Pearland
+NY,8331,"New York-Newark-Jersey City, NY-NJ-PA",SUP,901 Boulevard East,11980,Yaphank
+TX,8930,"Dallas-Fort Worth-Arlington, TX",SUP,15757 Coit Rd,75248-4467,Dallas

@@ -1,0 +1,324 @@
+DC Number,DC Network,DC Hours,Will Gates be OPEN?,Live or Drops Appointments
+8092,Claims,Normal hours,OPEN,Live and drops
+8677,Claims,Normal hours,OPEN,Live and drops
+9153,Claims,Normal hours,OPEN,Live and drops
+9193,Claims,Normal hours,OPEN,Live and drops
+9195,Claims,Normal hours,OPEN,Live and drops
+9196,Claims,Normal hours,OPEN,Live and drops
+4121,CP Ambient,Close @15:00PM,"Yes, 24/7",Both
+6909,CP Ambient,24 hrs ,"Yes, 24/7",Both
+7100,CP Ambient,Close @ 23:00PM,"Yes, 24/7",Both
+7101,CP Ambient,Close @ 23:00PM,"Yes, 24/7",Both
+7183,CP Ambient,24hrs,"Yes, 24/7",Both
+7184,CP Ambient,24hrs,"Yes, 24/7",Both
+7840,CP Ambient,Close @23:00PM,"Yes, 24/7",Both
+7976,CP Ambient,24hrs,"Yes, 24/7",Both
+8767 (2301),CP Perishable,Inbound only(12a-8a),OPEN,Live and drops
+9652 (3109),CP Perishable,Normal hours,OPEN,Live and drops
+3699 (9173),CP Perishable,Normal hours,OPEN,Live and drops
+4867 (9314),CP Perishable,Normal hours,OPEN,Drops Only
+9604 (7688),CP Perishable,Normal hours,OPEN,Live and drops
+6907 (7095),CP Perishable,Normal hours,OPEN,Live and drops
+6956,CP Perishable,Normal hours,OPEN,Live and drops
+6974,CP Perishable,Normal hours,OPEN,Live and drops
+3006,DOTCOM,Normal hours,OPEN,Live and drops
+2217,DOTCOM,Normal hours,OPEN,Live and drops
+3108,DOTCOM,Normal hours,OPEN,Live and drops
+3859,DOTCOM,Normal hours,OPEN,Live and drops
+3865,DOTCOM,Normal hours,OPEN,Live and drops
+3967,DOTCOM,Normal hours,OPEN,Live and drops
+4013,DOTCOM,Normal hours,OPEN,Live and drops
+4027,DOTCOM,Normal hours,OPEN,Live and drops
+4034,DOTCOM,Normal hours,OPEN,Live and drops
+6086,DOTCOM,Normal hours,OPEN,Live and drops
+6280,DOTCOM,Normal hours,OPEN,Live and drops
+6833,DOTCOM,Normal hours,OPEN,Live and drops
+6955,DOTCOM,Normal hours,OPEN,Live and drops
+7005,DOTCOM,Normal hours,OPEN,Live and drops
+7049,DOTCOM,Normal hours,OPEN,Live and drops
+7356,DOTCOM,Normal hours,OPEN,Live and drops
+7422,DOTCOM,Normal hours,OPEN,Live and drops
+7767,DOTCOM,Normal hours,OPEN,Live and drops
+7853,DOTCOM,Normal hours,OPEN,Live and drops
+8103,DOTCOM,Normal hours,OPEN,Live and drops
+8240,DOTCOM,Normal hours,OPEN,Live and drops
+8905,DOTCOM,Normal hours,OPEN,Live and drops
+6005,Fashion,Normal,Yes,Both
+6014,Fashion,Normal,Yes,Both
+6022,Fashion,Normal,Yes,Both
+6029,Fashion,Normal,Yes,Both
+6041,Fashion,Normal,Yes,Both
+7842,Fashion,Normal,Yes,Live unloads only
+4020,GDC,Normal,Yes,Both
+4047,GDC,Normal,Yes,Both
+4154,GDC,Normal,Yes,Both
+6042,GDC,Normal,Yes,Both
+6047,GDC,Normal,Yes,Both
+6055,GDC,Normal,Yes,Both
+6056,GDC,Normal,Yes,Both
+6057,GDC,Normal,Yes,Both
+6059,GDC,Normal,Yes,Both
+6062,GDC,Normal,Yes,Both
+6064,GDC,Normal,Yes,Both
+6065,GDC,Normal,Yes,Both
+6071,GDC,Normal,Yes,Both
+6072,GDC,Normal,Yes,Both
+6073,GDC,Normal,Yes,Both
+6074,GDC,Normal,Yes,Both
+6077,GDC,Normal,Yes,Both
+6082,GDC,Normal,Yes,Both
+6083,GDC,Normal,Yes,Both
+6084,GDC,Normal,Yes,Both
+6085,GDC,Normal,Yes,Both
+6090,GDC,Normal,Yes,Both
+6091,GDC,Normal,Yes,Both
+6095,GDC,Normal,Yes,Both
+6096,GDC,Normal,Yes,Both
+6097,GDC,Normal,Yes,Both
+6099,GDC,Normal,Yes,Both
+6858,GDC,Normal,Yes,Both
+7010,GDC,Normal,Yes,Both
+7012,GDC,Normal,Yes,Both
+7013,GDC,Normal,Yes,Both
+7014,GDC,Normal,Yes,Both
+7015,GDC,Normal,Yes,Both
+7016,GDC,Normal,Yes,Both
+7017,GDC,Normal,Yes,Both
+7018,GDC,Normal,Yes,Both
+7019,GDC,Normal,Yes,Both
+7021,GDC,Normal,Yes,Both
+7023,GDC,Normal,Yes,Both
+7024,GDC,Normal,Yes,Both
+7030,GDC,Normal,Yes,Both
+7047,GDC,Normal,Yes,Both
+7048,GDC,Normal,Yes,Both
+7055,GDC,Normal,Yes,Both
+7077,GDC,Normal,Yes,Both
+7079,GDC,Normal,Yes,Both
+7084,GDC,Normal,Yes,Both
+7575,GDC,Normal,Yes,Both
+8348,GDC,Normal,Yes,Both
+8397,GDC,Normal,Yes,Both
+8851,GDC,Normal,Yes,Both
+8852,GDC,Normal,Yes,Both
+3010,GDC,Normal,Yes,Both
+6561,ACC - Colton CA,Close @ 23:00PM,"Yes, 24/7",Both
+6938,ACC - Desoto TX,24hrs,"Yes, 24/7",Both
+7377,ACC - Lebanon PA,Open 05:00-13:30,"Yes, 24/7",Both
+7085,IDC,Normal,yes,Both
+7092,IDC,Normal,yes,Both
+7093,IDC,Normal,yes,Both
+7094,IDC,Normal,yes,Both
+9631,IDC-Ambient Grocery,Normal,yes,Both
+6060,Import,Normal,yes,Both
+6061,Import,Normal,yes,Both
+6088,Import,Normal,yes,Both
+7042,Import,Normal,yes,Both
+7067,Import,Normal,yes,Both
+7078,Import,Normal,yes,Both
+7086,Import,Normal,yes,Both
+9652,Import,Normal,yes,Both
+8980,Import,Normal,yes,Both
+8866/6130,Jewelry Size & Repair,Normal,Yes,Live unloads only
+6003,Jewelry/Electronics,Normal,Yes,Both
+100,OB eCommerce,Normal hours,OPEN,Live and drops
+6052,OB eCommerce,Normal hours,OPEN,Live and drops
+7827,OB eCommerce,Normal hours,OPEN,Live and drops
+8074,OB eCommerce,Normal hours,OPEN,Live and drops
+25563860,OB eCommerce,Normal hours,OPEN,Live and drops
+25563881,OB eCommerce,Normal hours,OPEN,Live and drops
+25563889,OB eCommerce,Normal hours,OPEN,Live and drops
+25563890,OB eCommerce,Normal hours,OPEN,Live and drops
+25563891,OB eCommerce,Normal hours,OPEN,Live and drops
+25563892,OB eCommerce,Normal hours,OPEN,Live and drops
+25563893,OB eCommerce,Normal hours,OPEN,Live and drops
+25563896,OB eCommerce,Normal hours,OPEN,Live and drops
+25563897,OB eCommerce,Normal hours,OPEN,Live and drops
+25563898,OB eCommerce,Normal hours,OPEN,Live and drops
+25563899,OB eCommerce,Normal hours,OPEN,Live and drops
+41335602,OB eCommerce,Normal hours,OPEN,Live and drops
+41335613,OB eCommerce,Normal hours,OPEN,Live and drops
+41335614,OB eCommerce,Normal hours,OPEN,Live and drops
+41335615,OB eCommerce,Normal hours,OPEN,Live and drops
+41335616,OB eCommerce,Normal hours,OPEN,Live and drops
+41335617,OB eCommerce,Normal hours,OPEN,Live and drops
+41335619,OB eCommerce,Normal hours,OPEN,Live and drops
+41335620,OB eCommerce,Normal hours,OPEN,Live and drops
+41335623,OB eCommerce,Normal hours,OPEN,Live and drops
+41335624,OB eCommerce,Normal hours,OPEN,Live and drops
+41335625,OB eCommerce,Normal hours,OPEN,Live and drops
+41335626,OB eCommerce,Normal hours,OPEN,Live and drops
+41335627,OB eCommerce,Normal hours,OPEN,Live and drops
+41335628,OB eCommerce,Normal hours,OPEN,Live and drops
+41335629,OB eCommerce,Normal hours,OPEN,Live and drops
+41335630,OB eCommerce,Normal hours,OPEN,Live and drops
+41335633,OB eCommerce,Normal hours,OPEN,Live and drops
+60467300,OB eCommerce,Normal hours,OPEN,Live and drops
+60552200,OB eCommerce,Normal hours,OPEN,Live and drops
+60552238,OB eCommerce,Normal hours,OPEN,Live and drops
+60552253,OB eCommerce,Normal hours,OPEN,Live and drops
+60552254,OB eCommerce,Normal hours,OPEN,Live and drops
+63135803,OB eCommerce,Normal hours,OPEN,Live and drops
+63634500,OB eCommerce,Normal hours,OPEN,Live and drops
+64813901,OB eCommerce,Normal hours,OPEN,Live and drops
+64938100,OB eCommerce,Normal hours,OPEN,Live and drops
+64938103,OB eCommerce,Normal hours,OPEN,Live and drops
+65210702,OB eCommerce,Normal hours,OPEN,Live and drops
+65210703,OB eCommerce,Normal hours,OPEN,Live and drops
+65210704,OB eCommerce,Normal hours,OPEN,Live and drops
+65210705,OB eCommerce,Normal hours,OPEN,Live and drops
+65210706,OB eCommerce,Normal hours,OPEN,Live and drops
+65210709,OB eCommerce,Normal hours,OPEN,Live and drops
+65210710,OB eCommerce,Normal hours,OPEN,Live and drops
+65210713,OB eCommerce,Normal hours,OPEN,Live and drops
+65210718,OB eCommerce,Normal hours,OPEN,Live and drops
+65210719,OB eCommerce,Normal hours,OPEN,Live and drops
+65210723,OB eCommerce,Normal hours,OPEN,Live and drops
+65210724,OB eCommerce,Normal hours,OPEN,Live and drops
+65210725,OB eCommerce,Normal hours,OPEN,Live and drops
+65210726,OB eCommerce,Normal hours,OPEN,Live and drops
+65210727,OB eCommerce,Normal hours,OPEN,Live and drops
+65210728,OB eCommerce,Normal hours,OPEN,Live and drops
+65210729,OB eCommerce,Normal hours,OPEN,Live and drops
+65210734,OB eCommerce,Normal hours,OPEN,Live and drops
+65210735,OB eCommerce,Normal hours,OPEN,Live and drops
+65210737,OB eCommerce,Normal hours,OPEN,Live and drops
+65210752,OB eCommerce,Normal hours,OPEN,Live and drops
+65210753,OB eCommerce,Normal hours,OPEN,Live and drops
+65210754,OB eCommerce,Normal hours,OPEN,Live and drops
+65210759,OB eCommerce,Normal hours,OPEN,Live and drops
+65210760,OB eCommerce,Normal hours,OPEN,Live and drops
+65210761,OB eCommerce,Normal hours,OPEN,Live and drops
+65210768,OB eCommerce,Normal hours,OPEN,Live and drops
+65210769,OB eCommerce,Normal hours,OPEN,Live and drops
+65210771,OB eCommerce,Normal hours,OPEN,Live and drops
+65210772,OB eCommerce,Normal hours,OPEN,Live and drops
+65210775,OB eCommerce,Normal hours,OPEN,Live and drops
+65210776,OB eCommerce,Normal hours,OPEN,Live and drops
+65210777,OB eCommerce,Normal hours,OPEN,Live and drops
+65210779,OB eCommerce,Normal hours,OPEN,Live and drops
+65210783,OB eCommerce,Normal hours,OPEN,Live and drops
+65210787,OB eCommerce,Normal hours,OPEN,Live and drops
+65210789,OB eCommerce,Normal hours,OPEN,Live and drops
+65210790,OB eCommerce,Normal hours,OPEN,Live and drops
+68661100,OB eCommerce,Normal hours,OPEN,Live and drops
+69112404,OB eCommerce,Normal hours,OPEN,Live and drops
+69112405,OB eCommerce,Normal hours,OPEN,Live and drops
+69112406,OB eCommerce,Normal hours,OPEN,Live and drops
+69112407,OB eCommerce,Normal hours,OPEN,Live and drops
+69112408,OB eCommerce,Normal hours,OPEN,Live and drops
+69112409,OB eCommerce,Normal hours,OPEN,Live and drops
+69112410,OB eCommerce,Normal hours,OPEN,Live and drops
+69112411,OB eCommerce,Normal hours,OPEN,Live and drops
+69112412,OB eCommerce,Normal hours,OPEN,Live and drops
+69112413,OB eCommerce,Normal hours,OPEN,Live and drops
+69112414,OB eCommerce,Normal hours,OPEN,Live and drops
+69112415,OB eCommerce,Normal hours,OPEN,Live and drops
+69112416,OB eCommerce,Normal hours,OPEN,Live and drops
+69112417,OB eCommerce,Normal hours,OPEN,Live and drops
+69112418,OB eCommerce,Normal hours,OPEN,Live and drops
+69112419,OB eCommerce,Normal hours,OPEN,Live and drops
+69112425,OB eCommerce,Normal hours,OPEN,Live and drops
+69112426,OB eCommerce,Normal hours,OPEN,Live and drops
+69116507,OB eCommerce,Normal hours,OPEN,Live and drops
+69348609,OB eCommerce,Normal hours,OPEN,Live and drops
+70333308,OB eCommerce,Normal hours,OPEN,Live and drops
+70333309,OB eCommerce,Normal hours,OPEN,Live and drops
+70333311,OB eCommerce,Normal hours,OPEN,Live and drops
+70333316,OB eCommerce,Normal hours,OPEN,Live and drops
+71667500,OB eCommerce,Normal hours,OPEN,Live and drops
+71845500,OB eCommerce,Normal hours,OPEN,Live and drops
+74705500,OB eCommerce,Normal hours,OPEN,Live and drops
+74709200,OB eCommerce,Normal hours,OPEN,Live and drops
+78101319,OB eCommerce,Normal hours,OPEN,Live and drops
+7054,Optical,Normal,Yes,Live unloads only
+6001,Pharmacy,Normal,Yes,Live unloads only
+6013,Pharmacy,Normal,Yes,Live unloads only
+6028,Pharmacy,Normal,Yes,Live unloads only
+6032,Pharmacy,Normal,Yes,Live unloads only
+6046,Pharmacy,Normal,Yes,Live unloads only
+HOU,PORT,Normal,Yes,Live and drops
+SC,PORT,Normal,Yes,Live and drops
+VA,PORT,Normal,Yes,Live and drops
+MOBILE,PORT,Normal,Yes,Live and drops
+SoCAL,PORT,Normal,Yes,Live and drops
+PNW,PORT,Normal,Yes,Live and drops
+GA,PORT,Normal,Yes,Live and drops
+8600,Print Solutions,Normal,Yes,Both
+6087,Puerto Rico,Normal,Yes,Both
+6003,RDC,Normal,Yes,Both
+6006,RDC,Normal,Yes,Both
+6009,RDC,Normal,yes,Both
+6010,RDC,Normal,yes,Both
+6011,RDC,Normal,yes,Both
+6012,RDC,Normal,yes,Both
+6016,RDC,Normal,yes,Both
+6017,RDC,Normal,yes,Both
+6018,RDC,Normal,yes,Both
+6019,RDC,Normal,yes,Both
+6020,RDC,Normal,yes,Both
+6021,RDC,Normal,yes,Both
+6023,RDC,Normal,yes,Both
+6024,RDC,Normal,yes,Both
+6025,RDC,Normal,yes,Both
+6026,RDC,Normal,yes,Both
+6027,RDC,Normal,yes,Both
+6030,RDC,Normal,yes,Both
+6031,RDC,Normal,yes,Both
+6035,RDC,Normal,yes,Both
+6036,RDC,Normal,yes,Both
+6037,RDC,Normal,yes,Both
+6038,RDC,Normal,yes,Both
+6039,RDC,Normal,yes,Both
+6040,RDC,Normal,yes,Both
+6043,RDC,Normal,yes,Both
+6048,RDC,Normal,yes,Both
+6054,RDC,Normal,yes,Both
+6066,RDC,Normal,yes,Both
+6068,RDC,Normal,yes,Both
+6069,RDC,Normal,yes,Both
+6070,RDC,Normal,yes,Both
+6080,RDC,Normal,yes,Both
+6089,RDC,Normal,yes,Both
+6092,RDC,Normal,yes,Both
+6094,RDC,Normal,yes,Both
+7026,RDC,Normal,yes,Both
+7033,RDC,Normal,yes,Both
+7034,RDC,Normal,yes,Both
+7035,RDC,Normal,yes,Both
+7036,RDC,Normal,yes,Both
+7038,RDC,Normal,yes,Both
+7039,RDC,Normal,yes,Both
+7045,RDC,Normal,yes,Both
+9902,RDC,Normal,yes,Both
+2364,RDC,Normal,yes,Both
+4792,SDC,Normal hours,OPEN,Live and drops
+4889,SDC,Normal hours,OPEN,Live and drops
+6492,SDC,Normal hours,OPEN,Live and drops
+6493,SDC,Normal hours,OPEN,Live and drops
+6494,SDC,Normal hours,OPEN,Live and drops
+6496,SDC,Normal hours,OPEN,Live and drops
+6499,SDC,Normal hours,OPEN,Live and drops
+6698,SDC,Normal hours,OPEN,Live and drops
+6699,SDC,Normal hours,OPEN,Live and drops
+6914,SDC,Normal hours,OPEN,Live and drops
+8206,SDC,Normal hours,OPEN,Live and drops
+8229,SDC,Normal hours,OPEN,Live and drops
+8231,SDC,Normal hours,OPEN,Live and drops
+8232,SDC,Normal hours,OPEN,Live and drops
+8234,SDC,Normal hours,OPEN,Live and drops
+8235,SDC,Normal hours,OPEN,Live and drops
+8307,SDC,Normal hours,OPEN,Live and drops
+6299,SDC,Normal hours,OPEN,Live and drops
+6596,SDC,Normal hours,OPEN,Live and drops
+7031,Specialty DOTCOM,Normal hours,OPEN,Live and drops
+9200,Specialty DOTCOM,Normal hours,OPEN,Live and drops
+9201,Specialty DOTCOM,Normal hours,OPEN,Live and drops
+9202,Specialty DOTCOM,Normal hours,OPEN,Live and drops
+9204,Specialty DOTCOM,Normal hours,OPEN,Live and drops
+9610,Specialty DOTCOM,Normal hours,OPEN,Live and drops
+T18,Terminal,Normal hours,OPEN,OPEN
+T30,Terminal,Normal hours,OPEN,OPEN
+T5,Terminal,Normal hours,OPEN,OPEN
+WUT,Terminal,Normal hours,OPEN,OPEN
+Husky,Terminal,Normal hours,OPEN,OPEN

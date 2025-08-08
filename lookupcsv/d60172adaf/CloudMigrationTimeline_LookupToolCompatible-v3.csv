@@ -1,0 +1,100 @@
+Site Path,site path,Batch,UAT Start Date,UAT Finalization Date,Go-Live Date
+uswire,/content/uswire,WIRE Sites,August 25th,September 11th,September 17th
+sams_wire,/content/sams_wire,WIRE Sites,August 25th,September 11th,September 17th
+canada,/content/canada,WIRE Sites,August 25th,September 11th,September 17th
+next-gen,/content/next-gen,Internal Sites Batch 1,September 17th,September 25th,October 1st
+me-at-samsclub,/content/me-at-samsclub,Internal Sites Batch 1,September 17th,September 25th,October 1st
+sams-merchandising-china,/content/sams-merchandising-china,Internal Sites Batch 1,September 17th,September 25th,October 1st
+walmart-marketing,/content/walmart-marketing,Internal Sites Batch 1,September 17th,September 25th,October 1st
+channel-enablement,/content/channel-enablement,Internal Sites Batch 1,September 17th,September 25th,October 1st
+regional-service-mmgt,/content/regional-service-management-latam,Internal Sites Batch 1,September 17th,September 25th,October 1st
+mexico/es_mx,/content/mexico/es_mx,Internal Sites Batch 1,September 17th,September 25th,October 1st
+wmcustomersparkcommunity,/content/walmart_customer_spark_community,Internal Sites Batch 2,October 8th,October 16th,October 21st
+passport,/content/passport,Internal Sites Batch 2,October 8th,October 16th,October 21st
+china-gbs,/content/china-gbs,Internal Sites Batch 2,October 8th,October 16th,October 21st
+cn-sam-s-operation,/content/cn-sam-s-operation,Internal Sites Batch 2,October 8th,October 16th,October 21st
+sam-s-club-finance,/content/sam-s-club-finance,Internal Sites Batch 2,October 8th,October 16th,October 21st
+psdataserviceTranssupport,/content/psdataservices_transactionsupport,Internal Sites Batch 2,October 8th,October 16th,October 21st
+digital-acceleration,/content/digital-acceleration,Internal Sites Batch 2,October 8th,October 16th,October 21st
+experiencia-digital,/content/experiencia-digital,Internal Sites Batch 3,October 22nd,October 30th,November 5th
+people-experience,/content/people-experience,Internal Sites Batch 3,October 22nd,October 30th,November 5th
+supply-gateway,/content/supply-gateway,Internal Sites Batch 3,October 22nd,October 30th,November 5th
+sp4rkcon,/content/sp4rkcon,Internal Sites Batch 3,October 22nd,October 30th,November 5th
+global-mobility2,/content/global-mobility2,Internal Sites Batch 3,October 22nd,October 30th,November 5th
+culture-diversity-inclusion,/content/culture-diversity-inclusion,Internal Sites Batch 3,October 22nd,October 30th,November 5th
+corporate-affairs,/content/corporate-affairs,Internal Sites Batch 3,October 22nd,October 30th,November 5th
+merchportal,/content/merchportal,Internal Sites Batch 4,November 5th,November 14th,December 3rd
+china-ism,/content/china-ism,Internal Sites Batch 4,November 5th,November 14th,December 3rd
+realty,/content/realty,Internal Sites Batch 4,November 5th,November 14th,December 3rd
+360AssessResourceOverview,/content/360-assessment-resources-and-overview,Internal Sites Batch 4,November 5th,November 14th,December 3rd
+conversation_ally,/content/conversation_ally,Internal Sites Batch 4,November 5th,November 14th,December 3rd
+simplification,/content/simplification,Internal Sites Batch 4,November 5th,November 14th,December 3rd
+uswiresites,/content/uswiresites,Internal Sites Batch 5,November 19th,December 3rd,December 10th
+walmart-media-group,/content/walmart-media-group,Internal Sites Batch 5,November 19th,December 3rd,December 10th
+corporate-functions-ppl,/content/corporate-functions-people-team,Internal Sites Batch 5,November 19th,December 3rd,December 10th
+data-science,/content/data-science,Internal Sites Batch 5,November 19th,December 3rd,December 10th
+icccs,/content/icccs,Internal Sites Batch 5,November 19th,December 3rd,December 10th
+internal-global-audit,/content/internal-global-audit,Internal Sites Batch 5,November 19th,December 3rd,December 10th
+finance-hub,/content/finance-hub,Internal Sites Batch 5,November 19th,December 3rd,December 10th
+esmiwalmart/homemx,/content/esmiwalmart/homemx,Internal Sites Batch 6,December 3rd,December 11th,December 17th
+process-guides,/content/process-guides,Internal Sites Batch 6,December 3rd,December 11th,December 17th
+gghub,/content/gghub,Internal Sites Batch 6,December 3rd,December 11th,December 17th
+ebs-pmo,/content/ebs-pmo,Internal Sites Batch 6,December 3rd,December 11th,December 17th
+eoccm,/content/eoccm,Internal Sites Batch 6,December 3rd,December 11th,December 17th
+academy-support,/content/academy-support,Internal Sites Batch 6,December 3rd,December 11th,December 17th
+global-investigations,/content/global-investigations,Internal Sites Batch 6,December 3rd,December 11th,December 17th
+mx,/content/mx,Internal Sites Batch 7,December 17th,January 7th,January 13th
+global-tech-academy,/content/global-tech-academy,Internal Sites Batch 7,December 17th,January 7th,January 13th
+iod,/content/iod,Internal Sites Batch 7,December 17th,January 7th,January 13th
+sams-product-hub,/content/sams-product-hub,Internal Sites Batch 7,December 17th,January 7th,January 13th
+risk-management,/content/risk-management,Internal Sites Batch 7,December 17th,January 7th,January 13th
+people0,/content/people0,Internal Sites Batch 7,December 17th,January 7th,January 13th
+me-idc,/content/me-idc,Internal Sites Batch 8,January 6th,January 15th,January 18th
+securityStandardsEnfMNT,/content/security-standards-enforcement,Internal Sites Batch 8,January 6th,January 15th,January 18th
+product-organization,/content/product-organization,Internal Sites Batch 8,January 6th,January 15th,January 18th
+LearningandDevelopment,/content/LearningandDevelopment,Internal Sites Batch 8,January 6th,January 15th,January 18th
+badgeaccesssupport,/content/badgeaccesssupport,Internal Sites Batch 8,January 6th,January 15th,January 18th
+gbs-totalrewards,/content/gbs-totalrewards,Internal Sites Batch 8,January 6th,January 15th,January 18th
+ade,/content/ade,Internal Sites Batch 8,January 6th,January 15th,January 18th
+cuenta-cashi,/content/cuenta-cashi,Public Sites,January 12th,January 22nd,January 28th
+chile,/content/chile,Public Sites,January 12th,January 22nd,January 28th
+caone,/content/caone,Public Sites,January 12th,January 22nd,January 28th
+mi-lugar,/content/mi-lugar,Public Sites,January 12th,January 22nd,January 28th
+wholehealth,/content/wholehealth,Public Sites,January 12th,January 22nd,January 28th
+converge,/content/converge,Public Sites,January 12th,January 22nd,January 28th
+WalmartContentQuality,/content/WalmartContentQuality,Public Sites,January 12th,January 22nd,January 28th
+walmart-sigue-para-ti,/content/walmart-sigue-para-ti,Public Sites,January 12th,January 22nd,January 28th
+walmart-global-tech,/content/walmart-global-tech,Public Sites,January 12th,January 22nd,January 28th
+cnwalmartone,/content/cnwalmartone,Public Sites,January 12th,January 22nd,January 28th
+workday-down,/content/workday-down,Public Sites,January 12th,January 22nd,January 28th
+esmiwalmart/es_us,/content/esmiwalmart/es_us,Public Sites,January 12th,January 22nd,January 28th
+global-people,/content/global-people,Public Sites,January 12th,January 22nd,January 28th
+walmartlaborconditionapp,/content/walmart-labor-condition-applications,Public Sites,January 12th,January 22nd,January 28th
+walmart-health-centers,/content/walmart-health-centers,Public Sites,January 12th,January 22nd,January 28th
+supply-chain-security,/content/supply-chain-security,Public Sites,January 12th,January 22nd,January 28th
+cam,/content/cam,Public Sites,January 12th,January 22nd,January 28th
+ma-360,/content/ma-360,Public Sites,January 12th,January 22nd,January 28th
+future-ways-of-working,/content/future-ways-of-working,Public Sites,January 12th,January 22nd,January 28th
+trio,/content/trio,Public Sites,January 12th,January 22nd,January 28th
+responsiblesourcing,/content/responsiblesourcing,Public Sites,January 12th,January 22nd,January 28th
+adoption-awareness,/content/adoption-awareness,Public Sites,January 12th,January 22nd,January 28th
+LD/immersive/gen-ai,/content/LearningandDevelopment/immersive/generative-ai,Public Sites,January 12th,January 22nd,January 28th
+people-experience,/content/people-experience,Public Sites,January 12th,January 22nd,January 28th
+food-safety,/content/food-safety,Public Sites,January 12th,January 22nd,January 28th
+wal-paper,/content/wal-paper,Public Sites,January 12th,January 22nd,January 28th
+wmg,/content/wmg,Public Sites,January 12th,January 22nd,January 28th
+associate,/content/associate,Public Sites,January 12th,January 22nd,January 28th
+payullup-poc,/content/payullup-poc,Public Sites,January 12th,January 22nd,January 28th
+walmart-commerce-tech,/content/walmart-commerce-tech,Public Sites,January 12th,January 22nd,January 28th
+facilities-management,/content/facilities-management,Public Sites,January 12th,January 22nd,January 28th
+wm-uctech-catalog,/content/wm-uctech-catalog,Public Sites,January 12th,January 22nd,January 28th
+me-campus,/content/me-campus,Public Sites,January 12th,January 22nd,January 28th
+store-communications,/content/store-communications,Public Sites,January 12th,January 22nd,January 28th
+wp,/content/wp,Public Sites,January 12th,January 22nd,January 28th
+data-ventures,/content/data-ventures,B2B Sites,February 2nd,February 12th,February 18th
+sams-club-map,/content/sams-club-map,B2B Sites,February 2nd,February 12th,February 18th
+sparkdriverapp,/content/sparkdriverapp,B2B Sites,February 2nd,February 12th,February 18th
+members-access-platform,/content/members-access-platform,B2B Sites,February 2nd,February 12th,February 18th
+walmartdataventures,/content/walmartdataventures,B2B Sites,February 2nd,February 12th,February 18th
+go-local,/content/go-local,B2B Sites,February 2nd,February 12th,February 18th
+b2b,/content/b2b,B2B Sites,February 2nd,February 12th,February 18th

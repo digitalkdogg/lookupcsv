@@ -1,0 +1,487 @@
+DC Number,Type,Date,Application,Summary,Status,Cell,CRQ
+2364,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell010, Cell011",CHG3358524
+2364,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+2364,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+2364,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+2364,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell010, Cell011",CHG3358494
+2971,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+2971,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+2971,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell010, Cell011",CHG3358494
+2971,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+2971,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+3,Enhancement,7/23/2025,Shore,New version of Shore Install,Deployed,Cell003,CHG3269841
+3,Enhancement,7/23/2025,Shore,New version of Shore Install,Deployed,Cell003,CHG3269841
+3010,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+3010,Enhancement,7/24/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Planned,Cell012,CHG3339095
+3010,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+3010,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes,Deployed,Cell012,CHG3353974
+3010,Enhancement,7/22/2025,ICQA,ICQA (Slotting & Profiling) UI Pilot : Pallet Rounding Fix,Deployed,Cell012,CHG3338786
+3010,Enhancement,7/23/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Deployed,Cell012,CHG3339095
+3010,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes,Deployed,Cell012,CHG3348423
+3010,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+4020,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+4020,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+4020,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+4020,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+4020,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+4047,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+4047,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell010, Cell011",CHG3358524
+4047,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+4047,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+4047,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+4154,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3353974
+4154,Enhancement,7/22/2025,ICQA,ICQA (Slotting & Profiling) UI Pilot : Pallet Rounding Fix,Deployed,Cell012,CHG3338786
+4154,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+4154,Enhancement,7/24/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Planned,Cell012,CHG3339095
+4154,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3348423
+4154,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+4154,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+4154,Enhancement,7/23/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Deployed,Cell012,CHG3339095
+6042,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6042,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+6042,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+6042,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+6042,Enhancement,7/24/2025,ESS,ESS GDC Walmart SDK for Azure Cosmos prod,Planned,Cell001,CHG3362478
+6042,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+6042,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+6042,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6042,Enhancement,7/23/2025,ESS,ESS GDC Enabling Address feature for GDC,Deployed,Cell001,CHG3355374
+6042,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+6042,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+6042,Enhancement,7/24/2025,Countit,GDC SOX Perpetual Dashboard Rollout,Planned,Cell001,CHG3356304
+6047,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+6047,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+6047,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6047,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+6047,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+6055,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+6055,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+6055,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+6055,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+6055,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6056,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+6056,Enhancement,7/25/2025,ICQA,ICQA Web UI Pallet Rounding Fix Rollout,Planned,"Cell000, Cell002",CHG3362580
+6056,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+6056,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes",Planned,"Cell000, Cell001, Cell002",CHG3358491
+6057,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+6057,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+6057,Enhancement,7/23/2025,ESS,ESS GDC Enabling Address feature for GDC,Deployed,Cell001,CHG3355374
+6057,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+6057,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+6057,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+6057,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6057,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6057,Enhancement,7/24/2025,ESS,ESS GDC Walmart SDK for Azure Cosmos prod,Planned,Cell001,CHG3362478
+6057,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+6057,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+6057,Enhancement,7/24/2025,Countit,GDC SOX Perpetual Dashboard Rollout,Planned,Cell001,CHG3356304
+6059,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+6059,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+6059,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+6059,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6059,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+6062,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6062,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+6062,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+6062,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+6062,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+6064,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+6064,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+6064,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+6064,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+6065,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+6065,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+6065,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6065,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,Cell001,CHG3349545
+6065,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,Cell001,CHG3349545
+6065,Enhancement,7/23/2025,ESS,ESS GDC Enabling Address feature for GDC,Deployed,Cell001,CHG3355374
+6065,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+6065,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+6065,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+6065,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6065,Enhancement,7/25/2025,Location UI,Location UI CCM Update Missing for Location Deletion 6065,Planned,Cell001,CHG3362520
+6065,Enhancement,7/24/2025,Countit,GDC SOX Perpetual Dashboard Rollout,Planned,Cell001,CHG3356304
+6065,Enhancement,7/24/2025,ESS,ESS GDC Walmart SDK for Azure Cosmos prod,Planned,Cell001,CHG3362478
+6071,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+6071,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6071,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+6071,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+6071,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+6072,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3353974
+6072,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3348423
+6072,Enhancement,7/23/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Deployed,Cell012,CHG3339095
+6072,Enhancement,7/24/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Planned,Cell012,CHG3339095
+6072,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+6072,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6072,Enhancement,7/22/2025,ICQA,ICQA (Slotting & Profiling) UI Pilot : Pallet Rounding Fix,Deployed,Cell012,CHG3338786
+6072,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+6073,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+6073,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+6073,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+6073,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+6073,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6074,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+6074,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6074,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+6074,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+6074,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+6077,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+6077,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+6077,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+6077,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6077,Enhancement,7/24/2025,Countit,GDC SOX Perpetual Dashboard Rollout,Planned,Cell001,CHG3356304
+6077,Enhancement,7/24/2025,ESS,ESS GDC Walmart SDK for Azure Cosmos prod,Planned,Cell001,CHG3362478
+6077,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+6077,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+6077,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+6077,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+6077,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6077,Enhancement,7/23/2025,ESS,ESS GDC Enabling Address feature for GDC,Deployed,Cell001,CHG3355374
+6082,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6082,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+6082,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+6082,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+6082,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6082,Enhancement,7/23/2025,ESS,ESS GDC Enabling Address feature for GDC,Deployed,Cell001,CHG3355374
+6082,Enhancement,7/24/2025,Countit,GDC SOX Perpetual Dashboard Rollout,Planned,Cell001,CHG3356304
+6082,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+6082,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+6082,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+6082,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+6082,Enhancement,7/24/2025,ESS,ESS GDC Walmart SDK for Azure Cosmos prod,Planned,Cell001,CHG3362478
+6083,Enhancement,7/24/2025,ESS,ESS GDC Walmart SDK for Azure Cosmos prod,Planned,Cell001,CHG3362478
+6083,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+6083,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+6083,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+6083,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+6083,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+6083,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6083,Enhancement,7/23/2025,ESS,ESS GDC Enabling Address feature for GDC,Deployed,Cell001,CHG3355374
+6083,Enhancement,7/24/2025,Countit,GDC SOX Perpetual Dashboard Rollout,Planned,Cell001,CHG3356304
+6083,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+6083,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6083,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+6084,Enhancement,7/23/2025,ESS,ESS GDC Enabling Address feature for GDC,Deployed,Cell001,CHG3355374
+6084,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+6084,Enhancement,7/24/2025,ESS,ESS GDC Walmart SDK for Azure Cosmos prod,Planned,Cell001,CHG3362478
+6084,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+6084,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6084,Enhancement,7/24/2025,Countit,GDC SOX Perpetual Dashboard Rollout,Planned,Cell001,CHG3356304
+6084,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+6084,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+6084,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+6084,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+6084,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+6084,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+6085,Enhancement,7/24/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Planned,Cell012,CHG3339095
+6085,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6085,Enhancement,7/23/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Deployed,Cell012,CHG3339095
+6085,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3353974
+6085,Enhancement,7/22/2025,ICQA,ICQA (Slotting & Profiling) UI Pilot : Pallet Rounding Fix,Deployed,Cell012,CHG3338786
+6085,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+6085,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3348423
+6085,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+6090,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+6090,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+6090,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+6090,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+6091,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+6091,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+6091,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6091,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+6091,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+6095,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6095,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+6095,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+6095,Enhancement,7/24/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Planned,Cell012,CHG3339095
+6095,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3353974
+6095,Enhancement,7/22/2025,ICQA,ICQA (Slotting & Profiling) UI Pilot : Pallet Rounding Fix,Deployed,Cell012,CHG3338786
+6095,Enhancement,7/23/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Deployed,Cell012,CHG3339095
+6095,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3348423
+6096,Enhancement,7/24/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Planned,Cell012,CHG3339095
+6096,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3348423
+6096,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6096,Enhancement,7/22/2025,ICQA,ICQA (Slotting & Profiling) UI Pilot : Pallet Rounding Fix,Deployed,Cell012,CHG3338786
+6096,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+6096,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3353974
+6096,Enhancement,7/23/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Deployed,Cell012,CHG3339095
+6096,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+6097,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+6097,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+6097,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6097,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+6097,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+6099,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+6099,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+6099,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+6099,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+6099,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+6858,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+6858,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+6858,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+6858,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+6858,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+7010,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+7010,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+7010,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+7010,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+7012,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+7012,Enhancement,7/23/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Deployed,Cell012,CHG3339095
+7012,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+7012,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+7012,Enhancement,7/22/2025,ICQA,ICQA (Slotting & Profiling) UI Pilot : Pallet Rounding Fix,Deployed,Cell012,CHG3338786
+7012,Enhancement,7/24/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Planned,Cell012,CHG3339095
+7012,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3348423
+7012,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3353974
+7013,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+7013,Bug Fix,7/21/2025,Shore,GDC Enhancement and Bug fix Rollout,Deployed,Cell002,CHG3348889
+7013,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336076
+7013,Enhancement,7/22/2025,Receiving,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+7013,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+7013,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+7013,Enhancement,7/22/2025,Receiving,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+7013,Enhancement,7/22/2025,Receiving,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+7013,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+7013,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+7013,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+7013,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+7013,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+7013,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+7013,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+7013,Enhancement,7/22/2025,DC Fin,DC US8852 Inventory 2.0 Migration: DCFIN CCM Changes,Deployed,,CHG3352870
+7013,Enhancement,7/22/2025,WTD / LMS,"LMS, GDC, , Witron 8852, toggle off Witron MQ toggle on Witron Kafka",Deployed,Cell002,CHG3356245
+7014,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+7014,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+7014,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+7014,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+7014,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+7015,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+7015,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+7015,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+7015,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+7016,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+7016,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+7016,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+7016,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+7016,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+7017,Enhancement,7/22/2025,ICQA,ICQA (Slotting & Profiling) UI Pilot : Pallet Rounding Fix,Deployed,Cell012,CHG3338786
+7017,Enhancement,7/24/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Planned,Cell012,CHG3339095
+7017,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+7017,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3353974
+7017,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3348423
+7017,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+7017,Enhancement,7/23/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Deployed,Cell012,CHG3339095
+7017,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+7018,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+7018,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+7018,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+7018,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+7019,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+7019,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+7019,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+7019,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+7019,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+7021,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+7021,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+7021,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+7021,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+7021,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+7021,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+7021,Enhancement,7/22/2025,WTD / LMS,"LMS, GDC, , Witron 8852, toggle off Witron MQ toggle on Witron Kafka",Deployed,Cell002,CHG3356245
+7021,Enhancement,7/21/2025,Inventory,Create Topic for 8852 Migration and Deployment of Shafter E2E defect fixes,Deployed,,CHG3349203
+7021,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+7021,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+7021,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336076
+7021,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+7021,Bug Fix,7/21/2025,Shore,GDC Enhancement and Bug fix Rollout,Deployed,Cell002,CHG3348889
+7021,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+7021,Enhancement,7/22/2025,DC Fin,DC US8852 Inventory 2.0 Migration: DCFIN CCM Changes,Deployed,,CHG3352870
+7021,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+7021,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+7021,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+7021,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+7023,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+7023,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3348423
+7023,Enhancement,7/24/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Planned,Cell012,CHG3339095
+7023,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+7023,Enhancement,7/23/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Deployed,Cell012,CHG3339095
+7023,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+7023,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3353974
+7023,Enhancement,7/22/2025,ICQA,ICQA (Slotting & Profiling) UI Pilot : Pallet Rounding Fix,Deployed,Cell012,CHG3338786
+7024,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+7024,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+7024,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+7024,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+7030,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+7030,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+7030,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+7030,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+7030,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+7047,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+7047,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+7047,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+7047,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+7047,Enhancement,7/21/2025,Inventory,Create Topic for 8852 Migration and Deployment of Shafter E2E defect fixes,Deployed,,CHG3349203
+7047,Bug Fix,7/21/2025,Shore,GDC Enhancement and Bug fix Rollout,Deployed,Cell002,CHG3348889
+7047,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+7047,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+7047,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+7047,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336076
+7047,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+7047,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+7047,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+7047,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+7047,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+7047,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+7047,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+7047,Enhancement,7/22/2025,WTD / LMS,"LMS, GDC, , Witron 8852, toggle off Witron MQ toggle on Witron Kafka",Deployed,Cell002,CHG3356245
+7047,Enhancement,7/22/2025,DC Fin,DC US8852 Inventory 2.0 Migration: DCFIN CCM Changes,Deployed,,CHG3352870
+7048,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+7048,Enhancement,7/22/2025,DC Fin,DC US8852 Inventory 2.0 Migration: DCFIN CCM Changes,Deployed,,CHG3352870
+7048,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+7048,Enhancement,7/22/2025,WTD / LMS,"LMS, GDC, , Witron 8852, toggle off Witron MQ toggle on Witron Kafka",Deployed,Cell002,CHG3356245
+7048,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+7048,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+7048,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+7048,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+7048,Enhancement,7/21/2025,Inventory,Create Topic for 8852 Migration and Deployment of Shafter E2E defect fixes,Deployed,,CHG3349203
+7048,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+7048,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+7048,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+7048,Bug Fix,7/21/2025,Shore,GDC Enhancement and Bug fix Rollout,Deployed,Cell002,CHG3348889
+7048,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+7048,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336076
+7048,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+7048,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+7048,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+7048,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+7055,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+7055,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358524
+7055,Bug Fix,7/24/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes ,Planned,"Cell010, Cell011",CHG3358494
+7055,Enhancement,7/24/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell010, Cell011",CHG3358475
+7055,Enhancement,7/23/2025,Order Processing/ Order Filling,"OP deployments Enable Billing of POS Jump Water Trailers Rollout , Cel011",Deployed,Cell010,CHG3356163
+7077,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336076
+7077,Enhancement,7/22/2025,DC Fin,DC US8852 Inventory 2.0 Migration: DCFIN CCM Changes,Deployed,,CHG3352870
+7077,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+7077,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+7077,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+7077,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+7077,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+7077,Enhancement,7/22/2025,WTD / LMS,"LMS, GDC, , Witron 8852, toggle off Witron MQ toggle on Witron Kafka",Deployed,Cell002,CHG3356245
+7077,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+7077,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+7077,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+7077,Bug Fix,7/21/2025,Shore,GDC Enhancement and Bug fix Rollout,Deployed,Cell002,CHG3348889
+7077,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+7077,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+7077,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+7077,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+7077,Enhancement,7/21/2025,Inventory,Create Topic for 8852 Migration and Deployment of Shafter E2E defect fixes,Deployed,,CHG3349203
+7077,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+7077,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+7079,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+7079,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+7079,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+7079,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+7084,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+7084,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+7084,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+7084,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336076
+7084,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+7084,Enhancement,7/22/2025,DC Fin,DC US8852 Inventory 2.0 Migration: DCFIN CCM Changes,Deployed,,CHG3352870
+7084,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+7084,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+7084,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+7084,Bug Fix,7/21/2025,Shore,GDC Enhancement and Bug fix Rollout,Deployed,Cell002,CHG3348889
+7084,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+7084,Enhancement,7/22/2025,WTD / LMS,"LMS, GDC, , Witron 8852, toggle off Witron MQ toggle on Witron Kafka",Deployed,Cell002,CHG3356245
+7084,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+7084,Enhancement,7/21/2025,Inventory,Create Topic for 8852 Migration and Deployment of Shafter E2E defect fixes,Deployed,,CHG3349203
+7084,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+7084,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+7084,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+7084,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+7084,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+8348,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+8348,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+8348,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+8348,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+8348,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+8348,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+8348,Enhancement,7/23/2025,ESS,ESS GDC Enabling Address feature for GDC,Deployed,Cell001,CHG3355374
+8348,Enhancement,7/24/2025,ESS,ESS GDC Walmart SDK for Azure Cosmos prod,Planned,Cell001,CHG3362478
+8348,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+8348,Enhancement,7/21/2025,Hawkeye,"Setup Hawkeye Labor Data Interface for LMS, WTD, 8852",Deployed,,CHG3349545
+8348,Enhancement,7/22/2025,Shore,Updating Shore Purge Jobs GDC,Deployed,Cell001,CHG3315513
+8348,Enhancement,7/24/2025,Countit,GDC SOX Perpetual Dashboard Rollout,Planned,Cell001,CHG3356304
+8397,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+8397,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336076
+8397,Bug Fix,7/21/2025,Shore,GDC Enhancement and Bug fix Rollout,Deployed,Cell002,CHG3348889
+8397,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+8397,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+8397,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+8397,Enhancement,7/21/2025,Inventory,Create Topic for 8852 Migration and Deployment of Shafter E2E defect fixes,Deployed,,CHG3349203
+8397,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+8397,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+8397,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+8397,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+8397,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+8397,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+8397,Enhancement,7/22/2025,DC Fin,DC US8852 Inventory 2.0 Migration: DCFIN CCM Changes,Deployed,,CHG3352870
+8397,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+8397,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+8397,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+8397,Enhancement,7/22/2025,WTD / LMS,"LMS, GDC, , Witron 8852, toggle off Witron MQ toggle on Witron Kafka",Deployed,Cell002,CHG3356245
+8397,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+8851,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3353974
+8851,Enhancement,7/23/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Deployed,Cell012,CHG3339095
+8851,Bug Fix,7/22/2025,Atlas Moves,Pilot Bugfixes and Snyk fixes ,Deployed,Cell012,CHG3348423
+8851,Enhancement,7/22/2025,ICQA,ICQA (Slotting & Profiling) UI Pilot : Pallet Rounding Fix,Deployed,Cell012,CHG3338786
+8851,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+8851,Bug Fix,7/23/2025,Atlas Moves,Rollout Performance screen and bug fixes,Deployed,"Cell010, Cell011, Cell012",CHG3353343
+8851,Enhancement,7/22/2025,Atlas Moves,"Pilot Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Deployed,Cell012,CHG3348394
+8851,Enhancement,7/24/2025,Countit,GDC Walmart SDK for Azure Cosmos Pilot,Planned,Cell012,CHG3339095
+8852,Enhancement,7/24/2025,Order Processing/ Order Filling,OP deployments Enable Billing of POS Jump Water Trailers Rollout ,Planned,"Cell000, Cell001, Cell002",CHG3356181
+8852,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+8852,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336076
+8852,Enhancement,7/22/2025,Loading,8852 Modernization Atlas Loading CCM changes,Deployed,,CHG3344283
+8852,Enhancement,7/22/2025,Order Processing/ Order Filling,OF/OP/OT Onboard Witron 8852 to Atlas,Deployed,Cell002,CHG3342062
+8852,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+8852,Enhancement,7/22/2025,Order Processing/ Order Filling,UI Site planned for conversion is Witron 8852,Deployed,Cell002,CHG3345788
+8852,Enhancement,7/28/2025,Atlas Moves,"Rollout Location Tag Fix in Orchestrator, Locations Sync and Snyk Fixes ",Planned,"Cell000, Cell001, Cell002",CHG3358491
+8852,Enhancement,7/22/2025,Location UI,Location UI CCM Configuration Changes to Support 8852 Shafter Modernization in,Deployed,Cell002,CHG3349472
+8852,Enhancement,7/22/2025,ICQA,ICQA UI CCM Configuration Changes to Support 8852 Shafter Modernization,Deployed,Cell002,CHG3349467
+8852,Enhancement,7/22/2025,ICQA,ICQA UI CCM Configuration Changes to Support 8852 Shafter Modernization,Deployed,Cell002,CHG3349467
+8852,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358542
+8852,Enhancement,7/22/2025,DC Fin,DC US8852 Inventory 2.0 Migration: DCFIN CCM Changes,Deployed,,CHG3352870
+8852,Enhancement,7/22/2025,WTD / LMS,"LMS, GDC, , Witron 8852, toggle off Witron MQ toggle on Witron Kafka",Deployed,Cell002,CHG3356245
+8852,Enhancement,7/22/2025,Hawkeye,Hawkeye GDC 8852 Live Support,Deployed,,CHG3347657
+8852,Bug Fix,7/24/2025,Atlas Moves,Rollout Performance screen and Take a break bug fixes,Planned,"Cell000, Cell001, Cell002",CHG3353476
+8852,Enhancement,7/22/2025,Receiving,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+8852,Bug Fix,7/28/2025,Atlas Moves,Rollout Bugfixes and Snyk fixes,Planned,"Cell000, Cell001, Cell002",CHG3358514
+8852,Enhancement,7/22/2025,Hawkeye,Hawkeye GDC 8852 Live Support,Deployed,,CHG3347657
+8852,Enhancement,7/22/2025,Order Processing/ Order Filling,OF/OP/OT Onboard Witron 8852 to Atlas Enable configurations,Deployed,Cell002,CHG3342062
+8852,Enhancement,7/22/2025,Inventory,8852 Modernization Atlas Loading CCM changes,Deployed,,CHG3344283
+8852,Enhancement,7/22/2025,Inventory,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336204
+8852,Enhancement,7/25/2025,ICQA,"ICQA Web UI Pallet Rounding Fix Rollout to ,",Planned,"Cell000, Cell002",CHG3362580
+8852,Enhancement,7/22/2025,Inventory,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3334216
+8852,Bug Fix,7/21/2025,Shore,GDC Enhancement and Bug fix Rollout,Deployed,Cell002,CHG3348889
+8852,Enhancement,7/21/2025,Inventory,Create Topic for 8852 Migration and Deployment of Shafter E2E defect fixes,Deployed,,CHG3349203
+8852,Enhancement,7/21/2025,Hawkeye,Hawkeye GDC Deployments to 8852,Deployed,,CHG3343162
+8852,Enhancement,7/22/2025,Inventory,8852 Modernization Atlas Loading CCM changes,Deployed,,CHG3344283
+8852,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+8852,Enhancement,7/22/2025,Atlas Moves,8852 Modernization Atlas Loading CCM changes,Deployed,Cell002,CHG3336527
+8852,Enhancement,7/21/2025,Hawkeye,Hawkeye GDC Deployments to 8852,Deployed,,CHG3343162
+All DCs,Bug Fix,7/23/2025,Order Processing/ Order Filling,Bug fixes Rollout and,Deployed,"Cell000, Cell001",CHG3356228
+All DCs,Enhancement,7/24/2025,Fix IT,Migrate damage app in atlas damage namespace from WUS to WUS2 cluster,Planned,,CHG3363115
+All DCs,Enhancement,7/21/2025,Inventory,Create a new DB Schema & tables in rapid relayer DB for five cells ,Deployed,"Cell001, Cell012",CHG3348808
+All DCs,Enhancement,7/21/2025,Inventory,Create a new DB Schema & tables in rapid relayer DB for five cells ,Deployed,"Cell001, Cell012",CHG3348808
+All DCs,Enhancement,7/24/2025,Fixit,Inspection Production deployment of security fix for attachments,Planned,,CHG3359461
+Grocery DC-7018,Enhancement,7/21/2025,Fixit,CCM2 deep migration of fixit platform application to productionpilot sites:7018 GDC and 6094 RDC,Deployed,,CHG3314268
+Grocery DC-7018,Enhancement,7/21/2025,Fixit,CCM2 deep migration of fixit platform application to productionpilot sites:7018 GDC and 6094 RDC,Deployed,,CHG3314268
+Grocery DC-7018,Enhancement,7/23/2025,Fixit,CCM2 deep migration of fixit platform application to productionpilot sites:7018 GDC and 6094 RDC,Deployed,,CHG3356274
+Regional DC-6094,Enhancement,7/21/2025,Fixit,CCM2 deep migration of fixit platform application to productionpilot sites:7018 GDC and 6094 RDC,Deployed,,CHG3314268
+Regional DC-6094,Enhancement,7/23/2025,Fixit,CCM2 deep migration of fixit platform application to productionpilot sites:7018 GDC and 6094 RDC,Deployed,,CHG3356274
+Regional DC-6094,Enhancement,7/21/2025,Fixit,CCM2 deep migration of fixit platform application to productionpilot sites:7018 GDC and 6094 RDC,Deployed,,CHG3314268
+cell01,Enhancement,7/22/2025,Smart Slotting,Slotting DC#8852 and DC#8348 Item Movement Report Inventory CCM change,Deployed,,CHG3356286
+cell02,Enhancement,7/22/2025,Smart Slotting,Slotting DC#8852 and DC#8348 Item Movement Report Inventory CCM change,Deployed,,CHG3356286

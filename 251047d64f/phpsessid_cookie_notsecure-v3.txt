@@ -1,0 +1,128 @@
+Instance Notes: The PHPSESSID cookie is not marked secure as shown in the following request and response:
+
+
+
+GET /login HTTP/1.1
+
+Host: lutprod.southcentralus.cloudapp.azure.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q\=0.9,image/webp,\*/\*;q=0.8
+
+Accept-Language: en-US,en;q\=0.5
+
+Accept-Encoding: gzip, deflate
+
+Dnt: 1
+
+Upgrade-Insecure-Requests: 1
+
+Pragma: no-cache
+
+Cache-Control: no-cache
+
+Te: trailers
+
+Connection: close
+
+HTTP/1.1 200 OK
+
+Server: nginx/1.14.0 (Ubuntu)
+
+Date: Tue, 28 Dec 2021 21:06:52 GMT
+
+Content-Type: text/html; charset=utf-8
+
+Connection: close
+
+Vary: Accept-Encoding
+
+**Set-Cookie: PHPSESSID=bhpm2mpfqfejburqk197ca28d8; path=/; HttpOnly **
+
+Set-Cookie: SimpleSAML\=ccc8cbe21d4e75f5680342fb50b5d3dd; path=/; secure
+
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+
+Pragma: no-cache
+
+cache-control: max-age=0, must-revalidate, no-transform, no-cache, no-store
+
+Strict-Transport-Security: max-age=31536000
+
+Content-Length: 2848
+
+Finding Description:The application does not mark all of its session cookies as "Secure," namely the PHPSESSID cooke does not have this flage. The following response demonstates this vulnerability:
+
+HTTP/1.1 200 OK
+
+Server: nginx/1.14.0 (Ubuntu)
+
+Date: Tue, 28 Dec 2021 21:06:52 GMT
+
+Content-Type: text/html; charset=utf-8
+
+Connection: close
+
+Vary: Accept-Encoding
+
+Set-Cookie: **PHPSESSID=bhpm2mpfqfejburqk197ca28d8; path=/; HttpOnly **
+
+Set-Cookie: SimpleSAML\=ccc8cbe21d4e75f5680342fb50b5d3dd; path=/; secure
+
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+
+Pragma: no-cache
+
+cache-control: max-age=0, must-revalidate, no-transform, no-cache, no-store
+
+Strict-Transport-Security: max-age=31536000
+
+Content-Length: 2848
+
+Issue Additional Description
+**Validation 1 - 2/1/2022 - OPEN**
+
+PHPSESSID still not set as secure:
+
+GET / HTTP/1.1
+
+Host: lutprod.southcentralus.cloudapp.azure.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q\=0.9,image/webp,\*/\*;q=0.8
+
+Accept-Language: en-US,en;q\=0.5
+
+Accept-Encoding: gzip, deflate
+
+Upgrade-Insecure-Requests: 1
+
+Te: trailers
+
+Connection: close
+
+HTTP/1.1 302 Found
+
+Server: nginx/1.14.0 (Ubuntu)
+
+Date: Mon, 31 Jan 2022 18:45:02 GMT
+
+Content-Type: text/html; charset=utf-8
+
+Connection: close
+
+Set-Cookie: PHPSESSID=1110dvj0v0subhd9f3divtgjsu; path=/; HttpOnly
+
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+
+Pragma: no-cache
+
+location: [https://lutprod.southcentralus.cloudapp.azure.com/simplesaml/module.php/core/as\_login.php?AuthId=default-sp&ReturnTo=https%3A%2F%2Flutprod.southcentralus.cloudapp.azure.com%2F](https://lutprod.southcentralus.cloudapp.azure.com/simplesaml/module.php/core/as_login.php?AuthId=default-sp&ReturnTo=https%3A%2F%2Flutprod.southcentralus.cloudapp.azure.com%2F)
+
+cache-control: max-age=0, must-revalidate, no-transform, no-cache, no-store
+
+Strict-Transport-Security: max-age=31536000
+
+Content-Length: 0

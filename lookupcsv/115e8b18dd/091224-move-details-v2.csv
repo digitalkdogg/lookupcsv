@@ -1,0 +1,117 @@
+﻿BU,BU,Organization ,Function,Building Name
+End to End,End to End,Walmart US,Transportation and Customer Delivery,Always
+End to End,End to End,Walmart US,Supply Chain,Always
+End to End,End to End,Global Tech,End to End Fulfillment,Always
+Global Finance,Global Finance,Corporate Functions,Supply Chain and Ops Finance,Always
+Global Finance,Global Finance,Corporate Functions,Supply Chain and Ops/​Real Estate Controllership,Always
+Global People ,Global People ,Corporate Functions,End to End ,Always
+eCommerce,eCommerce,Walmart US,eCommerce,Change
+Revenue,Revenue,Walmart US,Revenue,Change
+Product,Product,Walmart US,Product,Change
+Marketing,Marketing,Walmart US,Marketing,Change
+Design,Design,Walmart US,Design,Change
+Global Finance,Global Finance,Corporate Functions,"WMUS ONE Integration and Financial Services, Customer and Revenue Growth",Change
+Global Finance,Global Finance,Corporate Functions,Customer Controllership,Change
+US Omni Tech,US Omni Tech,Global Tech,Commerce Platforms and Emerging Tech,Change
+Global People,Global People,Corporate Functions,Revenue and Customer,Change
+Global People,Global People,Corporate Functions,Product and Customer ,Change
+Global Governance,Global Governance,Corporate Functions,Digital Citizenship,Change
+Merchandising,Merchandising,Walmart US,Fashion,Cheer
+Global Finance,Global Finance,Walmart US,Fashion Merch Finance,Cheer
+Merchandising,Merchandising,Walmart US,Fashion Merch Ops,Cheer
+EBS,Enterprise Business Services,Global Tech,Enterprise Business Services,DGTC
+Global Tech Platforms,Global Tech Platforms,Global Tech,Global Tech Platforms,DGTC
+Tech Strat and Commercial,Technology Strategy and Commercialization,Global Tech,Technology Strategy and Commercialization,DGTC
+Global Governance,Global Governance,Corporate Functions,Global Governance,DGTC
+Information Security,Information Security,Global Tech,Information Security,DGTC
+US Omni Tech,US Omni Tech,Global Tech,US Omni Tech,DGTC
+US Omni Tech,US Omni Tech,Global Tech,Commerce Platforms and Emerging Tech,DGTC
+EBS,Enterprise Business Services,Global Tech,People Tech and Services,DGTC
+Global Tech Platforms,Global Tech Platforms,Global Tech,Global Tech Platforms,DGTC
+Merchandising,Merchandising,Walmart US,"General Merch - Entertainment, Toys, Seasonal, Home and Hardlines ",Hula
+Merchandising,Merchandising,Walmart US,General Merch - Merch Ops,Hula
+US Omni Tech,US Omni Tech,Global Tech,Merch Tech,Hula
+Sourcing,Sourcing,International,General Merch Sourcing,Hula
+Global Finance,Global Finance,Corporate Functions,General Merch Finance,Hula
+Global People,Global People,Corporate Functions,Merch ,Hula
+Global Finance,Global Finance,Corporate Functions,"Treasury Tax and Risk, Audit, EandY Space, Tech Finance, Finance Transformation, Risk Ops and Casualty Claims",Maverick
+Merchandising,Merchandising,Walmart US,Food Merch,Moon Pie
+Merchandising,Merchandising,Walmart US,Food Merch Ops,Moon Pie
+Sourcing,Sourcing,International,Food Sourcing,Moon Pie
+International Tech,International Tech,Global Tech,International Technology,Moon Pie
+International Product,International Product,International,International Product,Moon Pie
+Global Finance,Global Finance,Corporate Functions,Food Merch Finance,Moon Pie
+Merchandising,Merchandising,Walmart US,Consumables Merch,Ol' Roy
+Merchandising,Merchandising,Walmart US,Consumables Merch Ops,Ol' Roy
+Merchandising,Merchandising,Walmart US,Merch Transformation,Ol' Roy
+Sourcing,Sourcing,International,Consumables Sourcing,Ol' Roy
+Global Finance,Global Finance,Corporate Functions,Consumables Merch Finance,Ol' Roy
+Global Governance,Global Governance,Corporate Functions,Global Security,Purpose
+Global Finance,Global Finance,Corporate Functions,Capital Markets,Purpose
+Global Finance,Global Finance,Corporate Functions,Treasury,Purpose
+Global Finance,Global Finance,Corporate Functions,Controllership,Purpose
+Global Finance,Global Finance,Corporate Functions,Global Controllership,Purpose
+Global Finance,Global Finance,Corporate Functions,Technology Transformation and Data Governance,Purpose
+Global People,Global People,Corporate Functions,Finance,Purpose
+International,International,International,Partnerships and Strategy,Purpose
+International,International,International,International People,Purpose
+International,International,International,International Product,Purpose
+International,International,International,Operations and Supply Chain ,Purpose
+Corporate Affairs,Corporate Affairs,Corporate Functions,International Communications,Purpose
+Global Governance,Global Governance,Corporate Functions,International Legal and Compliance,Purpose
+Global Finance,Global Finance,Corporate Functions,International Finance and Controller,Purpose
+Global Finance,Global Finance,Corporate Functions,Enterprise Finance,Purpose
+Global Finance,Global Finance,Corporate Functions,Investor Relations,Purpose
+Global Finance,Global Finance,Corporate Functions,Enterprise Strategy,Purpose
+Walmart US,Walmart US,Walmart US,L4 Embedded Support,Purpose
+International,International,International,International Global Sourcing,Purpose
+International,International,International,International Marketplace Development,Purpose
+Walmart US,Walmart US,Walmart US,Merchandise Strategy ,Purpose
+Global Finance,Global Finance,Corporate Functions,US Finance Planning - Analysis and Strategy,Purpose
+Corporate Affairs,Corporate Affairs,Corporate Functions,Government Relations,Sparky
+Corporate Affairs,Corporate Affairs,Corporate Functions,Walmart Foundation,Sparky
+Corporate Affairs,Corporate Affairs,Corporate Functions,Communications,Sparky
+Corporate Affairs,Corporate Affairs,Corporate Functions,Global Public Policy ,Sparky
+Corporate Affairs,Corporate Affairs,Corporate Functions,Public Affairs - State and Local Government Affairs,Sparky
+Corporate Affairs,Corporate Affairs,Corporate Functions,Corporate Real Estate,Sparky
+EBS,Enterprise Business Services,Global Tech,Associate Digital Experience,Sparky
+Global Finance,Global Finance,Corporate Functions,Corporate Real Estate Finance,Sparky
+End to End,End to End,Walmart US,Transformation and Innovation,Together
+US Omni Tech,US Omni Tech,Global Tech,Store Tech,Together
+Store Operations,Store Operations,Walmart US,WMUS Store Operations,Together
+US Omni Tech,US Omni Tech,Global Tech,Commerce Platforms and Emerging Tech,Together
+Energy Transformation,Energy Transformation,Walmart US,Energy Transformation,Together
+Global People ,Global People ,Walmart US,Store Operations,Together
+Global Governance,Global Governance,Corporate Functions,Global Ethics and Compliance,Trust
+Global Governance,Global Governance,Corporate Functions,Digital Citizenship,Trust
+Global Governance,Global Governance,Corporate Functions,Global Investigations,Trust
+Global Governance,Global Governance,Corporate Functions," US Operations, US Legal",Trust
+Global Governance,Global Governance,Corporate Functions,Centers of Excellence – US Legal​,Trust
+Global Governance,Global Governance,Corporate Functions,Threat Management,Trust
+Global Governance,Global Governance,Corporate Functions,Emergency Management ,Trust
+Global Governance,Global Governance,Corporate Functions,Vetting,Trust
+Global Governance,Global Governance,Corporate Functions,Strategic Security,Trust
+Global Governance,Global Governance,Corporate Functions,"Physical Security, Security Tech, and Facility Protection",Trust
+Global Governance,Global Governance,Corporate Functions,Regulatory and Specialty Legal,Trust
+Global Governance,Global Governance,Corporate Functions,"eDiscovery and Strategy,Risk and Ops ",Trust
+Global Governance,Global Governance,Corporate Functions,Corporate Secretary ,Trust
+Global Governance,Global Governance,Corporate Functions,Litigation,Trust
+Global People ,Global People ,Corporate Functions,Corporate Affairs and Global Governance,Trust
+Global People,Global People,Corporate Functions,Global Leadership and Learning,Upstream
+Global People,Global People,Corporate Functions,Global Talent,Upstream
+Global People,Global People,Corporate Functions,Global People Strategy and Innovation,Upstream
+Global People,Global People,Corporate Functions,Total Rewards,Upstream
+Global People,Global People,Corporate Functions,People Product and Design,Upstream
+Global Finance,Global Finance,Corporate Functions,Risk and Benefits Finance,Upstream
+Global People,Global People,Corporate Functions,Belonging,Upstream
+Global People,Global People,Corporate Functions,Global People Programs and Strategy,Upstream
+Global People,Global People,Corporate Functions,Global Associate Relations,Upstream
+Global People,Global People,Corporate Functions,"Global Tech, Services and Corp Functions",Upstream
+Walmart US,Walmart US,Walmart US,Realty,Upstream
+Global Finance,Global Finance,Corporate Functions,Procurement,Upstream
+Walmart US,Walmart US,Walmart US,Health and Wellness,Upstream
+Global Governance,Global Governance,Corporate Functions,Health and Wellness Ethics and Compliance,Upstream
+International,International,International,Health and Wellness Sourcing,Upstream
+Global Finance,Global Finance,Corporate Functions,Health and Wellness Finance,Upstream
+Global Finance,Global Finance,Corporate Functions,Health and Wellness Contollership,Upstream
+Global People,Global People,Corporate Functions,Health and Wellness People,Upstream

@@ -1,0 +1,15 @@
+﻿Store Nbr,City,State,Return or Store Inventory?,Quantity,Date (Only for Customer Returns),Item Nbr (Only for Customer Returns),UPC (Only for Customer Returns)
+838,SAND SPRINGS,OK,Customer Return,1,4/9/2022,,84140411422
+1496,WATERLOO,IA,Customer Return,1,4/9/2022,,84140411420
+3747,MUNCIE,IN,Customer Return,1,4/13/2022,,84140411421
+890,ORLANDO,FL,Customer Return,2,4/14/2022,,84140411421
+1496,WATERLOO,IA,Curstomer Return,1,4/23/2022,,84140411421
+3505,WISCONSIN DELLS,WI,Customer Return,1,4/23/2022,,84140411421
+1188,Bridgeton,MO,Customer Return,1,4/25/2022,,84140411423
+603,Pekin,IL,Customer Return,1,5/1/2022,,84140411421
+941,Valrico,FL,Customer Return,1,5/5/2022,,84140411420
+941,Valrico,FL,Customer Return,2,5/5/2022,,84140411421
+1783,Princeton,IN,Customer Return,1,5/20/2022,,84140411420
+603,Pekin,IL,Customer Return,1,5/29/2022,,84140411425
+603,Pekin,IL,Customer Return,1,6/1/2022,,84140411422
+577,Olathe,KS,Customer Return,1,6/7/2022,,84140411425

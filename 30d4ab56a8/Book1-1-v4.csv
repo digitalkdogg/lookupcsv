@@ -1,0 +1,595 @@
+4109,Bossier City,LA,11,Mississippi Valley,17,0
+4702,Friendswood,TX,12,South Central,15,0
+4703,Albuquerque,NM,11,South Central,6,0
+4704,Fresno,CA,12,Western,1,0
+4707,Overland Park,KS,7,Central,9,3
+4709,Corona,CA,12,Western,2,0
+4710,Chesapeake,VA,13,Northeast,34,0
+4711,Virginia Beach,VA,12,Northeast,34,0
+4712,Houston,TX,12,South Central,15,0
+4713,CONROE,TX,12,South Central,13,0
+4718,South Jordan,UT,7,Western,3,3
+4720,AUSTIN,TX,6,South Central,13,4
+4721,Houston,TX,12,South Central,13,0
+4722,Williamstown,NJ,12,Northeast,39,0
+4724,BIRMINGHAM,AL,12,Mississippi Valley,24,0
+4728,NICHOLASVILLE,KY,7,Central,22,3
+4729,Sterling,VA,10,Northeast,38,0
+4730,West Jordan,UT,5,Western,3,5
+4731,Oklahoma City,OK,8,Central,10,2
+4732,Glendale,AZ,10,Western,4,0
+4735,La Habra,CA,8,Western,2,2
+4736,Saint Paul,MN,9,North Central,18,1
+4738,Saint Paul,MN,5,North Central,18,5
+4739,Snellville,GA,12,Mississippi Valley,28,0
+4740,Southaven,MS,12,Mississippi Valley,23,0
+4741,Saint Louis,MO,10,Central,19,0
+4742,Fort Worth,TX,12,South Central,11,0
+4743,Plano,TX,8,South Central,14,2
+4745,Thornton,CO,12,Western,5,0
+4749,Conway,AR,11,Central,16,0
+4750,Cuyahoga Falls,OH,12,Northeast,33,0
+4755,HONOLULU,HI,10,Western,1,0
+4761,Norman,OK,8,Central,10,2
+4763,Sugar Land,TX,12,South Central,15,0
+4764,Katy,TX,12,South Central,15,0
+4767,Palmdale,CA,7,Western,1,3
+4768,Reno,NV,8,Western,1,2
+4769,Houston,TX,12,South Central,15,0
+4770,Evans,CO,8,North Central,7,2
+4771,Severn,MD,12,Northeast,38,0
+4772,Sarasota,FL,10,Southeast,31,0
+4774,Secaucus,NJ,10,Northeast,40,0
+4775,Metairie,LA,7,Mississippi Valley,17,3
+4776,Huntsville,AL,12,Mississippi Valley,24,0
+4777,Denver,CO,12,Western,5,0
+4778,Auburn Hills,MI,8,North Central,26,2
+4780,Buford,GA,8,Mississippi Valley,28,2
+4781,Lansing,MI,12,North Central,25,0
+4782,Kissimmee,FL,13,Southeast,36,0
+4783,Garland,TX,9,South Central,14,1
+4784,Las Cruces,NM,12,South Central,6,0
+4785,Sanford,FL,12,Southeast,36,0
+4786,Logan,UT,12,Western,3,0
+4787,Minneapolis,MN,12,North Central,18,0
+4789,Sharpsburg,GA,6,Mississippi Valley,28,4
+4790,Pearl,MS,11,Mississippi Valley,17,0
+4791,Garden City,KS,12,Central,9,0
+4797,CONCORD,NC,14,Southeast,30,0
+4798,Winston Salem,NC,14,Northeast,34,0
+4799,Citrus Heights,CA,12,Western,1,0
+4801,Riverview,FL,12,Southeast,31,0
+4802,Hiram,GA,10,Mississippi Valley,28,0
+4804,McDonough,GA,10,Mississippi Valley,28,0
+4805,Billings,MT,12,Western,3,0
+4808,Springdale,AR,12,Central,16,0
+4815,Normal,IL,7,Central,21,3
+4816,Aurora,CO,9,Western,5,1
+4817,Birmingham,AL,12,Mississippi Valley,24,0
+4818,Brooksville,FL,14,Southeast,31,0
+4819,Bakersfield,CA,12,Western,1,0
+4820,Pooler,GA,4,Southeast,29,6
+4822,Murrieta,CA,11,Western,2,0
+4824,Santa Clarita,CA,11,Western,1,0
+4825,Hot Springs National Park,AR,10,Central,16,0
+4828,Orlando,FL,12,Southeast,36,0
+4829,Gilbert,AZ,12,Western,4,0
+4830,Avondale,AZ,10,Western,4,0
+4831,Durham,NC,10,Southeast,35,0
+4836,Oxford,AL,12,Mississippi Valley,24,0
+4837,Denham Springs,LA,11,Mississippi Valley,17,0
+4839,Tulsa,OK,7,Central,10,3
+4840,Janesville,WI,12,North Central,20,0
+4843,Pearland,TX,12,South Central,15,0
+4846,MENTOR,OH,10,Northeast,33,0
+4847,Greensburg,PA,11,Northeast,33,0
+4850,McAllen,TX,12,South Central,12,0
+4851,Clarksville,IN,7,Central,22,3
+4852,Wesley Chapel,FL,12,Southeast,31,0
+4853,Castle Rock,CO,10,Western,5,0
+4855,Hanover,PA,11,Northeast,38,0
+4857,Cape Coral,FL,12,Southeast,32,0
+4859,Butler,PA,12,Northeast,37,0
+4860,Beckley,WV,10,Northeast,34,0
+4861,SAINT PETERSBURG,FL,12,Southeast,31,0
+4866,San Juan,PR,9,Southeast,36,1
+4870,Kansas City,KS,9,Central,9,1
+4871,Meridian,MS,12,Mississippi Valley,17,0
+4872,Columbia,SC,12,Southeast,35,0
+4873,Lincoln,NE,7,North Central,8,3
+4874,Covington,LA,12,Mississippi Valley,17,0
+4875,Wentzville,MO,6,Central,19,4
+4876,Bowling Green,KY,12,Central,22,0
+4878,Glen Carbon,IL,10,Central,19,0
+4879,Aiken,SC,10,Southeast,29,0
+4901,Easley,SC,10,Southeast,30,0
+4905,Denton,TX,12,South Central,11,0
+4906,McKinney,TX,10,South Central,14,0
+4908,OWENSBORO,KY,11,Central,22,0
+4911,Mansfield,TX,12,South Central,11,0
+4914,San Antonio,TX,12,South Central,12,0
+4915,Bullhead City,AZ,12,Western,4,0
+4917,Mooresville,NC,5,Southeast,30,5
+4920,Saint Joseph,MO,12,Central,9,0
+4926,Columbus,IN,6,Central,21,4
+4930,Cookeville,TN,12,Mississippi Valley,23,0
+4933,Bismarck,ND,12,North Central,7,0
+4936,Morgantown,WV,5,Northeast,33,5
+4938,Albuquerque,NM,12,South Central,6,0
+4939,San Antonio,TX,10,South Central,12,0
+4942,ELGIN,IL,12,North Central,20,0
+4944,Grand Blanc,MI,8,North Central,25,2
+4946,Rocky Mount,NC,12,Southeast,35,0
+4947,Zanesville,OH,10,Mississippi Valley,27,0
+4948,San Angelo,TX,10,South Central,11,0
+4950,Hendersonville,NC,7,Southeast,30,3
+4952,Tarentum,PA,12,Northeast,37,0
+4955,Surprise,AZ,10,Western,4,0
+4958,San Marcos,TX,8,South Central,12,2
+4961,Roswell,NM,12,South Central,6,0
+4962,Sandusky,OH,8,North Central,26,2
+4963,Chillicothe,OH,7,Mississippi Valley,27,3
+4969,Bentonville,AR,8,Central,16,2
+4972,Port Saint Lucie,FL,12,Southeast,32,0
+4973,Dubuque,IA,6,North Central,8,4
+4974,North Las Vegas,NV,12,Western,4,0
+4982,Mount Pleasant,MI,10,North Central,25,0
+4983,Las Vegas,NV,10,Western,4,0
+4985,SPRINGFIELD,MO,12,Central,16,0
+4987,Longmont,CO,8,North Central,7,2
+4989,Auburn,AL,7,Mississippi Valley,24,3
+4990,Daphne,AL,8,Mississippi Valley,24,2
+4991,Cocoa,FL,12,Southeast,32,0
+4992,Elizabethtown,KY,11,Central,22,0
+4994,Mechanicsburg,PA,8,Northeast,39,2
+4996,Danville,VA,10,Northeast,34,0
+4998,Lady Lake,FL,10,Southeast,31,0
+4999,Quincy,IL,9,Central,19,1
+6181,Papillion,NE,3,North Central,8,7
+6188,Austin,TX,10,South Central,13,0
+6189,Apopka,FL,12,Southeast,36,0
+6201,Kingston,NY,6,Northeast,37,4
+6202,LUFKIN,TX,12,South Central,15,0
+6203,Columbia,SC,8,Southeast,35,2
+6204,Valdosta,GA,8,Southeast,29,2
+6205,Yuma,AZ,12,Western,4,0
+6212,Orlando,FL,12,Southeast,36,0
+6213,Chandler,AZ,9,Western,4,1
+6216,Winterville,NC,12,Southeast,35,0
+6217,Doral,FL,11,Southeast,32,0
+6218,Orlando,FL,12,Southeast,36,0
+6219,Colorado Springs,CO,12,Western,5,0
+6220,Slidell,LA,12,Mississippi Valley,17,0
+6225,MAYAGUEZ,PR,12,Southeast,36,0
+6228,Vernon Hills,IL,10,North Central,20,0
+6235,San Diego,CA,12,Western,2,0
+6236,Rock Hill,SC,6,Southeast,30,4
+6238,Owasso,OK,8,Central,10,2
+6239,LUTHERVILLE TIMONIUM,MD,12,Northeast,38,0
+6240,Glendora,CA,12,Western,2,0
+6242,Dublin,OH,4,Mississippi Valley,27,6
+6244,Fort Worth,TX,7,South Central,11,3
+6245,Harker Heights,TX,12,South Central,13,0
+6246,El Paso,TX,12,South Central,6,0
+6247,Kansas City,MO,7,Central,9,3
+6249,Franklin,TN,8,Mississippi Valley,23,2
+6251,Washington,PA,12,Mississippi Valley,27,0
+6252,Chesterfield,MO,4,Central,19,6
+6254,Maple Grove,MN,10,North Central,18,0
+6255,Plano,TX,12,South Central,14,0
+6256,Memphis,TN,10,Mississippi Valley,23,0
+6257,Las Vegas,NV,12,Western,4,0
+6259,Round Rock,TX,12,South Central,13,0
+6260,Memphis,TN,12,Mississippi Valley,23,0
+6261,Las Vegas,NV,12,Western,4,0
+6262,San Antonio,TX,8,South Central,12,2
+6265,Irving,TX,12,South Central,14,0
+6267,Edmond,OK,10,Central,10,0
+6269,HARLINGEN,TX,12,South Central,12,0
+6270,HATILLO,PR,12,Southeast,36,0
+6275,Wichita,KS,10,Central,9,0
+6302,Bedford,OH,5,Northeast,33,5
+6304,Indianapolis,IN,7,Central,21,3
+6305,Cleveland,OH,8,Northeast,33,2
+6307,Columbus,OH,10,Mississippi Valley,27,0
+6308,Hilliard,OH,4,Mississippi Valley,27,6
+6309,Saint Paul,MN,9,North Central,18,1
+6310,Minneapolis,MN,9,North Central,18,1
+6311,Shakopee,MN,5,North Central,18,5
+6312,Saint Paul,MN,7,North Central,18,3
+6313,Fort Wayne,IN,12,North Central,25,0
+6314,ELYRIA,OH,12,Northeast,33,0
+6315,Mishawaka,IN,12,North Central,25,0
+6317,North Canton,OH,8,Northeast,33,2
+6319,Grand Rapids,MI,6,North Central,25,4
+6320,DULUTH,MN,10,North Central,7,0
+6321,Appleton,WI,7,North Central,18,3
+6322,Youngstown,OH,10,Northeast,33,0
+6324,Milwaukee,WI,12,North Central,18,0
+6325,Greenwood,IN,6,Central,21,4
+6326,Reynoldsburg,OH,9,Mississippi Valley,27,1
+6327,Warren,OH,10,Northeast,33,0
+6328,Cicero,IL,8,North Central,20,2
+6329,Tupelo,MS,12,Mississippi Valley,24,0
+6330,Dover,DE,12,Northeast,39,0
+6331,Kenosha,WI,12,North Central,20,0
+6332,Philadelphia,PA,8,Northeast,39,2
+6333,Bangor,ME,10,Northeast,40,0
+6334,DECATUR,IL,12,Central,21,0
+6335,Ocala,FL,10,Southeast,31,0
+6336,Temple,TX,12,South Central,13,0
+6338,College Station,TX,12,South Central,13,0
+6339,Crystal Lake,IL,12,North Central,20,0
+6341,FORT LAUDERDALE,FL,12,Southeast,32,0
+6342,Tulsa,OK,10,Central,10,0
+6343,Henrico,VA,12,Northeast,34,0
+6344,Windsor Heights,IA,10,North Central,8,0
+6345,Idaho Falls,"ID",12,Western,3,0
+6347,Farmington,NM,12,South Central,6,0
+6348,Pineville,NC,14,Southeast,30,0
+6349,Evergreen Park,IL,12,North Central,20,0
+6350,Sherman,TX,10,Central,10,0
+6352,Hudson,NH,6,Northeast,40,4
+6353,MYRTLE BEACH,SC,12,Southeast,35,0
+6354,Midlothian,VA,12,Northeast,34,0
+6355,Hickory,NC,12,Southeast,30,0
+6356,Fishkill,NY,10,Northeast,40,0
+6357,Annapolis,MD,7,Northeast,38,3
+6358,MELROSE PARK,IL,12,North Central,20,0
+6359,Comstock Park,MI,7,North Central,25,3
+6360,Grand Junction,CO,8,Western,3,2
+6361,Fort Walton Beach,FL,5,Mississippi Valley,24,5
+6363,Jacksonville,FL,12,Southeast,29,0
+6364,Naples,FL,12,Southeast,32,0
+6365,Charlottesville,VA,7,Northeast,34,3
+6366,Vestal,NY,9,Northeast,37,1
+6367,Humble,TX,12,South Central,13,0
+6368,Chesapeake,VA,12,Northeast,34,0
+6369,Edison,NJ,8,Northeast,40,2
+6371,Woodbridge,VA,12,Northeast,38,0
+6372,Dallas,TX,12,South Central,14,0
+6373,Vienna,WV,10,Mississippi Valley,27,0
+6375,Lima,OH,5,Mississippi Valley,27,5
+6376,Dallas,TX,8,South Central,14,2
+6377,Jonesboro,AR,12,Central,16,0
+6378,Riverside,CA,11,Western,2,0
+6379,Great Falls,MT,12,Western,3,0
+6380,Dayton,OH,10,Central,22,0
+6381,Lewisville,TX,8,South Central,14,2
+6382,Las Vegas,NV,11,Western,4,0
+6383,Salisbury,MD,12,Northeast,38,0
+6384,LA GRANGE,IL,10,North Central,20,0
+6385,Grand Forks,ND,7,North Central,7,3
+6386,Concord,NH,2,Northeast,40,8
+6387,PINELLAS PARK,FL,13,Southeast,31,0
+6388,Montgomery,IL,8,North Central,20,2
+6401,Tampa,FL,12,Southeast,31,0
+6402,Greensboro,NC,12,Northeast,34,0
+6403,Brandon,FL,12,Southeast,31,0
+6404,Fairlawn,OH,5,Northeast,33,5
+6405,Yuba City,CA,10,Western,1,0
+6406,Niagara falls,NY,10,Northeast,37,0
+6407,MANSFIELD,OH,8,Mississippi Valley,27,2
+6408,Santa Fe,NM,5,South Central,6,5
+6409,Tucker,GA,10,Mississippi Valley,28,0
+6410,PEARL CITY,HI,12,Western,1,0
+6412,Southgate,MI,12,North Central,26,0
+6413,Lincoln,NE,7,North Central,8,3
+6414,Gastonia,NC,12,Southeast,30,0
+6415,JOPLIN,MO,8,Central,16,2
+6417,Holland,MI,10,North Central,25,0
+6418,Wichita,KS,6,Central,9,4
+6419,Traverse City,MI,12,North Central,25,0
+6420,Clearwater,FL,11,Southeast,31,0
+6421,Conroe,TX,12,South Central,13,0
+6422,Longview,TX,11,South Central,14,0
+6423,Middletown,NY,8,Northeast,40,2
+6424,Kokomo,IN,10,Central,21,0
+6425,Casper,WY,9,North Central,7,1
+6426,Salina,KS,7,Central,9,3
+6427,Rochester,MN,10,North Central,8,0
+6428,Medford,NY,12,Northeast,40,0
+6429,Battle Creek,MI,9,North Central,25,1
+6430,Cheyenne,WY,7,North Central,7,3
+6431,BIG FLATS,NY,10,Northeast,37,0
+6432,Sioux City,IA,5,North Central,8,5
+6433,Vacaville,CA,6,Western,1,4
+6434,Laurel,MD,12,Northeast,38,0
+6435,Tuscaloosa,AL,12,Mississippi Valley,24,0
+6436,Onalaska,WI,4,North Central,18,6
+6437,BLOOMINGTON,IN,9,Central,21,1
+6439,Odessa,TX,9,South Central,11,1
+6440,Latham,NY,10,Northeast,37,0
+6441,Lakeland,FL,12,Southeast,31,0
+6443,Goldsboro,NC,10,Southeast,35,0
+6444,Evanston,IL,8,North Central,20,2
+6445,Port Charlotte,FL,12,Southeast,32,0
+6449,Paducah,KY,10,Central,19,0
+6450,Cincinnati,OH,10,Central,22,0
+6452,Asheville,NC,4,Southeast,30,6
+6453,Austin,TX,11,South Central,13,0
+6454,Southfield,MI,9,North Central,26,1
+6455,Oxnard,CA,12,Western,1,0
+6456,Plattsburgh,NY,3,Northeast,37,7
+6457,South Charleston,WV,12,Mississippi Valley,27,0
+6458,Lynchburg,VA,7,Northeast,34,3
+6460,Altoona,PA,12,Northeast,37,0
+6461,Grand Island,NE,6,North Central,8,4
+6462,Augusta,ME,10,Northeast,40,0
+6463,Anderson,SC,11,Southeast,30,0
+6464,Des Plaines,IL,12,North Central,20,0
+6471,Victoria,TX,12,South Central,12,0
+6472,Council Bluffs,IA,12,North Central,8,0
+6474,Saint Louis,MO,10,Central,19,0
+6479,Cape Girardeau,MO,9,Central,19,1
+6482,Dallas,TX,7,South Central,14,3
+6485,Tinley Park,IL,11,Central,21,0
+6487,Addison,IL,9,North Central,20,1
+6489,Calumet City,IL,12,Central,21,0
+6501,Murfreesboro,TN,10,Mississippi Valley,23,0
+6502,El Paso,TX,10,South Central,6,0
+6503,Hattiesburg,MS,12,Mississippi Valley,17,0
+6505,Jefferson City,MO,10,Central,9,0
+6506,Albany,GA,10,Southeast,29,0
+6507,Jackson,TN,12,Mississippi Valley,23,0
+6509,Rome,GA,12,Mississippi Valley,28,0
+6510,Mankato,MN,11,North Central,8,0
+6512,Clarksville,TN,12,Mississippi Valley,23,0
+6514,Waterloo,IA,8,North Central,8,2
+6517,DAYTON,OH,8,Central,22,2
+6518,Bristol,VA,7,Mississippi Valley,23,3
+6521,Houma,LA,10,Mississippi Valley,17,0
+6524,Colonial Heights,VA,12,Northeast,34,0
+6527,Baton Rouge,LA,8,Mississippi Valley,17,2
+6528,Cincinnati,OH,10,Central,22,0
+6533,State College,PA,6,Northeast,37,4
+6535,Wausau,WI,11,North Central,18,0
+6536,Allentown,PA,8,Northeast,39,2
+6539,Watertown,NY,10,Northeast,37,0
+6540,Charlotte,NC,12,Southeast,30,0
+6543,CAROLINA,PR,12,Southeast,36,0
+6547,MUNCY,PA,7,Northeast,37,3
+6549,Pueblo,CO,12,Western,5,0
+6556,Saint Clairsville,OH,8,Mississippi Valley,27,2
+6562,Muskegon,MI,12,North Central,25,0
+6565,Rapid City,SD,3,North Central,7,7
+6567,Easton,PA,10,Northeast,39,0
+6568,Ames,IA,5,North Central,8,5
+6569,Bluefield,VA,12,Northeast,34,0
+6570,Raleigh,NC,10,Southeast,35,0
+6571,Florence,SC,12,Southeast,35,0
+6572,Knoxville,TN,10,Mississippi Valley,23,0
+6573,Jacksonville,NC,11,Southeast,35,0
+6575,Pittsburgh,PA,9,Northeast,33,1
+6581,Scranton,PA,10,Northeast,40,0
+6582,BLUFFTON,SC,5,Southeast,29,5
+6604,Flagstaff,AZ,11,Western,4,0
+6605,Gilbert,AZ,10,Western,4,0
+6606,Phoenix,AZ,10,Western,4,0
+6608,Phoenix,AZ,12,Western,4,0
+6609,Palm Desert,CA,12,Western,2,0
+6610,Chino,CA,10,Western,2,0
+6612,Concord,CA,8,Western,1,2
+6613,Long Beach,CA,12,Western,2,0
+6614,El Monte,CA,12,Western,2,0
+6615,Fountain Valley,CA,12,Western,2,0
+6616,Fullerton,CA,13,Western,2,0
+6617,Gardena,CA,10,Western,2,0
+6619,Ontario,CA,12,Western,2,0
+6620,FOLSOM,CA,12,Western,1,0
+6621,Roseville,CA,8,Western,1,2
+6622,Sacramento,CA,12,Western,1,0
+6624,San Bernardino,CA,12,Western,2,0
+6626,South Gate,CA,12,Western,2,0
+6628,Torrance,CA,12,Western,2,0
+6630,Arvada,CO,7,Western,5,3
+6631,Aurora,CO,8,Western,5,2
+6632,Denver,CO,7,Western,5,3
+6633,Fort Collins,CO,10,North Central,7,0
+6634,Lone Tree,CO,4,Western,5,6
+6635,Littleton,CO,6,Western,5,4
+6636,Newington,CT,6,Northeast,40,4
+6637,Pompano Beach,FL,12,Southeast,32,0
+6643,Brookhaven,GA,10,Mississippi Valley,28,0
+6644,Oakwood,GA,8,Mississippi Valley,28,2
+6646,Alpharetta,GA,10,Mississippi Valley,28,0
+6651,Catonsville,MD,12,Northeast,38,0
+6652,FREDERICK,MD,12,Northeast,38,0
+6653,GAITHERSBURG,MD,12,Northeast,38,0
+6655,WALDORF,MD,12,Northeast,38,0
+6657,Novi,MI,7,North Central,26,3
+6658,Jackson,MI,7,North Central,25,3
+6659,Madison Heights,MI,7,North Central,26,3
+6660,Port Huron,MI,10,North Central,26,0
+6661,Portage,MI,7,North Central,25,3
+6662,Roseville,MI,8,North Central,26,2
+6663,Saginaw,MI,7,North Central,25,3
+6664,Utica,MI,4,North Central,26,6
+6666,Canton,MI,10,North Central,26,0
+6667,Ypsilanti,MI,6,North Central,26,4
+6670,Woodbury,NJ,12,Northeast,39,0
+6671,Freehold,NJ,9,Northeast,39,1
+6672,Albuquerque,NM,12,South Central,6,0
+6673,Buffalo,NY,6,Northeast,37,4
+6674,Elmsford,NY,10,Northeast,40,0
+6675,Erie,PA,12,Northeast,37,0
+6676,Willow Grove,PA,12,Northeast,39,0
+6677,Monroeville,PA,9,Northeast,33,1
+6678,Pittsburgh,PA,7,Northeast,33,3
+6679,West Mifflin,PA,12,Northeast,33,0
+6680,BAYAMON,PR,10,Southeast,36,0
+6682,Layton,UT,8,Western,3,2
+6683,Salt Lake City,UT,11,Western,3,0
+6684,Ogden,UT,11,Western,3,0
+6685,Provo,UT,10,Western,3,0
+6686,Salt Lake City,UT,7,Western,3,3
+6689,CAGUAS,PR,12,Southeast,36,0
+6692,Tucson,AZ,12,Western,4,0
+6693,Langhorne,PA,12,Northeast,39,0
+6779,Moore,OK,12,Central,10,0
+6781,Keller,TX,12,South Central,11,0
+6867,Richmond,TX,12,South Central,15,0
+6976,Wake Forest,NC,10,Southeast,35,0
+6979,Ankeny,IA,10,North Central,8,0
+7189,Oklahoma City,OK,8,Central,10,2
+7658,Brunswick,GA,13,Southeast,29,0
+7676,Amarillo,TX,9,South Central,6,1
+8102,Mobile,AL,12,Mississippi Valley,24,0
+8104,Little Rock,AR,12,Central,16,0
+8106,Montgomery,AL,12,Mississippi Valley,24,0
+8107,Huntsville,AL,11,Mississippi Valley,24,0
+8111,Louisville,KY,10,Central,22,0
+8112,Chattanooga,TN,12,Mississippi Valley,23,0
+8114,Lafayette,LA,12,Mississippi Valley,17,0
+8115,Augusta,GA,10,Southeast,29,0
+8116,Jacksonville,FL,10,Southeast,29,0
+8117,Oklahoma City,OK,12,Central,10,0
+8119,Pensacola,FL,12,Mississippi Valley,24,0
+8120,Tallahassee,FL,10,Southeast,29,0
+8123,Evansville,IN,10,Central,22,0
+8125,Saint Louis,MO,12,Central,19,0
+8126,Brownsville,TX,9,South Central,12,1
+8128,Peoria,IL,10,Central,21,0
+8129,Wilmington,NC,11,Southeast,35,0
+8130,Fort Myers,FL,12,Southeast,32,0
+8132,Springdale,OH,10,Central,22,0
+8133,Florence,KY,10,Central,22,0
+8134,Fort Smith,AR,12,Central,16,0
+8135,Terre Haute,IN,9,Central,21,1
+8136,Washington Township,OH,9,Central,22,1
+8138,Daytona Beach,FL,9,Southeast,36,1
+8139,Holland,OH,5,North Central,26,5
+8141,Melbourne,FL,12,Southeast,32,0
+8142,Spartanburg,SC,12,Southeast,30,0
+8144,Pleasantville,NJ,10,Northeast,39,0
+8145,RIVERTON,NJ,8,Northeast,39,2
+8146,Omaha,NE,9,North Central,8,1
+8147,Loveland,CO,10,North Central,7,0
+8149,Green Bay,WI,7,North Central,18,3
+8150,PORT SAINT LUCIE,FL,12,Southeast,32,0
+8151,Panama City,FL,12,Southeast,29,0
+8152,South Point,OH,12,Mississippi Valley,27,0
+8153,El Paso,TX,10,South Central,6,0
+8155,Gainesville,FL,12,Southeast,31,0
+8156,Laredo,TX,10,South Central,12,0
+8157,West Palm Beach,FL,9,Southeast,32,1
+8158,Woodstock,GA,10,Mississippi Valley,28,0
+8160,Temple,PA,12,Northeast,39,0
+8161,York,PA,14,Northeast,38,0
+8162,Cedar Rapids,IA,12,North Central,8,0
+8163,Columbia,MO,3,Central,9,7
+8164,Waukesha,WI,10,North Central,18,0
+8165,Sioux Falls,SD,7,North Central,7,3
+8166,Duluth,GA,12,Mississippi Valley,28,0
+8167,Franklin,WI,6,North Central,18,4
+8168,Indianapolis,IN,12,Central,21,0
+8169,Lafayette,IN,5,Central,21,5
+8172,Fargo,ND,8,North Central,7,2
+8173,HOLLYWOOD,FL,14,Southeast,32,0
+8174,Merrillville,IN,10,Central,21,0
+8175,Harrisburg,PA,11,Northeast,39,0
+8176,Topeka,KS,7,Central,9,3
+8177,Las Vegas,NV,12,Western,4,0
+8180,Marion,IL,8,Central,19,2
+8181,Alexandria,LA,12,Mississippi Valley,17,0
+8182,Saint Louis,MO,7,Central,19,3
+8183,Saint Cloud,MN,12,North Central,18,0
+8184,GURNEE,IL,10,North Central,20,0
+8185,Eau Claire,WI,4,North Central,18,6
+8186,Scarborough,ME,4,Northeast,40,6
+8188,Lexington,KY,8,Central,22,2
+8189,Clarksburg,WV,10,Northeast,33,0
+8190,La Marque,TX,12,South Central,15,0
+8191,WILKES BARRE,PA,10,Northeast,40,0
+8192,Dothan,AL,10,Southeast,29,0
+8193,Hagerstown,MD,10,Northeast,38,0
+8194,Athens,GA,5,Mississippi Valley,28,5
+8196,Florence,AL,9,Mississippi Valley,24,1
+8197,Champaign,IL,11,Central,21,0
+8201,Bradenton,FL,12,Southeast,31,0
+8202,Savannah,GA,11,Southeast,29,0
+8203,Marietta,GA,5,Mississippi Valley,28,5
+8205,Saint Louis,MO,10,Central,19,0
+8207,Kansas City,MO,12,Central,9,0
+8208,Lenexa,KS,7,Central,9,3
+8209,Fayetteville,AR,10,Central,16,0
+8210,Burleson,TX,12,South Central,11,0
+8211,Douglasville,GA,7,Mississippi Valley,28,3
+8213,Columbus,GA,11,Mississippi Valley,24,0
+8215,Springfield,IL,10,Central,21,0
+8218,Fayetteville,NC,12,Southeast,35,0
+8219,Matthews,NC,10,Southeast,30,0
+8220,Roanoke,VA,7,Northeast,34,3
+8221,Harvey,LA,11,Mississippi Valley,17,0
+8222,JOHNSON CITY,TN,11,Mississippi Valley,23,0
+8223,Raleigh,NC,9,Southeast,35,1
+8224,Wichita Falls,TX,8,Central,10,2
+8225,Macon,GA,10,Mississippi Valley,28,0
+8226,Abilene,TX,10,South Central,11,0
+8227,San Antonio,TX,12,South Central,12,0
+8228,Winston Salem,NC,10,Northeast,34,0
+8236,Gulfport,MS,12,Mississippi Valley,24,0
+8237,Monroe,LA,10,Mississippi Valley,17,0
+8238,Davenport,IA,11,North Central,8,0
+8239,Lawton,OK,12,Central,10,0
+8241,Oklahoma City,OK,10,Central,10,0
+8242,Dallas,TX,12,South Central,14,0
+8243,RAYMORE,MO,8,Central,9,2
+8244,Houston,TX,12,South Central,15,0
+8245,Houston,TX,12,South Central,13,0
+8246,Stafford,TX,12,South Central,15,0
+8247,Birmingham,AL,5,Mississippi Valley,24,5
+8248,Dallas,TX,12,South Central,14,0
+8250,McAllen,TX,12,South Central,12,0
+8251,Saint Charles,MO,8,Central,19,2
+8252,North Charleston,SC,5,Southeast,29,5
+8253,Jacksonville,FL,10,Southeast,29,0
+8254,Wichita,KS,12,Central,9,0
+8256,Knoxville,TN,12,Mississippi Valley,23,0
+8257,Hendersonville,TN,12,Mississippi Valley,23,0
+8259,Austin,TX,9,South Central,13,1
+8261,Kenner,LA,12,Mississippi Valley,17,0
+8262,San Antonio,TX,12,South Central,12,0
+8263,Tulsa,OK,9,Central,10,1
+8264,San Antonio,TX,10,South Central,12,0
+8265,Lake Charles,LA,12,South Central,15,0
+8266,North Little Rock,AR,11,Central,16,0
+8267,Corpus Christi,TX,10,South Central,12,0
+8268,North Richland Hills,TX,12,South Central,11,0
+8269,Grand Prairie,TX,12,South Central,11,0
+8270,Lubbock,TX,9,South Central,6,1
+8271,Madison,MS,12,Mississippi Valley,17,0
+8272,Colorado Springs,CO,10,Western,5,0
+8273,Shreveport,LA,11,Mississippi Valley,17,0
+8274,Jersey Village,TX,12,South Central,15,0
+8275,BEAUMONT,TX,12,South Central,15,0
+8276,Louisville,KY,7,Central,22,3
+8277,FORT WORTH,TX,10,South Central,11,0
+8278,Greenville,SC,14,Southeast,30,0
+8279,Amarillo,TX,12,South Central,6,0
+8280,El Paso,TX,12,South Central,6,0
+8281,Houston,TX,12,South Central,15,0
+8282,Dallas,TX,12,South Central,11,0
+8283,Columbia,SC,12,Southeast,35,0
+8284,Tyler,TX,12,South Central,14,0
+8285,O FALLON,IL,7,Central,19,3
+8286,Waco,TX,8,South Central,13,2
+8287,Morrow,GA,6,Mississippi Valley,28,4
+8288,Midland,TX,7,South Central,11,3
+8289,Oklahoma City,OK,7,Central,10,3
+8290,Orlando,FL,10,Southeast,36,0
+8291,Flint,MI,12,North Central,25,0
+8292,Memphis,TN,12,Mississippi Valley,23,0
+8293,Independence,MO,6,Central,9,4
+8294,Nashville,TN,12,Mississippi Valley,23,0
+8295,Texarkana,TX,10,Central,16,0
+8296,Springfield,MO,12,Central,16,0
+8297,Rockford,IL,12,North Central,20,0
+8298,Joliet,IL,12,Central,21,0
+8299,Plano,TX,9,South Central,14,1
+6520,Vero Beach,FL,12,Southeast,32,0
+4794,Lakeland (S),FL,12,Southeast,31,0
+6448,New Port Richey,FL,11,Southeast,31,0
+6650,Baltimore (Rosedale),MD,12,Northeast,38,0
+6351,Newport News,VA,12,Northeast,34,0
+6690,Ponce,PR,12,Southeast,36,0
