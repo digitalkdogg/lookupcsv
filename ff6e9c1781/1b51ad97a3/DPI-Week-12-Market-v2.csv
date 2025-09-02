@@ -1,0 +1,406 @@
+﻿Market ID,Region,Store ID,First Assigned Carrier,Fulfillment Type,Weeks With Status, Status, Trend,Directional Focus,Week Reported,OTD* %,OTP* %,Dwell Time*,OTD Previous Week,OTD 2 Wks Ago,OTD 3 Wks Ago,OTD 4 Wks Ago
+55,5,1118,SPARK,Scheduled Standard Delivery,6,Active Monitoring,Recovering,Driver Supply Focus,202412,91.50%,98.50%,7.8,92.90%,88.70%,91.20%,93.50%
+81,7,781,SPARK,Scheduled Standard Delivery,42,Executive Review,Recovering,Driver Supply Focus,202412,93.20%,96.20%,8.3,93.90%,97.20%,93.00%,89.00%
+47,44,38,SPARK,Scheduled Standard Delivery,7,At Risk,Degrading,Driver Supply Focus,202412,82.70%,99.00%,6.9,89.90%,67.50%,76.60%,94.70%
+47,44,427,SPARK,Scheduled Standard Delivery,3,Active Monitoring,Degrading,Driver Supply Focus,202412,81.20%,95.40%,8.8,89.60%,81.20%,72.30%,80.80%
+351,44,276,SPARK,Scheduled Standard Delivery,3,Active Monitoring,Recovering,Driver Supply Focus,202412,87.10%,99.00%,5.5,92.00%,93.30%,76.10%,87.10%
+128,13,541,UBER,Scheduled Standard Delivery,35,Executive Review,Degrading,Driver Supply Focus,202412,76.20%,96.50%,9.6,84.60%,68.90%,,
+82,7,2133,UBER,Scheduled Standard Delivery,2,Active Monitoring,Degrading,Driver Supply Focus,202412,87.00%,89.80%,9.9,85.90%,89.70%,87.70%,84.30%
+86,7,3106,UBER,Scheduled Standard Delivery,20,Executive Review,Recovering,Driver Supply Focus,202412,92.00%,98.70%,9.2,98.70%,90.40%,81.10%,97.30%
+569,6,2765,SPARK,Scheduled Standard Delivery,1,Active Monitoring,Degrading,Driver Supply Focus,202412,84.80%,99.70%,7.4,85.30%,82.60%,83.70%,87.40%
+84,6,1098,SPARK,Scheduled Standard Delivery,5,Active Monitoring,Recovering,Driver Supply Focus,202412,86.60%,99.80%,5.7,90.50%,81.80%,91.50%,82.00%
+61,6,482,SPARK,Scheduled Standard Delivery,28,Executive Review,Recovering,Driver Supply Focus,202412,94.60%,100.00%,3.1,97.10%,86.70%,100.00%,94.40%
+63,6,4526,UBER,Scheduled Standard Delivery,4,Active Monitoring,Recovering,Driver Supply Focus,202412,89.70%,97.40%,9.6,93.30%,91.20%,85.10%,89.10%
+63,6,5612,SPARK,Scheduled Standard Delivery,3,Active Monitoring,Degrading,Driver Supply Focus,202412,87.70%,97.30%,8.8,89.20%,87.60%,85.60%,88.40%
+63,6,5612,UBER,Scheduled Standard Delivery,31,Executive Review,Degrading,Driver Supply Focus,202412,86.70%,95.70%,8.2,88.80%,88.50%,81.40%,88.20%
+63,6,5959,SPARK,Scheduled Standard Delivery,6,At Risk,Degrading,Driver Supply Focus,202412,84.60%,98.10%,7.7,88.00%,84.70%,83.00%,82.60%
+85,6,293,SPARK,Scheduled Standard Delivery,39,Executive Review,Recovering,Driver Supply Focus,202412,89.40%,98.80%,3.8,95.50%,91.30%,90.00%,80.00%
+85,6,567,SPARK,Scheduled Standard Delivery,40,Executive Review,Degrading,Driver Supply Focus,202412,72.30%,100.00%,5.3,66.70%,81.80%,30.00%,100.00%
+494,59,4053,SPARK,Scheduled Standard Delivery,13,Executive Review,Degrading,Driver Supply Focus,202412,79.20%,89.80%,7.1,73.70%,79.60%,81.20%,82.00%
+494,59,5804,SPARK,Scheduled Standard Delivery,49,Executive Review,Recovering,Driver Supply Focus,202412,91.60%,96.80%,5.1,92.30%,89.00%,,100.00%
+242,41,4450,UBER,Scheduled Standard Delivery,20,Executive Review,Recovering,Driver Supply Focus,202412,91.00%,97.30%,8.6,93.40%,90.50%,92.60%,88.40%
+213,19,1429,SPARK,Scheduled Standard Delivery,6,Active Monitoring,Recovering,Driver Supply Focus,202412,94.40%,96.50%,9.7,96.10%,87.80%,96.40%,97.40%
+203,19,1423,SPARK,Scheduled Standard Delivery,17,Executive Review,Recovering,Driver Supply Focus,202412,94.30%,98.10%,6.8,100.00%,96.10%,99.00%,85.10%
+203,19,2866,SPARK,Scheduled Standard Delivery,5,At Risk,Degrading,Driver Supply Focus,202412,89.40%,97.60%,5.8,89.10%,88.70%,94.30%,85.20%
+204,19,1428,UBER,Scheduled Standard Delivery,18,Executive Review,Degrading,Driver Supply Focus,202412,94.30%,95.60%,10,89.50%,97.40%,94.90%,95.10%
+205,19,1798,SPARK,Scheduled Standard Delivery,4,Active Monitoring,Recovering,Driver Supply Focus,202412,91.30%,96.00%,7.4,95.40%,95.80%,89.90%,84.60%
+205,19,2354,UBER,Scheduled Standard Delivery,18,Executive Review,Degrading,Driver Supply Focus,202412,88.90%,95.70%,7.6,88.60%,93.90%,89.10%,85.30%
+205,19,3632,SPARK,Scheduled Standard Delivery,8,At Risk,Recovering,Driver Supply Focus,202412,90.80%,100.00%,6,93.60%,98.00%,87.00%,84.50%
+273,25,1734,UBER,Scheduled Standard Delivery,36,Executive Review,Recovering,Driver Supply Focus,202412,90.90%,93.00%,8.5,92.50%,89.60%,91.00%,90.90%
+279,25,957,SPARK,Scheduled Standard Delivery,39,Executive Review,Recovering,Driver Supply Focus,202412,90.20%,98.40%,5.1,95.70%,95.30%,81.10%,90.00%
+267,25,5402,SPARK,Scheduled Standard Delivery,49,Executive Review,Recovering,Driver Supply Focus,202412,90.40%,92.80%,9.1,91.90%,87.70%,92.00%,90.20%
+267,25,5617,SPARK,Scheduled Standard Delivery,49,Executive Review,Recovering,Driver Supply Focus,202412,90.80%,93.60%,7.9,92.80%,85.80%,91.10%,94.40%
+227,20,2300,SPARK,Scheduled Standard Delivery,27,Executive Review,Recovering,Driver Supply Focus,202412,92.40%,88.20%,9.6,92.40%,85.20%,94.80%,97.00%
+229,20,2008,SPARK,Scheduled Standard Delivery,13,Executive Review,Recovering,Driver Supply Focus,202412,87.60%,99.80%,5.3,92.80%,92.50%,77.40%,89.40%
+235,20,1739,SPARK,Scheduled Standard Delivery,35,Executive Review,Recovering,Driver Supply Focus,202412,92.20%,94.40%,9.1,95.90%,85.60%,94.40%,92.50%
+209,20,5387,UBER,Scheduled Standard Delivery,37,Executive Review,Recovering,Driver Supply Focus,202412,92.40%,98.80%,5.2,95.70%,95.20%,86.80%,94.20%
+316,20,2792,SPARK,Scheduled Standard Delivery,8,At Risk,Recovering,Driver Supply Focus,202412,91.30%,99.90%,5.3,92.90%,92.60%,88.90%,90.70%
+317,20,4278,UBER,Scheduled Standard Delivery,23,Executive Review,Degrading,Driver Supply Focus,202412,86.50%,100.00%,6.5,85.70%,77.80%,95.10%,86.00%
+336,40,44,SPARK,Scheduled Standard Delivery,39,Executive Review,Degrading,Driver Supply Focus,202412,87.00%,96.60%,4.4,88.50%,75.90%,84.80%,100.00%
+336,40,65,SPARK,Scheduled Standard Delivery,6,Active Monitoring,Degrading,Driver Supply Focus,202412,89.90%,97.80%,7.6,86.90%,89.00%,93.10%,91.20%
+272,40,436,SPARK,Scheduled Standard Delivery,10,At Risk,Recovering,Driver Supply Focus,202412,94.20%,100.00%,4.6,98.00%,100.00%,90.70%,87.50%
+218,21,3282,SPARK,Scheduled Standard Delivery,7,Executive Review,Degrading,Driver Supply Focus,202412,84.80%,99.50%,7.3,86.00%,82.10%,84.00%,87.30%
+218,21,3515,SPARK,Scheduled Standard Delivery,6,Active Monitoring,Degrading,Driver Supply Focus,202412,90.80%,98.50%,8.2,89.20%,94.10%,83.10%,96.10%
+263,53,802,SPARK,Scheduled Standard Delivery,2,Active Monitoring,Degrading,Driver Supply Focus,202412,81.20%,98.90%,4.5,72.90%,77.20%,83.50%,89.70%
+441,53,3857,SPARK,Scheduled Standard Delivery,3,Active Monitoring,Degrading,Driver Supply Focus,202412,86.10%,95.80%,9.2,84.70%,88.70%,82.70%,88.10%
+436,53,5444,SPARK,Scheduled Standard Delivery,7,Active Monitoring,Recovering,Driver Supply Focus,202412,93.20%,99.20%,4.5,99.50%,92.40%,86.40%,94.80%
+97,14,1408,UBER,Scheduled Standard Delivery,6,Active Monitoring,Recovering,Driver Supply Focus,202412,92.50%,98.20%,9.8,93.40%,95.00%,92.00%,89.80%
+16,14,3461,UBER,Scheduled Standard Delivery,22,Executive Review,Degrading,Driver Supply Focus,202412,90.40%,93.80%,9.3,84.50%,94.10%,90.10%,92.90%
+28,3,5392,SPARK,Scheduled Standard Delivery,8,At Risk,Recovering,Driver Supply Focus,202412,93.20%,98.70%,7.5,95.60%,94.40%,93.80%,89.20%
+93,3,1283,SPARK,Scheduled Standard Delivery,7,At Risk,Recovering,Driver Supply Focus,202412,90.40%,98.80%,7.3,91.80%,94.30%,83.60%,92.20%
+119,12,1089,UBER,Scheduled Standard Delivery,5,Active Monitoring,Recovering,Driver Supply Focus,202412,89.30%,98.50%,5.1,94.40%,86.20%,91.90%,87.20%
+120,12,5251,UBER,Scheduled Standard Delivery,5,Active Monitoring,Recovering,Driver Supply Focus,202412,88.80%,99.60%,9.7,91.90%,86.00%,86.70%,90.30%
+123,12,678,SPARK,Scheduled Standard Delivery,7,Active Monitoring,Recovering,Driver Supply Focus,202412,90.00%,94.60%,8.7,94.10%,83.90%,90.90%,91.50%
+123,12,6370,UBER,Scheduled Standard Delivery,2,Active Monitoring,Recovering,Driver Supply Focus,202412,83.80%,98.70%,7.3,100.00%,85.70%,84.00%,70.00%
+124,12,2749,SPARK,Scheduled Standard Delivery,15,Executive Review,Degrading,Driver Supply Focus,202412,88.20%,94.70%,7.4,86.40%,87.30%,87.70%,91.20%
+124,12,3289,SPARK,Scheduled Standard Delivery,16,Executive Review,Recovering,Driver Supply Focus,202412,93.60%,97.60%,7.6,95.50%,88.90%,99.00%,92.10%
+146,11,93,UBER,Scheduled Standard Delivery,32,Executive Review,Degrading,Driver Supply Focus,202412,87.90%,100.00%,8,75.00%,100.00%,100.00%,75.00%
+146,11,97,UBER,Scheduled Standard Delivery,33,Executive Review,Degrading,Driver Supply Focus,202412,38.50%,93.30%,5.9,40.00%,0.00%,75.00%,0.00%
+146,11,120,UBER,Scheduled Standard Delivery,15,Executive Review,Recovering,Driver Supply Focus,202412,89.10%,98.60%,7.5,97.10%,90.90%,85.30%,83.30%
+153,12,5058,UBER,Scheduled Standard Delivery,20,Executive Review,Recovering,Driver Supply Focus,202412,91.20%,94.60%,8.1,100.00%,100.00%,100.00%,80.00%
+153,12,5616,UBER,Scheduled Standard Delivery,6,Active Monitoring,Recovering,Driver Supply Focus,202412,89.10%,99.20%,7.4,96.70%,91.80%,83.10%,90.00%
+140,11,2939,UBER,Scheduled Standard Delivery,6,Active Monitoring,Recovering,Driver Supply Focus,202412,93.50%,99.10%,5.3,100.00%,92.60%,96.30%,86.20%
+140,11,3059,SPARK,Scheduled Standard Delivery,5,Active Monitoring,Recovering,Driver Supply Focus,202412,90.10%,91.70%,6.8,91.10%,88.90%,87.70%,92.70%
+140,11,365,UBER,Scheduled Standard Delivery,12,At Risk,Degrading,Driver Supply Focus,202412,86.90%,95.40%,9.5,84.50%,86.40%,90.90%,84.70%
+21,2,1363,SPARK,Scheduled Standard Delivery,9,Active Monitoring,Recovering,Driver Supply Focus,202412,93.10%,97.20%,7.5,98.00%,90.70%,89.90%,93.20%
+18,2,1070,SPARK,Scheduled Standard Delivery,34,Executive Review,Recovering,Driver Supply Focus,202412,94.50%,90.00%,9,93.70%,88.30%,99.50%,96.80%
+554,59,3072,SPARK,Scheduled Standard Delivery,20,Executive Review,Recovering,Driver Supply Focus,202412,91.10%,91.20%,9.5,91.60%,90.40%,93.10%,89.30%
+20,2,3118,SPARK,Scheduled Standard Delivery,49,Executive Review,Degrading,Driver Supply Focus,202412,79.40%,97.40%,9.2,79.70%,71.30%,87.10%,80.70%
+20,2,3709,SPARK,Scheduled Standard Delivery,5,Active Monitoring,Degrading,Driver Supply Focus,202412,91.90%,98.50%,9.3,89.20%,93.50%,95.40%,89.70%
+22,2,3741,SPARK,Scheduled Standard Delivery,49,Executive Review,Degrading,Driver Supply Focus,202412,92.90%,98.30%,9.7,89.10%,95.90%,97.60%,89.10%
+25,2,4472,UBER,Scheduled Standard Delivery,2,Active Monitoring,Degrading,Driver Supply Focus,202412,86.50%,95.60%,9.4,84.40%,87.80%,88.00%,84.90%
+326,42,169,SPARK,Scheduled Standard Delivery,11,At Risk,Recovering,Driver Supply Focus,202412,94.60%,96.00%,9.2,96.50%,87.80%,98.80%,95.10%
+105,9,5034,UBER,Scheduled Standard Delivery,21,Executive Review,Recovering,Driver Supply Focus,202412,89.50%,99.30%,10,94.70%,91.60%,88.20%,87.40%
+553,9,3235,SPARK,Scheduled Standard Delivery,6,At Risk,Recovering,Driver Supply Focus,202412,90.50%,99.60%,4.6,93.00%,90.60%,89.70%,88.60%
+90,9,908,UBER,Scheduled Standard Delivery,28,Executive Review,Degrading,Driver Supply Focus,202412,87.30%,94.40%,8.9,86.80%,93.40%,77.90%,91.90%
+476,60,1876,SPARK,Scheduled Standard Delivery,39,Executive Review,Degrading,Driver Supply Focus,202412,80.40%,94.90%,4.5,88.10%,78.30%,75.00%,80.60%
+472,60,5861,SPARK,Scheduled Standard Delivery,2,Active Monitoring,Recovering,Driver Supply Focus,202412,89.40%,93.10%,7.6,99.40%,87.70%,84.00%,87.70%
+474,60,4394,SPARK,Scheduled Standard Delivery,18,Executive Review,Recovering,Driver Supply Focus,202412,93.60%,99.20%,7.1,95.10%,88.70%,95.20%,95.10%
+414,52,1389,SPARK,Scheduled Standard Delivery,3,Active Monitoring,Recovering,Driver Supply Focus,202412,88.30%,98.70%,6.6,93.30%,98.30%,81.60%,81.60%
+426,52,1005,SPARK,Scheduled Standard Delivery,4,Active Monitoring,Recovering,Driver Supply Focus,202412,89.90%,99.70%,5.2,94.40%,87.90%,89.00%,87.70%
+422,52,2882,SPARK,Scheduled Standard Delivery,4,Active Monitoring,Recovering,Driver Supply Focus,202412,89.10%,89.40%,9.7,95.30%,95.00%,97.60%,57.20%
+364,58,1299,SPARK,Scheduled Standard Delivery,1,Active Monitoring,Degrading,Driver Supply Focus,202412,81.30%,95.50%,7.3,75.50%,80.30%,84.50%,85.20%
+365,58,4337,SPARK,Scheduled Standard Delivery,5,Active Monitoring,Recovering,Driver Supply Focus,202412,92.00%,99.80%,7.4,97.40%,97.40%,89.80%,84.40%
+394,57,3473,UBER,Scheduled Standard Delivery,22,Executive Review,Recovering,Driver Supply Focus,202412,88.90%,92.60%,8.4,90.80%,80.50%,91.70%,94.20%
+396,57,4557,UBER,Scheduled Standard Delivery,21,Executive Review,Recovering,Driver Supply Focus,202412,87.20%,90.30%,8.2,94.60%,80.00%,81.50%,93.80%
+470,57,2321,SPARK,Scheduled Standard Delivery,10,At Risk,Recovering,Driver Supply Focus,202412,89.70%,96.80%,7.2,97.10%,89.00%,92.60%,79.50%
+470,57,3290,SPARK,Scheduled Standard Delivery,18,Executive Review,Degrading,Driver Supply Focus,202412,90.70%,94.20%,9.1,89.70%,94.30%,88.30%,90.70%
+388,54,986,UBER,Scheduled Standard Delivery,4,Active Monitoring,Degrading,Driver Supply Focus,202412,84.00%,98.10%,5.2,80.00%,91.70%,78.30%,84.20%
+585,54,2293,SPARK,Scheduled Standard Delivery,24,Executive Review,Recovering,Driver Supply Focus,202412,87.40%,97.80%,6.3,92.30%,82.10%,95.80%,81.00%
+585,54,2752,SPARK,Scheduled Standard Delivery,35,Executive Review,Recovering,Driver Supply Focus,202412,92.90%,92.60%,6.2,97.00%,89.90%,88.90%,96.40%
+391,54,1200,UBER,Scheduled Standard Delivery,19,Executive Review,Recovering,Driver Supply Focus,202412,91.00%,92.60%,7.8,95.00%,89.30%,91.00%,90.60%
+170,22,5130,SPARK,Scheduled Standard Delivery,5,Active Monitoring,Recovering,Driver Supply Focus,202412,89.60%,97.40%,6.6,92.70%,86.20%,88.00%,92.10%
+234,22,1537,SPARK,Scheduled Standard Delivery,1,Active Monitoring,Degrading,Driver Supply Focus,202412,83.90%,98.20%,5.7,82.00%,86.60%,80.40%,86.00%
+167,22,2167,SPARK,Scheduled Standard Delivery,19,Executive Review,Recovering,Driver Supply Focus,202412,84.20%,99.20%,7,91.60%,87.20%,78.50%,79.70%
+159,16,2341,SPARK,Scheduled Standard Delivery,49,Executive Review,Degrading,Driver Supply Focus,202412,75.60%,89.40%,7.2,76.60%,65.00%,77.10%,85.20%
+159,16,3200,UBER,Scheduled Standard Delivery,1,Active Monitoring,Degrading,Driver Supply Focus,202412,88.10%,100.00%,6.1,88.30%,89.40%,86.20%,88.80%
+181,16,1975,SPARK,Scheduled Standard Delivery,2,Active Monitoring,Recovering,Driver Supply Focus,202412,86.60%,98.30%,9,92.60%,81.50%,86.70%,86.00%
+187,16,1994,SPARK,Scheduled Standard Delivery,8,At Risk,Recovering,Driver Supply Focus,202412,94.80%,96.00%,9.7,99.60%,97.20%,92.80%,87.50%
+179,16,1932,SPARK,Scheduled Standard Delivery,10,Executive Review,Recovering,Driver Supply Focus,202412,90.30%,98.10%,7.7,94.10%,97.10%,90.70%,76.90%
+183,16,1698,SPARK,Scheduled Standard Delivery,31,Executive Review,Recovering,Driver Supply Focus,202412,89.70%,95.20%,8.6,97.20%,87.40%,82.80%,91.30%
+183,16,2659,SPARK,Scheduled Standard Delivery,2,Active Monitoring,Recovering,Driver Supply Focus,202412,85.40%,94.20%,7.1,92.60%,80.00%,82.90%,86.10%
+184,16,1753,SPARK,Scheduled Standard Delivery,17,Executive Review,Recovering,Driver Supply Focus,202412,88.90%,88.10%,7.6,97.50%,87.30%,83.60%,86.90%
+181,16,2138,SPARK,Scheduled Standard Delivery,32,Executive Review,Degrading,Driver Supply Focus,202412,69.90%,100.00%,4.8,84.40%,63.70%,66.70%,65.60%
+181,16,2224,SPARK,Scheduled Standard Delivery,30,Executive Review,Recovering,Driver Supply Focus,202412,82.90%,96.60%,7.6,92.20%,84.60%,75.20%,76.80%
+187,16,2424,SPARK,Scheduled Standard Delivery,34,Executive Review,Recovering,Driver Supply Focus,202412,89.60%,92.60%,6.9,93.60%,87.60%,83.30%,94.00%
+187,16,5497,UBER,Scheduled Standard Delivery,4,Active Monitoring,Recovering,Driver Supply Focus,202412,90.30%,99.50%,7.9,97.70%,89.10%,88.00%,87.20%
+189,16,2444,SPARK,Scheduled Standard Delivery,7,At Risk,Recovering,Driver Supply Focus,202412,93.10%,98.70%,8.8,98.70%,96.40%,89.80%,85.70%
+228,76,2597,SPARK,Scheduled Standard Delivery,5,Active Monitoring,Recovering,Driver Supply Focus,202412,90.50%,98.50%,9.3,93.90%,88.80%,85.30%,94.10%
+304,26,1064,UBER,Scheduled Standard Delivery,5,Active Monitoring,Degrading,Driver Supply Focus,202412,90.30%,97.50%,7.6,89.10%,94.80%,84.30%,93.30%
+306,26,2134,SPARK,Scheduled Standard Delivery,26,Executive Review,Recovering,Driver Supply Focus,202412,91.30%,99.00%,9.6,92.80%,92.50%,90.00%,89.80%
+296,26,2256,SPARK,Scheduled Standard Delivery,32,Executive Review,Recovering,Driver Supply Focus,202412,89.20%,97.80%,8.2,90.50%,89.40%,93.70%,83.40%
+296,26,3182,UBER,Scheduled Standard Delivery,8,At Risk,Degrading,Driver Supply Focus,202412,88.00%,98.50%,9.9,86.80%,93.80%,82.80%,87.90%
+283,76,3035,SPARK,Scheduled Standard Delivery,49,Executive Review,Degrading,Driver Supply Focus,202412,78.20%,91.30%,8.6,85.70%,67.20%,81.10%,79.00%
+283,76,5129,UBER,Scheduled Standard Delivery,35,Executive Review,Recovering,Driver Supply Focus,202412,74.00%,99.70%,6.8,100.00%,74.40%,68.70%,71.30%
+286,76,2564,UBER,Scheduled Standard Delivery,16,Executive Review,Degrading,Driver Supply Focus,202412,90.90%,94.60%,4.5,83.30%,92.90%,93.30%,92.90%
+320,76,2833,SPARK,Scheduled Standard Delivery,8,Executive Review,Degrading,Driver Supply Focus,202412,83.60%,99.40%,5.4,81.30%,79.30%,86.50%,87.20%
+297,26,1614,UBER,Scheduled Standard Delivery,33,Executive Review,-,Driver Supply Focus,202412,33.30%,100.00%,5.5,,0.00%,,50.00%
+297,26,2058,UBER,Scheduled Standard Delivery,44,Executive Review,Recovering,Driver Supply Focus,202412,91.90%,99.60%,8.8,96.60%,91.50%,89.20%,93.20%
+297,26,4250,UBER,Scheduled Standard Delivery,31,Executive Review,Recovering,Driver Supply Focus,202412,89.70%,99.10%,9.8,93.20%,87.60%,86.40%,91.50%
+297,26,5118,SPARK,Scheduled Standard Delivery,19,Executive Review,Degrading,Driver Supply Focus,202412,87.20%,98.00%,8.5,82.50%,90.00%,87.90%,88.30%
+297,26,5118,UBER,Scheduled Standard Delivery,19,Executive Review,Degrading,Driver Supply Focus,202412,89.00%,97.00%,8.8,83.50%,90.70%,91.60%,90.60%
+500,59,4147,UBER,Scheduled Standard Delivery,5,Active Monitoring,Recovering,Driver Supply Focus,202412,90.50%,98.10%,8.7,92.30%,96.40%,87.00%,86.70%
+312,75,1243,SPARK,Scheduled Standard Delivery,5,Active Monitoring,Recovering,Driver Supply Focus,202412,89.10%,96.70%,8.8,92.90%,77.40%,89.90%,96.50%
+287,75,1730,SPARK,Scheduled Standard Delivery,7,Active Monitoring,Recovering,Driver Supply Focus,202412,90.80%,99.60%,7.1,96.50%,91.00%,80.30%,96.20%
+287,75,2295,SPARK,Scheduled Standard Delivery,5,Active Monitoring,Recovering,Driver Supply Focus,202412,88.00%,94.50%,9.9,90.20%,84.40%,87.10%,90.70%
+281,75,2577,SPARK,Scheduled Standard Delivery,32,Executive Review,Recovering,Driver Supply Focus,202412,93.50%,91.80%,9.6,99.20%,94.40%,96.60%,87.60%
+281,75,2577,UBER,Scheduled Standard Delivery,32,Executive Review,Recovering,Driver Supply Focus,202412,91.30%,91.00%,8.5,92.00%,91.40%,93.00%,89.10%
+281,75,3489,SPARK,Scheduled Express Delivery ,13,Executive Review,Degrading,Driver Supply Focus,202412,45.40%,99.30%,9.2,44.80%,38.30%,43.30%,55.30%
+281,75,3780,UBER,Scheduled Standard Delivery,4,Active Monitoring,Recovering,Driver Supply Focus,202412,93.60%,96.30%,8.6,98.60%,98.70%,91.70%,85.90%
+29,4,1383,UBER,Scheduled Standard Delivery,5,Active Monitoring,Recovering,Driver Supply Focus,202412,83.10%,98.80%,10,92.50%,93.00%,77.60%,77.90%
+29,4,2832,UBER,Scheduled Standard Delivery,6,Active Monitoring,Degrading,Driver Supply Focus,202412,93.10%,90.40%,7.2,85.70%,94.40%,90.00%,100.00%
+42,4,2806,UBER,Scheduled Standard Delivery,16,Executive Review,Recovering,Driver Supply Focus,202412,92.30%,99.40%,8.3,98.70%,91.90%,88.20%,90.20%
+294,4,1317,UBER,Scheduled Standard Delivery,28,Executive Review,Recovering,Driver Supply Focus,202412,86.30%,98.50%,9.4,95.60%,81.40%,87.40%,84.10%
+294,4,1795,SPARK,Scheduled Standard Delivery,48,Executive Review,Degrading,Driver Supply Focus,202412,83.90%,99.60%,5.2,79.70%,88.40%,85.70%,81.60%
+36,4,1359,SPARK,Scheduled Standard Delivery,33,Executive Review,Recovering,Driver Supply Focus,202412,91.20%,94.90%,9.1,91.00%,88.90%,91.40%,93.60%
+36,4,1748,UBER,Scheduled Standard Delivery,21,Executive Review,Recovering,Driver Supply Focus,202412,87.50%,96.10%,8.8,90.80%,86.50%,85.00%,88.50%
+162,17,2898,SPARK,Scheduled Standard Delivery,7,Active Monitoring,Recovering,Driver Supply Focus,202412,89.70%,99.70%,4.5,96.50%,90.00%,86.50%,85.90%
+175,17,5201,SPARK,Scheduled Standard Delivery,2,Active Monitoring,Recovering,Driver Supply Focus,202412,88.80%,99.80%,7.9,92.50%,88.90%,85.50%,88.40%
+176,17,5447,UBER,Scheduled Standard Delivery,29,Executive Review,Degrading,Driver Supply Focus,202412,81.30%,99.30%,8.8,84.60%,86.70%,73.90%,82.70%
+176,17,5867,UBER,Scheduled Standard Delivery,31,Executive Review,Degrading,Driver Supply Focus,202412,74.20%,99.90%,9.1,73.30%,83.70%,68.70%,73.40%
+577,17,3159,UBER,Scheduled Standard Delivery,6,At Risk,Degrading,Driver Supply Focus,202412,81.10%,97.60%,9.8,83.50%,84.90%,75.30%,82.20%
+577,17,3443,SPARK,Scheduled Standard Delivery,4,Active Monitoring,Degrading,Driver Supply Focus,202412,88.10%,98.20%,5.7,84.60%,90.50%,88.00%,89.40%
+577,17,3520,UBER,Scheduled Standard Delivery,29,Executive Review,Degrading,Driver Supply Focus,202412,80.90%,98.30%,5.2,83.90%,72.40%,84.60%,82.80%
+577,17,3795,SPARK,Scheduled Standard Delivery,20,Executive Review,Recovering,Driver Supply Focus,202412,87.00%,99.40%,6.9,90.90%,85.30%,84.90%,86.50%
+577,17,3795,UBER,Scheduled Standard Delivery,30,Executive Review,Degrading,Driver Supply Focus,202412,72.00%,99.40%,8.9,80.60%,69.50%,67.80%,74.80%
+49,5,471,,Scheduled Delivery Standard,15,Executive Review,Recovering,Store Focus,202412,91.50%,94.70%,14.4,94.60%,91.40%,93.60%,86.00%
+50,5,2649,,Scheduled Delivery Standard,30,Executive Review,Recovering,Store Focus,202412,89.30%,88.20%,14,97.70%,93.60%,95.50%,68.30%
+352,44,1626,,Scheduled Delivery Standard,49,Executive Review,Recovering,Store Focus,202412,92.00%,89.60%,13.4,96.00%,91.10%,93.60%,88.20%
+350,44,185,,Scheduled Delivery Standard,3,Active Monitoring,Degrading,Store Focus,202412,87.60%,94.10%,10.7,88.00%,86.10%,88.50%,87.50%
+130,13,839,,Scheduled Delivery Standard,30,Executive Review,Recovering,Store Focus,202412,89.50%,89.10%,14.3,91.40%,89.20%,83.80%,93.70%
+130,13,935,,Scheduled Delivery Standard,22,Executive Review,Recovering,Store Focus,202412,89.80%,87.10%,16.1,94.50%,92.10%,84.30%,88.10%
+130,13,1206,,Scheduled Delivery Standard,47,Executive Review,Degrading,Store Focus,202412,85.50%,87.00%,14.9,89.50%,77.60%,82.30%,91.30%
+46,13,180,,Scheduled Delivery Standard,34,Executive Review,Recovering,Store Focus,202412,91.50%,93.00%,10.6,95.40%,91.20%,89.80%,89.50%
+132,13,2938,,Scheduled Delivery Standard,6,Active Monitoring,Recovering,Store Focus,202412,92.10%,92.40%,13,95.70%,85.90%,91.60%,94.30%
+134,13,75,,Scheduled Delivery Standard,6,At Risk,Degrading,Store Focus,202412,88.20%,85.70%,12.8,89.80%,80.30%,93.00%,89.50%
+134,13,4295,,Scheduled Delivery Standard,37,Executive Review,Recovering,Store Focus,202412,94.20%,95.00%,10.4,97.70%,93.60%,96.40%,89.80%
+125,13,1163,,Scheduled Delivery Standard,34,Executive Review,Recovering,Store Focus,202412,89.70%,90.20%,14.8,94.00%,85.40%,87.20%,92.40%
+125,13,5022,,Scheduled Delivery Standard,38,Executive Review,Recovering,Store Focus,202412,87.40%,97.50%,13.1,91.00%,82.10%,86.00%,90.70%
+128,13,989,,Scheduled Delivery Standard,8,At Risk,Recovering,Store Focus,202412,91.60%,90.50%,12.7,93.30%,89.50%,90.40%,93.00%
+128,13,4129,,Scheduled Delivery Standard,49,Executive Review,Recovering,Store Focus,202412,87.00%,75.50%,19.5,94.00%,85.80%,86.60%,83.00%
+141,13,501,,Scheduled Delivery Standard,7,At Risk,Degrading,Store Focus,202412,88.60%,85.20%,11.3,83.70%,81.40%,93.20%,96.00%
+141,13,916,,Scheduled Delivery Standard,12,Executive Review,Recovering,Store Focus,202412,82.90%,76.40%,16.5,92.70%,84.30%,80.50%,73.30%
+141,13,1025,,Scheduled Delivery Standard,4,Active Monitoring,Recovering,Store Focus,202412,90.30%,86.80%,13.7,91.30%,92.30%,92.80%,84.50%
+543,64,5102,,Scheduled Delivery Standard,5,Active Monitoring,Degrading,Store Focus,202412,91.50%,86.50%,10.7,88.80%,88.70%,93.70%,94.90%
+82,7,1253,,Scheduled Delivery Standard,5,Active Monitoring,Recovering,Store Focus,202412,84.00%,84.90%,11.5,91.60%,92.90%,71.30%,83.90%
+82,7,2991,,Scheduled Delivery Standard,27,Executive Review,Degrading,Store Focus,202412,90.90%,81.40%,13.8,86.40%,93.30%,88.80%,94.90%
+83,7,3569,,Scheduled Delivery Standard,2,Active Monitoring,Degrading,Store Focus,202412,86.40%,86.60%,10.5,88.80%,85.10%,82.50%,89.00%
+83,7,5479,,Scheduled Delivery Standard,2,Active Monitoring,Recovering,Store Focus,202412,89.50%,89.60%,11.9,92.80%,88.20%,89.70%,87.10%
+83,7,5480,,Scheduled Delivery Standard,2,Active Monitoring,Recovering,Store Focus,202412,87.30%,83.20%,14.9,92.10%,88.30%,87.60%,81.40%
+60,6,194,,Scheduled Delivery Standard,2,Active Monitoring,Degrading,Store Focus,202412,87.10%,85.40%,14,84.70%,88.50%,86.40%,88.70%
+371,46,3771,,Scheduled Delivery Standard,31,Executive Review,Recovering,Store Focus,202412,85.60%,91.70%,16,91.20%,80.90%,82.20%,88.10%
+372,46,2482,,Scheduled Delivery Standard,8,At Risk,Degrading,Store Focus,202412,85.40%,84.80%,12.8,86.90%,76.70%,88.10%,90.60%
+367,46,3884,,Scheduled Delivery Standard,30,Executive Review,Degrading,Store Focus,202412,89.80%,93.50%,12.3,89.20%,85.60%,91.70%,92.90%
+253,41,491,,Scheduled Delivery Standard,6,Active Monitoring,Recovering,Store Focus,202412,88.40%,90.70%,15,95.10%,77.20%,91.60%,93.90%
+254,41,694,,Scheduled Delivery Standard,2,Active Monitoring,Recovering,Store Focus,202412,88.20%,86.40%,15.1,95.40%,84.00%,84.60%,88.50%
+494,59,5767,,Scheduled Delivery Standard,27,Executive Review,Degrading,Store Focus,202412,89.10%,75.30%,12.3,80.00%,88.00%,97.40%,91.00%
+498,59,4524,,Scheduled Delivery Standard,5,At Risk,Degrading,Store Focus,202412,89.00%,94.30%,10.7,86.30%,85.50%,90.00%,95.10%
+249,41,1580,,Scheduled Delivery Standard,22,Executive Review,Degrading,Store Focus,202412,75.70%,74.20%,21,75.70%,68.30%,80.40%,78.70%
+249,41,2787,,Scheduled Delivery Standard,28,Executive Review,Degrading,Store Focus,202412,79.10%,91.10%,19.4,84.90%,81.60%,70.80%,78.60%
+249,41,5443,,Scheduled Delivery Standard,48,Executive Review,Degrading,Store Focus,202412,84.90%,83.90%,19.1,86.00%,82.60%,86.70%,84.10%
+260,41,2628,,Scheduled Delivery Standard,5,Active Monitoring,Degrading,Store Focus,202412,88.60%,91.80%,13.4,82.80%,90.70%,88.20%,92.80%
+482,41,1655,,Scheduled Delivery Standard,16,Executive Review,Recovering,Store Focus,202412,89.30%,90.20%,12.1,91.10%,83.70%,89.30%,93.10%
+482,41,3781,,Scheduled Delivery Standard,13,Executive Review,Degrading,Store Focus,202412,78.30%,90.50%,14.7,80.20%,60.50%,86.90%,83.80%
+242,41,3294,,Scheduled Delivery Standard,21,Executive Review,Degrading,Store Focus,202412,89.40%,89.00%,10.7,85.40%,86.40%,92.60%,93.40%
+242,41,5418,,Scheduled Delivery Standard,43,Executive Review,Recovering,Store Focus,202412,89.40%,89.70%,11.4,90.80%,85.30%,90.30%,91.20%
+243,41,2691,,Scheduled Delivery Standard,4,At Risk,Degrading,Store Focus,202412,84.20%,90.70%,11.9,83.80%,84.20%,81.80%,87.30%
+197,19,3476,,Scheduled Delivery Standard,19,Executive Review,Degrading,Store Focus,202412,88.10%,83.00%,11,87.60%,88.10%,88.70%,87.80%
+197,19,4383,,Scheduled Delivery Standard,21,Executive Review,Degrading,Store Focus,202412,75.30%,87.40%,12,83.00%,67.00%,72.30%,79.10%
+197,19,5842,,Scheduled Delivery Standard,19,Executive Review,Degrading,Store Focus,202412,92.00%,92.80%,10.9,89.00%,89.10%,95.50%,94.30%
+202,19,2080,,Scheduled Delivery Standard,48,Executive Review,Degrading,Store Focus,202412,87.80%,77.40%,13.4,86.80%,87.00%,87.90%,89.60%
+202,19,5472,,Scheduled Delivery Standard,3,Active Monitoring,Degrading,Store Focus,202412,88.70%,99.20%,10.9,89.30%,88.80%,89.50%,87.10%
+204,19,2644,,Scheduled Delivery Standard,3,Active Monitoring,Degrading,Store Focus,202412,80.00%,67.20%,16.4,70.00%,80.40%,85.10%,84.20%
+204,19,5097,,Scheduled Delivery Standard,19,Executive Review,Degrading,Store Focus,202412,81.90%,69.80%,16,86.90%,75.60%,76.00%,88.40%
+205,19,3726,,Scheduled Delivery Standard,34,Executive Review,Recovering,Store Focus,202412,89.20%,76.40%,14.8,95.20%,85.50%,83.30%,94.40%
+206,19,4424,,Scheduled Delivery Standard,3,Active Monitoring,Recovering,Store Focus,202412,87.70%,88.50%,15.6,91.20%,88.50%,86.90%,83.90%
+206,19,5844,,Scheduled Delivery Standard,46,Executive Review,Degrading,Store Focus,202412,89.80%,96.40%,10.8,89.90%,85.70%,91.00%,93.10%
+200,19,1923,,Scheduled Delivery Standard,45,Executive Review,Degrading,Store Focus,202412,79.40%,64.40%,15.9,69.90%,85.70%,78.70%,83.70%
+200,19,2493,,Scheduled Delivery Standard,43,Executive Review,Degrading,Store Focus,202412,81.90%,85.70%,15,83.30%,86.80%,90.60%,69.50%
+200,19,2567,,Scheduled Delivery Standard,6,At Risk,Degrading,Store Focus,202412,82.80%,78.40%,10.9,80.40%,74.50%,90.90%,86.70%
+200,19,3453,,Scheduled Delivery Standard,8,Executive Review,Degrading,Store Focus,202412,68.30%,74.30%,18.5,87.80%,76.80%,80.70%,41.00%
+200,19,3876,,Scheduled Delivery Standard,33,Executive Review,Degrading,Store Focus,202412,90.00%,80.10%,13.5,82.20%,90.50%,94.60%,93.00%
+201,19,5064,,Scheduled Delivery Standard,33,Executive Review,Recovering,Store Focus,202412,94.20%,92.20%,10.6,96.10%,85.90%,96.80%,98.30%
+238,19,2817,,Scheduled Delivery Standard,21,Executive Review,Recovering,Store Focus,202412,91.70%,91.40%,12,94.90%,80.80%,96.20%,95.50%
+273,25,2491,,Scheduled Delivery Standard,13,Executive Review,Recovering,Store Focus,202412,89.40%,88.40%,10.4,92.50%,85.70%,85.80%,94.60%
+275,25,2728,,Scheduled Delivery Standard,35,Executive Review,Recovering,Store Focus,202412,86.40%,86.10%,14.1,94.50%,82.40%,78.50%,91.40%
+275,25,3210,,Scheduled Delivery Standard,8,At Risk,Recovering,Store Focus,202412,93.80%,88.60%,10.8,98.00%,91.50%,89.50%,96.50%
+275,25,3602,,Scheduled Delivery Standard,48,Executive Review,Degrading,Store Focus,202412,83.20%,90.40%,19.6,87.50%,79.20%,79.00%,87.50%
+278,25,1028,,Scheduled Delivery Standard,45,Executive Review,Recovering,Store Focus,202412,86.90%,91.10%,16.8,93.40%,74.40%,85.80%,94.10%
+278,25,3460,,Scheduled Delivery Standard,13,Executive Review,Degrading,Store Focus,202412,89.20%,84.90%,12.6,86.90%,86.60%,90.90%,92.00%
+268,25,1938,,Scheduled Delivery Standard,21,Executive Review,Recovering,Store Focus,202412,87.10%,94.10%,13.4,90.90%,70.80%,100.00%,95.40%
+268,25,3004,,Scheduled Delivery Standard,30,Executive Review,Recovering,Store Focus,202412,88.60%,93.20%,10.3,90.60%,77.20%,91.20%,95.80%
+268,25,5485,,Scheduled Delivery Standard,48,Executive Review,Recovering,Store Focus,202412,85.90%,90.70%,15.3,91.40%,72.80%,85.60%,92.20%
+209,20,1927,,Scheduled Delivery Standard,34,Executive Review,Degrading,Store Focus,202412,87.30%,85.90%,14.2,67.20%,89.30%,89.90%,91.80%
+227,20,2588,,Scheduled Delivery Standard,30,Executive Review,Degrading,Store Focus,202412,76.70%,85.00%,15.1,77.80%,62.70%,78.40%,87.20%
+209,20,2362,,Scheduled Delivery Standard,49,Executive Review,Recovering,Store Focus,202412,86.10%,98.40%,12.6,90.40%,82.80%,83.60%,88.20%
+214,20,1839,,Scheduled Delivery Standard,35,Executive Review,Degrading,Store Focus,202412,89.60%,89.30%,15.9,88.30%,88.10%,92.70%,89.20%
+214,20,2073,,Scheduled Delivery Standard,8,Executive Review,Recovering,Store Focus,202412,87.50%,98.10%,11.4,93.50%,82.40%,84.80%,89.10%
+214,20,2316,,Scheduled Delivery Standard,19,Executive Review,Degrading,Store Focus,202412,88.00%,85.10%,16.8,85.90%,86.60%,92.80%,86.50%
+215,20,1895,,Scheduled Delivery Standard,6,At Risk,Degrading,Store Focus,202412,88.10%,98.90%,10.1,87.90%,86.90%,87.30%,90.20%
+215,20,1911,,Scheduled Delivery Standard,7,At Risk,Degrading,Store Focus,202412,90.00%,96.70%,13.3,89.70%,85.20%,92.00%,93.50%
+216,20,2115,,Scheduled Delivery Standard,17,Executive Review,Degrading,Store Focus,202412,81.40%,78.90%,16.5,76.50%,79.50%,83.50%,86.40%
+216,20,2209,,Scheduled Delivery Standard,7,Active Monitoring,Recovering,Store Focus,202412,90.10%,90.30%,12.9,93.60%,91.70%,83.00%,91.90%
+216,20,3262,,Scheduled Delivery Standard,30,Executive Review,Recovering,Store Focus,202412,88.60%,92.60%,12.4,92.00%,87.90%,78.80%,94.50%
+359,40,80,,Scheduled Delivery Standard,19,Executive Review,Recovering,Store Focus,202412,92.70%,92.50%,12,95.70%,94.80%,91.70%,88.70%
+359,40,451,,Scheduled Delivery Standard,7,Active Monitoring,Recovering,Store Focus,202412,93.50%,90.60%,11.5,93.00%,97.40%,89.60%,93.70%
+361,40,4553,,Scheduled Delivery Standard,30,Executive Review,Recovering,Store Focus,202412,90.20%,84.50%,13.6,92.20%,91.90%,89.70%,87.40%
+362,40,2855,,Scheduled Delivery Standard,37,Executive Review,Recovering,Store Focus,202412,90.80%,88.10%,12.2,91.30%,88.30%,91.00%,92.80%
+362,40,2955,,Scheduled Delivery Standard,35,Executive Review,Recovering,Store Focus,202412,90.40%,92.10%,12.6,92.70%,89.70%,90.30%,88.80%
+485,59,6172,,Scheduled Delivery Standard,18,Executive Review,Degrading,Store Focus,202412,85.20%,81.80%,11.1,74.00%,84.10%,83.20%,89.20%
+272,40,213,,Scheduled Delivery Standard,13,Executive Review,Recovering,Store Focus,202412,91.10%,95.40%,11.9,95.40%,93.20%,85.70%,90.70%
+339,40,1161,,Scheduled Delivery Standard,49,Executive Review,Recovering,Store Focus,202412,88.40%,81.90%,11.3,90.10%,94.00%,84.80%,86.90%
+339,40,1188,,Scheduled Delivery Standard,48,Executive Review,Degrading,Store Focus,202412,76.70%,83.20%,21.4,66.00%,79.30%,79.40%,81.10%
+339,40,2616,,Scheduled Delivery Standard,28,Executive Review,Recovering,Store Focus,202412,86.70%,83.50%,17.5,94.80%,86.60%,81.60%,86.40%
+339,40,5927,,Scheduled Delivery Standard,22,Executive Review,Recovering,Store Focus,202412,88.30%,94.40%,13.9,90.90%,84.20%,88.20%,90.20%
+340,40,172,,Scheduled Delivery Standard,16,Executive Review,Recovering,Store Focus,202412,92.90%,97.20%,11.9,93.80%,95.40%,92.70%,89.50%
+340,40,1177,,Scheduled Delivery Standard,1,Active Monitoring,Degrading,Store Focus,202412,88.40%,95.40%,15.1,89.30%,88.20%,88.20%,87.80%
+340,40,2213,,Scheduled Delivery Standard,1,Active Monitoring,Degrading,Store Focus,202412,84.50%,83.60%,14.6,85.30%,87.20%,82.80%,82.70%
+340,40,2694,,Scheduled Delivery Standard,45,Executive Review,Degrading,Store Focus,202412,83.00%,87.70%,17.5,73.40%,80.60%,88.70%,88.40%
+340,40,3061,,Scheduled Delivery Standard,25,Executive Review,Degrading,Store Focus,202412,83.10%,87.50%,13,82.50%,80.40%,80.80%,89.70%
+340,40,5150,,Scheduled Delivery Standard,48,Executive Review,Degrading,Store Focus,202412,72.70%,86.50%,14.3,67.00%,64.80%,77.90%,81.40%
+341,40,256,,Scheduled Delivery Standard,4,At Risk,Degrading,Store Focus,202412,88.40%,88.90%,14.6,89.00%,88.00%,87.50%,89.10%
+223,21,3783,,Scheduled Delivery Standard,30,Executive Review,Degrading,Store Focus,202412,79.70%,83.90%,18.8,70.80%,77.00%,82.60%,89.00%
+223,21,5104,,Scheduled Delivery Standard,47,Executive Review,Degrading,Store Focus,202412,80.90%,77.90%,15.6,83.90%,69.60%,74.10%,97.70%
+225,21,1510,,Scheduled Delivery Standard,29,Executive Review,Degrading,Store Focus,202412,78.40%,78.80%,19.7,84.40%,64.10%,76.10%,89.10%
+225,21,2967,,Scheduled Delivery Standard,7,Executive Review,Degrading,Store Focus,202412,81.20%,90.80%,17.9,81.50%,78.00%,83.10%,81.90%
+225,21,3749,,Scheduled Delivery Standard,21,Executive Review,Degrading,Store Focus,202412,86.70%,85.40%,12,76.30%,86.40%,87.70%,96.80%
+247,21,1566,,Scheduled Delivery Standard,6,Active Monitoring,Degrading,Store Focus,202412,89.80%,85.70%,12.2,85.50%,86.10%,91.10%,96.40%
+218,21,1427,,Scheduled Delivery Standard,1,Active Monitoring,Degrading,Store Focus,202412,85.90%,80.60%,13.2,87.30%,85.90%,81.80%,88.50%
+219,21,2726,,Scheduled Delivery Standard,48,Executive Review,Degrading,Store Focus,202412,87.60%,91.20%,10.6,87.70%,85.20%,87.80%,89.40%
+219,21,3447,,Scheduled Delivery Standard,22,Executive Review,Recovering,Store Focus,202412,90.10%,96.30%,12.2,90.20%,87.40%,89.80%,93.30%
+222,21,3206,,Scheduled Delivery Standard,18,Executive Review,Recovering,Store Focus,202412,90.40%,78.70%,12.2,91.10%,90.10%,89.00%,91.30%
+444,53,2452,,Scheduled Delivery Standard,44,Executive Review,Degrading,Store Focus,202412,81.00%,85.90%,19.1,75.70%,69.90%,88.20%,92.00%
+444,53,6394,,Scheduled Delivery Standard,27,Executive Review,Degrading,Store Focus,202412,86.70%,92.80%,18.5,85.30%,83.70%,86.50%,91.10%
+8,14,938,,Scheduled Delivery Standard,34,Executive Review,Recovering,Store Focus,202412,91.30%,94.60%,12.4,90.00%,92.10%,88.20%,94.90%
+8,14,1101,,Scheduled Delivery Standard,8,At Risk,Recovering,Store Focus,202412,88.60%,78.90%,12,91.80%,89.30%,90.80%,82.50%
+8,14,5348,,Scheduled Delivery Standard,35,Executive Review,Recovering,Store Focus,202412,86.10%,82.70%,16,91.20%,86.30%,78.90%,88.10%
+13,14,1229,,Scheduled Delivery Standard,2,Active Monitoring,Degrading,Store Focus,202412,73.30%,70.40%,16,82.60%,62.60%,63.40%,86.20%
+544,72,4504,,Scheduled Delivery Standard,30,Executive Review,Degrading,Store Focus,202412,81.30%,78.30%,12.3,81.00%,74.90%,87.00%,83.00%
+15,14,919,,Scheduled Delivery Standard,4,At Risk,Degrading,Store Focus,202412,72.40%,81.60%,20.4,76.00%,80.50%,49.30%,81.60%
+15,14,944,,Scheduled Delivery Standard,4,At Risk,Degrading,Store Focus,202412,82.40%,79.20%,17.8,66.30%,84.70%,89.10%,87.50%
+15,14,3439,,Scheduled Delivery Standard,5,At Risk,Degrading,Store Focus,202412,83.30%,82.20%,19.2,84.80%,88.80%,81.40%,78.20%
+97,14,4520,,Scheduled Delivery Standard,8,Executive Review,Degrading,Store Focus,202412,88.30%,84.00%,10.9,89.50%,88.20%,91.50%,84.20%
+3,14,1201,,Scheduled Delivery Standard,4,Active Monitoring,Recovering,Store Focus,202412,83.60%,80.60%,16.3,92.70%,78.40%,73.00%,88.40%
+111,3,1390,,Scheduled Delivery Standard,7,At Risk,Degrading,Store Focus,202412,68.00%,68.00%,22.7,73.90%,76.90%,68.50%,50.70%
+111,3,1536,,Scheduled Delivery Standard,9,At Risk,Recovering,Store Focus,202412,85.40%,95.00%,16.8,95.60%,93.20%,84.10%,60.10%
+28,3,686,,Scheduled Delivery Standard,16,Executive Review,Degrading,Store Focus,202412,89.90%,93.80%,12.2,89.00%,95.30%,85.40%,89.90%
+89,3,705,,Scheduled Delivery Standard,10,Executive Review,Recovering,Store Focus,202412,89.10%,94.10%,16.2,91.70%,86.90%,85.20%,92.50%
+89,3,942,,Scheduled Delivery Standard,28,Executive Review,Recovering,Store Focus,202412,92.20%,86.90%,14.8,92.20%,95.80%,92.80%,87.70%
+94,3,613,,Scheduled Delivery Standard,4,Active Monitoring,Degrading,Store Focus,202412,87.40%,90.70%,13.9,85.30%,94.10%,87.90%,82.70%
+27,3,899,,Scheduled Delivery Standard,8,At Risk,Recovering,Store Focus,202412,92.40%,95.40%,11.5,93.90%,93.20%,96.90%,85.90%
+120,12,1469,,Scheduled Delivery Standard,10,Executive Review,Degrading,Store Focus,202412,83.80%,80.30%,16.1,88.60%,89.10%,91.00%,66.60%
+122,12,1320,,Scheduled Delivery Standard,5,At Risk,Recovering,Store Focus,202412,89.10%,91.20%,13.4,90.90%,86.90%,89.20%,89.30%
+123,12,2310,,Scheduled Delivery Standard,31,Executive Review,Degrading,Store Focus,202412,82.40%,80.30%,12.8,83.30%,69.10%,87.80%,91.40%
+124,12,690,,Scheduled Delivery Standard,35,Executive Review,Recovering,Store Focus,202412,91.50%,90.50%,12,96.20%,94.80%,81.90%,93.30%
+136,11,699,,Scheduled Delivery Standard,2,Active Monitoring,Recovering,Store Focus,202412,75.80%,81.80%,16.6,94.40%,70.20%,70.60%,71.10%
+136,11,716,,Scheduled Delivery Standard,12,At Risk,Degrading,Store Focus,202412,90.20%,83.30%,12.1,84.20%,91.70%,89.90%,95.20%
+144,11,175,,Scheduled Delivery Standard,43,Executive Review,Degrading,Store Focus,202412,73.70%,67.00%,23.3,71.00%,81.20%,74.20%,69.00%
+144,11,848,,Scheduled Delivery Standard,46,Executive Review,Degrading,Store Focus,202412,69.10%,68.10%,20.2,72.90%,61.80%,70.00%,71.50%
+144,11,5196,,Scheduled Delivery Standard,18,Executive Review,Degrading,Store Focus,202412,76.90%,84.80%,21.1,70.30%,74.50%,73.40%,91.20%
+145,11,950,,Scheduled Delivery Standard,19,Executive Review,Recovering,Store Focus,202412,91.10%,94.90%,13.1,92.00%,93.10%,88.80%,90.00%
+145,11,1561,,Scheduled Delivery Standard,26,Executive Review,Degrading,Store Focus,202412,79.40%,84.00%,20.1,67.20%,71.90%,81.20%,87.40%
+145,11,2322,,Scheduled Delivery Standard,24,Executive Review,Degrading,Store Focus,202412,85.90%,84.10%,14.1,85.40%,83.00%,91.00%,50.00%
+329,11,70,,Scheduled Delivery Standard,1,Active Monitoring,Degrading,Store Focus,202412,82.60%,81.00%,17.3,84.40%,79.40%,82.20%,83.90%
+5,12,332,,Scheduled Delivery Standard,34,Executive Review,Recovering,Store Focus,202412,91.60%,95.40%,11.9,94.70%,91.20%,88.80%,91.60%
+5,12,433,,Scheduled Delivery Standard,8,At Risk,Recovering,Store Focus,202412,90.50%,86.20%,11.5,91.80%,86.10%,91.30%,92.90%
+152,12,671,,Scheduled Delivery Standard,2,Active Monitoring,Recovering,Store Focus,202412,86.60%,82.70%,10.8,90.10%,85.80%,86.20%,84.60%
+153,12,272,,Scheduled Delivery Standard,2,Active Monitoring,Degrading,Store Focus,202412,85.80%,83.10%,12.8,85.30%,86.30%,88.10%,84.30%
+153,12,659,,Scheduled Delivery Standard,49,Executive Review,Degrading,Store Focus,202412,81.30%,81.90%,14.6,72.70%,83.10%,80.20%,91.90%
+153,12,710,,Scheduled Delivery Standard,49,Executive Review,Recovering,Store Focus,202412,85.90%,82.30%,14.4,96.00%,86.70%,83.70%,77.20%
+153,12,3717,,Scheduled Delivery Standard,25,Executive Review,Degrading,Store Focus,202412,85.60%,75.60%,10.3,84.40%,81.80%,82.40%,93.30%
+11,11,715,,Scheduled Delivery Standard,22,Executive Review,Recovering,Store Focus,202412,93.20%,94.20%,11.8,94.40%,93.80%,95.30%,89.20%
+11,11,2306,,Scheduled Delivery Standard,17,Executive Review,Degrading,Store Focus,202412,75.30%,80.40%,18.2,74.90%,61.10%,76.90%,85.30%
+140,11,875,,Scheduled Delivery Standard,8,At Risk,Recovering,Store Focus,202412,88.70%,87.90%,11.7,94.50%,85.30%,87.30%,88.30%
+140,11,6469,,Scheduled Delivery Standard,5,At Risk,Degrading,Store Focus,202412,88.60%,88.70%,12.9,87.70%,84.50%,89.00%,92.60%
+19,2,745,,Scheduled Delivery Standard,15,Executive Review,Recovering,Store Focus,202412,91.60%,95.40%,11.9,92.80%,85.10%,94.70%,93.10%
+19,2,3609,,Scheduled Delivery Standard,35,Executive Review,Degrading,Store Focus,202412,90.20%,92.30%,11,85.70%,92.90%,91.90%,89.80%
+20,2,3401,,Scheduled Delivery Standard,14,Executive Review,Degrading,Store Focus,202412,88.60%,93.40%,11.5,81.20%,88.90%,91.40%,92.70%
+23,2,3621,,Scheduled Delivery Standard,7,At Risk,Degrading,Store Focus,202412,87.80%,96.40%,10.8,86.10%,90.60%,89.60%,85.00%
+32,2,907,,Scheduled Delivery Standard,29,Executive Review,Degrading,Store Focus,202412,86.40%,83.30%,10,79.20%,79.20%,91.20%,96.10%
+32,2,1153,,Scheduled Delivery Standard,39,Executive Review,Recovering,Store Focus,202412,89.00%,89.50%,13.8,90.70%,89.20%,90.50%,85.40%
+32,2,1367,,Scheduled Delivery Standard,39,Executive Review,Degrading,Store Focus,202412,87.00%,84.80%,21.9,72.20%,96.80%,95.80%,83.60%
+18,2,1403,,Scheduled Delivery Standard,38,Executive Review,Degrading,Store Focus,202412,91.10%,81.90%,10.1,87.30%,92.90%,96.60%,88.10%
+20,2,3118,,Scheduled Delivery Standard,49,Executive Review,Degrading,Store Focus,202412,78.80%,97.10%,10.1,79.30%,73.10%,84.40%,78.00%
+20,2,6998,,Scheduled Delivery Standard,39,Executive Review,Degrading,Store Focus,202412,82.80%,81.90%,14.6,69.60%,89.00%,89.70%,81.70%
+22,2,3205,,Scheduled Delivery Standard,20,Executive Review,Recovering,Store Focus,202412,88.40%,89.50%,13.7,90.20%,87.50%,90.60%,85.00%
+22,2,3741,,Scheduled Delivery Standard,49,Executive Review,Degrading,Store Focus,202412,91.00%,97.90%,10.3,86.40%,93.10%,95.10%,89.40%
+25,2,459,,Scheduled Delivery Standard,11,Executive Review,Recovering,Store Focus,202412,87.20%,87.20%,15,93.80%,86.20%,85.00%,83.00%
+25,2,1340,,Scheduled Delivery Standard,35,Executive Review,Recovering,Store Focus,202412,91.00%,96.70%,15.2,91.50%,88.90%,92.80%,90.90%
+30,2,754,,Scheduled Delivery Standard,49,Executive Review,Recovering,Store Focus,202412,84.00%,85.80%,12.3,91.90%,82.30%,87.00%,74.00%
+30,2,1227,,Scheduled Delivery Standard,49,Executive Review,Degrading,Store Focus,202412,83.30%,75.20%,13.9,83.50%,88.40%,84.00%,77.80%
+327,42,3331,,Scheduled Delivery Standard,33,Executive Review,Degrading,Store Focus,202412,84.50%,81.00%,9.5,84.00%,83.90%,83.20%,87.20%
+127,42,278,,Scheduled Delivery Standard,7,Active Monitoring,Recovering,Store Focus,202412,92.10%,85.60%,10,95.10%,85.50%,92.30%,95.20%
+127,42,376,,Scheduled Delivery Standard,42,Executive Review,Recovering,Store Focus,202412,91.70%,92.00%,13.2,93.40%,85.10%,94.80%,93.00%
+127,42,3868,,Scheduled Delivery Standard,8,At Risk,Recovering,Store Focus,202412,81.80%,81.00%,14.5,93.40%,75.00%,67.80%,92.00%
+135,42,1193,,Scheduled Delivery Standard,15,Executive Review,Recovering,Store Focus,202412,89.10%,82.90%,12.7,97.80%,83.80%,82.80%,92.30%
+103,72,4617,,Scheduled Delivery Standard,7,At Risk,Recovering,Store Focus,202412,92.20%,98.00%,11.1,92.80%,89.50%,94.20%,92.30%
+109,9,2946,,Scheduled Delivery Standard,7,Executive Review,Degrading,Store Focus,202412,86.00%,98.40%,16.3,87.70%,86.30%,83.50%,86.30%
+553,9,3397,,Scheduled Delivery Standard,6,Active Monitoring,Recovering,Store Focus,202412,91.40%,96.80%,11.2,92.00%,94.30%,88.70%,90.40%
+477,60,5935,,Scheduled Delivery Standard,28,Executive Review,Degrading,Store Focus,202412,84.10%,89.90%,10.9,85.00%,76.40%,84.20%,91.50%
+421,52,1473,,Scheduled Delivery Standard,16,Executive Review,Recovering,Store Focus,202412,92.20%,85.20%,9.2,91.30%,92.90%,94.90%,86.50%
+422,52,1864,,Scheduled Delivery Standard,22,Executive Review,Degrading,Store Focus,202412,81.10%,86.70%,16.6,89.80%,89.60%,80.90%,56.90%
+422,52,3404,,Scheduled Delivery Standard,3,Active Monitoring,Degrading,Store Focus,202412,81.40%,95.00%,12.7,89.30%,83.20%,81.90%,66.70%
+423,52,1855,,Scheduled Delivery Standard,11,Executive Review,Degrading,Store Focus,202412,71.90%,76.20%,17.7,80.30%,74.00%,77.80%,42.60%
+423,52,2448,,Scheduled Delivery Standard,2,Active Monitoring,Degrading,Store Focus,202412,77.90%,75.70%,12.2,84.70%,76.20%,86.30%,62.40%
+423,52,2642,,Scheduled Delivery Standard,1,Active Monitoring,Degrading,Store Focus,202412,85.40%,87.90%,17.5,83.80%,87.50%,85.00%,85.80%
+423,52,3513,,Scheduled Delivery Standard,2,Active Monitoring,Degrading,Store Focus,202412,74.70%,61.60%,15,78.60%,76.10%,78.50%,59.20%
+405,57,3220,,Scheduled Delivery Standard,3,Active Monitoring,Recovering,Store Focus,202412,88.40%,79.40%,14.6,95.30%,88.50%,85.60%,83.30%
+401,54,1699,,Scheduled Delivery Standard,45,Executive Review,Degrading,Store Focus,202412,79.30%,70.40%,21.5,80.80%,72.10%,81.00%,83.50%
+401,54,3366,,Scheduled Delivery Standard,35,Executive Review,Recovering,Store Focus,202412,85.30%,79.60%,18.7,95.60%,80.80%,95.40%,69.60%
+401,54,3789,,Scheduled Delivery Standard,13,At Risk,Degrading,Store Focus,202412,90.70%,78.50%,12.1,89.80%,83.90%,93.60%,95.60%
+376,54,1492,,Scheduled Delivery Standard,14,Executive Review,Recovering,Store Focus,202412,93.40%,84.30%,9.4,96.30%,89.70%,91.50%,96.00%
+376,54,5334,,Scheduled Delivery Standard,27,Executive Review,Degrading,Store Focus,202412,88.50%,84.80%,15.5,89.80%,78.90%,92.80%,92.00%
+378,54,5051,,Scheduled Delivery Standard,19,Executive Review,Degrading,Store Focus,202412,85.10%,70.10%,16.3,83.00%,78.20%,91.80%,87.60%
+585,54,2223,,Scheduled Delivery Standard,18,Executive Review,Recovering,Store Focus,202412,91.90%,90.50%,11.9,91.90%,89.80%,96.70%,89.60%
+585,54,3533,,Scheduled Delivery Standard,48,Executive Review,Recovering,Store Focus,202412,89.70%,91.60%,13.7,93.70%,86.70%,86.80%,91.80%
+585,54,5957,,Scheduled Delivery Standard,19,Executive Review,Degrading,Store Focus,202412,88.10%,88.00%,12.8,84.50%,88.50%,91.70%,87.60%
+389,54,3018,,Scheduled Delivery Standard,19,Executive Review,Recovering,Store Focus,202412,92.60%,88.40%,11.7,94.00%,88.10%,93.00%,95.70%
+391,54,1434,,Scheduled Delivery Standard,31,Executive Review,Recovering,Store Focus,202412,91.40%,90.20%,14.5,92.90%,88.50%,91.80%,92.70%
+391,54,3582,,Scheduled Delivery Standard,19,Executive Review,Recovering,Store Focus,202412,93.40%,93.00%,13.6,96.80%,89.50%,92.90%,94.40%
+430,47,1543,,Scheduled Delivery Standard,5,Active Monitoring,Recovering,Store Focus,202412,92.60%,82.20%,6.8,96.80%,91.70%,94.40%,84.80%
+433,47,774,,Scheduled Delivery Standard,23,Executive Review,Degrading,Store Focus,202412,84.50%,78.10%,17.1,86.60%,91.90%,87.30%,72.20%
+429,47,598,,Scheduled Delivery Standard,4,Active Monitoring,Recovering,Store Focus,202412,85.30%,85.10%,16.1,92.40%,92.30%,89.20%,55.90%
+429,47,867,,Scheduled Delivery Standard,15,Executive Review,Recovering,Store Focus,202412,88.90%,86.40%,13.4,93.40%,77.20%,94.10%,89.20%
+178,22,2195,,Scheduled Delivery Standard,5,At Risk,Degrading,Store Focus,202412,82.90%,94.10%,13.6,79.10%,82.20%,82.70%,88.00%
+284,22,5436,,Scheduled Delivery Standard,49,Executive Review,Degrading,Store Focus,202412,90.90%,95.40%,13,88.60%,91.00%,94.90%,89.20%
+558,22,3422,,Scheduled Delivery Standard,49,Executive Review,Recovering,Store Focus,202412,87.20%,98.50%,15.7,95.00%,88.00%,79.60%,86.70%
+166,22,2830,,Scheduled Delivery Standard,19,Executive Review,Recovering,Store Focus,202412,93.90%,93.90%,10.7,97.30%,91.90%,89.50%,97.70%
+166,22,5495,,Scheduled Delivery Standard,30,Executive Review,Degrading,Store Focus,202412,84.00%,91.90%,10.7,86.70%,80.00%,82.80%,86.30%
+232,22,2169,,Scheduled Delivery Standard,13,At Risk,Recovering,Store Focus,202412,92.40%,94.50%,10.1,92.70%,87.90%,93.00%,96.20%
+156,16,4387,,Scheduled Delivery Standard,21,Executive Review,Recovering,Store Focus,202412,88.60%,89.10%,16.1,94.50%,83.50%,85.40%,90.40%
+159,16,2103,,Scheduled Delivery Standard,3,Active Monitoring,Recovering,Store Focus,202412,86.30%,87.20%,14.8,91.00%,84.00%,81.50%,88.80%
+160,16,2157,,Scheduled Delivery Standard,27,Executive Review,Recovering,Store Focus,202412,88.80%,94.90%,11.6,93.00%,84.70%,88.40%,89.20%
+160,16,2366,,Scheduled Delivery Standard,19,Executive Review,Recovering,Store Focus,202412,92.60%,95.90%,12.6,96.20%,96.80%,87.90%,91.40%
+157,16,2222,,Scheduled Delivery Standard,21,Executive Review,Degrading,Store Focus,202412,75.60%,86.70%,10.8,85.50%,73.70%,66.50%,73.80%
+179,16,2013,,Scheduled Delivery Standard,2,Active Monitoring,Recovering,Store Focus,202412,87.00%,81.20%,13.1,93.90%,88.70%,83.40%,79.10%
+180,16,2046,,Scheduled Delivery Standard,5,At Risk,Degrading,Store Focus,202412,83.40%,89.40%,10.2,88.70%,89.10%,83.40%,66.30%
+184,16,1796,,Scheduled Delivery Standard,41,Executive Review,Recovering,Store Focus,202412,88.70%,81.80%,11.4,91.50%,85.00%,88.10%,90.20%
+184,16,2142,,Scheduled Delivery Standard,21,Executive Review,Degrading,Store Focus,202412,81.60%,70.20%,14.5,85.90%,76.10%,85.80%,80.00%
+187,16,5497,,Scheduled Delivery Standard,6,Active Monitoring,Recovering,Store Focus,202412,91.10%,99.30%,10.1,97.40%,88.00%,86.20%,93.20%
+188,16,1997,,Scheduled Delivery Standard,5,At Risk,Degrading,Store Focus,202412,74.80%,94.10%,21.6,77.70%,68.00%,81.30%,69.60%
+188,16,2370,,Scheduled Delivery Standard,8,Executive Review,Recovering,Store Focus,202412,78.60%,90.70%,14,95.00%,74.80%,76.50%,70.00%
+189,16,2874,,Scheduled Delivery Standard,19,Executive Review,Recovering,Store Focus,202412,88.60%,94.20%,16.2,91.50%,92.10%,85.10%,85.00%
+191,76,2166,,Scheduled Delivery Standard,32,Executive Review,Recovering,Store Focus,202412,94.10%,98.70%,11.6,98.10%,88.80%,94.40%,94.50%
+191,76,5242,,Scheduled Delivery Standard,6,At Risk,Recovering,Store Focus,202412,91.70%,98.80%,12.8,96.40%,87.00%,88.60%,94.60%
+192,76,1619,,Scheduled Delivery Standard,4,Active Monitoring,Recovering,Store Focus,202412,87.30%,91.50%,12.3,94.00%,84.40%,84.60%,86.30%
+192,76,1744,,Scheduled Delivery Standard,19,Executive Review,Degrading,Store Focus,202412,81.70%,79.30%,16.5,88.20%,75.30%,84.80%,78.70%
+194,76,5027,,Scheduled Delivery Standard,8,At Risk,Recovering,Store Focus,202412,90.70%,92.00%,12.7,97.70%,83.30%,88.80%,92.10%
+195,76,2210,,Scheduled Delivery Standard,7,Executive Review,Degrading,Store Focus,202412,77.80%,93.80%,10.4,87.30%,67.40%,73.90%,79.40%
+280,76,2357,,Scheduled Delivery Standard,40,Executive Review,Degrading,Store Focus,202412,90.10%,91.40%,16.1,87.20%,88.90%,87.60%,96.80%
+305,26,5481,,Scheduled Delivery Standard,39,Executive Review,Degrading,Store Focus,202412,86.30%,91.90%,13.3,89.70%,86.10%,84.30%,85.20%
+499,59,4848,,Scheduled Delivery Standard,5,Active Monitoring,Recovering,Store Focus,202412,89.50%,93.10%,12.7,92.50%,85.50%,89.00%,90.60%
+309,26,1097,,Scheduled Delivery Standard,41,Executive Review,Degrading,Store Focus,202412,83.10%,86.90%,11.1,66.90%,81.10%,91.40%,93.40%
+231,76,2059,,Scheduled Delivery Standard,7,At Risk,Recovering,Store Focus,202412,88.20%,93.30%,13.1,90.70%,81.60%,90.90%,89.80%
+231,76,5241,,Scheduled Delivery Standard,20,Executive Review,Degrading,Store Focus,202412,90.70%,85.90%,11.8,84.80%,87.60%,96.80%,94.90%
+280,76,2233,,Scheduled Delivery Standard,18,Executive Review,Degrading,Store Focus,202412,89.90%,87.30%,12.6,85.60%,90.60%,92.40%,91.70%
+320,76,1544,,Scheduled Delivery Standard,8,At Risk,Recovering,Store Focus,202412,88.00%,81.30%,10.9,94.70%,76.90%,87.80%,92.20%
+297,26,4250,,Scheduled Delivery Standard,31,Executive Review,Recovering,Store Focus,202412,88.20%,98.90%,10,93.60%,87.20%,86.20%,85.80%
+297,26,5254,,Scheduled Delivery Standard,2,Active Monitoring,Degrading,Store Focus,202412,86.30%,94.10%,13.8,84.00%,88.70%,85.90%,86.70%
+312,75,1292,,Scheduled Delivery Standard,8,Executive Review,Degrading,Store Focus,202412,87.40%,90.20%,12.4,89.60%,90.20%,83.00%,86.40%
+312,75,1309,,Scheduled Delivery Standard,20,Executive Review,Recovering,Store Focus,202412,90.30%,94.40%,10.8,92.10%,86.90%,87.60%,94.90%
+288,75,3219,,Scheduled Delivery Standard,3,Active Monitoring,Degrading,Store Focus,202412,84.10%,88.10%,12.4,81.30%,84.40%,87.50%,83.20%
+288,75,3831,,Scheduled Delivery Standard,19,Executive Review,Degrading,Store Focus,202412,71.80%,77.10%,21.1,67.10%,54.80%,64.90%,92.40%
+289,75,1811,,Scheduled Delivery Standard,21,Executive Review,Recovering,Store Focus,202412,88.60%,94.50%,14.8,91.50%,86.20%,89.60%,87.00%
+289,75,1841,,Scheduled Delivery Standard,9,At Risk,Recovering,Store Focus,202412,91.70%,93.40%,12.4,94.60%,89.10%,94.60%,88.30%
+289,75,2529,,Scheduled Delivery Standard,4,Active Monitoring,Recovering,Store Focus,202412,89.80%,87.00%,12.3,93.50%,88.80%,92.50%,85.20%
+289,75,4064,,Scheduled Delivery Standard,4,Active Monitoring,Recovering,Store Focus,202412,86.10%,86.90%,12.3,94.70%,84.50%,84.60%,83.80%
+289,75,5253,,Scheduled Delivery Standard,4,Active Monitoring,Degrading,Store Focus,202412,90.10%,97.50%,10.8,89.90%,90.50%,92.70%,87.50%
+289,75,5488,,Scheduled Delivery Standard,26,Executive Review,Recovering,Store Focus,202412,86.90%,84.30%,15.1,91.20%,86.90%,81.20%,90.20%
+290,75,1424,,Scheduled Delivery Standard,27,Executive Review,Recovering,Store Focus,202412,88.30%,98.70%,16.9,92.10%,83.30%,81.90%,96.60%
+282,75,2279,,Scheduled Delivery Standard,49,Executive Review,Recovering,Store Focus,202412,90.40%,94.00%,13.2,92.80%,89.40%,87.00%,92.60%
+282,75,2435,,Scheduled Delivery Standard,49,Executive Review,Recovering,Store Focus,202412,88.60%,93.00%,11.8,90.50%,91.80%,85.10%,86.30%
+293,75,3720,,Scheduled Delivery Standard,30,Executive Review,Degrading,Store Focus,202412,80.50%,85.90%,17.2,65.70%,80.90%,84.50%,90.30%
+293,75,3804,,Scheduled Delivery Standard,47,Executive Review,Recovering,Store Focus,202412,91.40%,96.50%,10.6,91.10%,93.50%,89.70%,91.30%
+29,4,728,,Scheduled Delivery Standard,19,Executive Review,Recovering,Store Focus,202412,90.60%,91.70%,10.4,90.30%,95.40%,82.30%,93.80%
+35,4,2265,,Scheduled Delivery Standard,22,Executive Review,Degrading,Store Focus,202412,88.90%,77.40%,18.1,83.50%,90.20%,89.70%,91.90%
+41,4,1183,,Scheduled Delivery Standard,48,Executive Review,Degrading,Store Focus,202412,84.80%,93.20%,14.8,79.40%,85.30%,91.10%,83.20%
+42,4,4593,,Scheduled Delivery Standard,17,Executive Review,Degrading,Store Focus,202412,90.50%,97.20%,11.4,88.50%,90.60%,95.20%,88.20%
+36,4,628,,Scheduled Delivery Standard,20,Executive Review,Degrading,Store Focus,202412,86.30%,92.30%,16.4,74.30%,82.50%,92.20%,96.70%
+36,4,632,,Scheduled Delivery Standard,5,At Risk,Degrading,Store Focus,202412,85.00%,93.90%,13.4,88.60%,82.10%,78.90%,90.40%
+36,4,2348,,Scheduled Delivery Standard,35,Executive Review,Degrading,Store Focus,202412,77.60%,79.50%,13,82.00%,68.90%,74.10%,82.70%
+36,4,2928,,Scheduled Delivery Standard,48,Executive Review,Degrading,Store Focus,202412,90.80%,91.30%,14,86.00%,90.70%,93.10%,93.50%
+38,4,616,,Scheduled Delivery Standard,5,At Risk,Degrading,Store Focus,202412,73.40%,70.80%,24.2,72.30%,77.10%,72.60%,71.30%
+300,4,4273,,Scheduled Delivery Standard,7,Active Monitoring,Recovering,Store Focus,202412,90.40%,93.90%,12.3,93.00%,88.40%,92.20%,88.40%
+163,17,5095,,Scheduled Delivery Standard,31,Executive Review,Recovering,Store Focus,202412,86.30%,95.00%,15.4,90.40%,83.20%,78.10%,92.60%
+173,17,3803,,Scheduled Delivery Standard,8,At Risk,Recovering,Store Focus,202412,88.70%,99.60%,10.8,95.50%,88.00%,80.50%,91.90%
+502,59,4184,,Scheduled Delivery Standard,4,At Risk,Degrading,Store Focus,202412,83.50%,80.40%,12.2,85.10%,78.50%,85.00%,85.40%

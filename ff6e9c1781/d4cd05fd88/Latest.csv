@@ -1,0 +1,32 @@
+DC Number,Blast Radius,Type,Date,Summary,CRQ
+"6056, 6064, 6090, 7010, 7015, 7018, 7024, 7079",GDC CELL000,Enhancement,8/1/2025,Truncate unused tables in prod,CHG3372238
+8852,,Enhancement,8/1/2025,Delete old MQ Subscriptions in US808852,CHG3374730
+"6072, 3010, 6074, ...",,Enhancement,8/4/2025,Change dcFin WAC base URL EUS,CHG3376463
+"6056, 6064, 6090, 7010, 7015, 7018, 7024, 7079",GDC Cell 000,Enhancement,8/4/2025,Enable CCM changes for Trip handout,CHG3377591
+"6056, 6064, 6090, 7010, 7015, 7018, 7024, 7079",CELL000,Enhancement,8/5/2025,Install GDC feature changes for DC 6090.US,CHG3388563
+"6056, 6064, 6090, 7010, 7015, 7018, 7024, 7079",CELL000,Enhancement,8/6/2025,Enable GDC feature changes for DC 6090.US,CHG3389328
+"3010, 4154, 6072, 6085, 6095, 6096, 7012, 7017, 7023, 8851",cell012,Enhancement,8/6/2025,Slotting P1 bug fixes,CHG3380192
+"8852, 3010",,Enhancement,8/6/2025,Kafka Topic Configuration,CHG3384699
+8852,,Enhancement,8/6/2025,Atlas Loading Tablet Deployment,CHG3388412
+"7013, 7021, 7047, 7048, 7077, 7084, 8397, 8852",Cell 002,Enhancement,8/6/2025,Atlas Loading defects and snyk vulnerability fixes,CHG3386886
+"6042, 6057, 6065, 6077, 6082, 6083, 6084, 8348, 7013, 7021, 7047, 7048, 7077, 7084, 8397, 8852, 2971, 4047, 6047, 6059, 6074, 6091, 6097, 6858, 7014, 7016, 2364, 4020, 6055, 6062, 6071, 6073, 6099, 7019, 7030, 7055, 3010, 4154, 6072, 6085, 6095, 6096, 7012, 7017, 7023, 8851","Cell001,Cell002,Cell010,Cell011,Cell012",Enhancement,8/6/2025,Truncate unused tables in prod,CHG3383482
+"2971, 4047, 6047, 6059, 6074, 6091, 6097, 6858, 7014, 7016, 2364, 4020, 6055, 6062, 6071, 6073, 6099, 7019, 7030, 7055","Cell010, Cell011",Enhancement,8/6/2025,Install new rapid relayer under inventory namespace,CHG3388022
+"2971, 4047, 6047, 6059, 6074, 6091, 6097, 6858, 7014, 7016",cell010,Enhancement,8/6/2025,Inventory Web UI Pilot Deployment,CHG3383016
+"2971, 4047, 6047, 6059, 6074, 6091, 6097, 6858, 7014, 7016, 2364, 4020, 6055, 6062, 6071, 6073, 6099, 7019, 7030, 7055, 3010, 4154, 6072, 6085, 6095, 6096, 7012, 7017, 7023, 8851","Cell010, Cell011, cell012",Enhancement,8/6/2025,Enable purge job for witron and dematic DC's,CHG3386502
+"3010, 4154, 6072, 6085, 6095, 6096, 7012, 7017, 7023, 8851",cell012,Enhancement,8/6/2025,Update time frequency for 5110 feeds jobs,CHG3386522
+"6042, 6057, 6065, 6077, 6082, 6083, 6084, 8348",cell001,Enhancement,8/6/2025,COUNTit Walmart SDK for Azure Cosmos,CHG3383157
+8852,,Enhancement,8/7/2025,Update CCM for Inventory 2.0 APIs,CHG3398192
+"6042, 6057, 6065, 6077, 6082, 6083, 6084, 8348, 7013, 7021, 7047, 7048, 7077, 7084, 8397, 8852, 2971, 4047, 6047, 6059, 6074, 6091, 6097, 6858, 7014, 7016, 3010, 4154, 6072, 6085, 6095, 6096, 7012, 7017, 7023, 8851","cell001, cell002, cell010 & cell012",Enhancement,8/7/2025,Create new DB Schema & tables in rapid relayer DB,CHG3395117
+"6056, 6064, 6090, 7010, 7015, 7018, 7024, 7079, 6042, 6057, 6065, 6077, 6082, 6083, 6084, 8348, 7013, 7021, 7047, 7048, 7077, 7084, 8397, 8852","CELL000, CELL002, CELL001",Enhancement,8/7/2025,Enable purge job for witron and dematic DC's,CHG3396289
+"2364, 4020, 6055, 6062, 6071, 6073, 6099, 7019, 7030, 7055",CELL011,Enhancement,8/7/2025,Atlas OT to EI fixes deployment,CHG3386185
+"2971, 4047, 6047, 6059, 6074, 6091, 6097, 6858, 7014, 7016, 2364, 4020, 6055, 6062, 6071, 6073, 6099, 7019, 7030, 7055, 3010, 4154, 6072, 6085, 6095, 6096, 7012, 7017, 7023, 8851","Cell010, Cell011 and Cell012",Enhancement,8/7/2025,Modify Purge Job to exclude by Status,CHG3278391
+"6042, 6057, 6065, 6077, 6082, 6083, 6084, 8348, 7013, 7021, 7047, 7048, 7077, 7084, 8397, 8852, 3010, 4154, 6072, 6085, 6095, 6096, 7012, 7017, 7023, 8851","Cell001, Cell002, Cell012",Enhancement,8/7/2025,Install new rapid relayer under inventory namespace,CHG3388559
+"415,440,204,047,702,000,000,000,000,000,000,000,000,000,000,000",,Enhancement,8/7/2025,Sam's Grocery Cycle Tracking fix roll out,CHG3383417
+"3010, 4154, 6072, 6085, 6095, 6096, 7012, 7017, 7023, 8851",cell012,Enhancement,8/7/2025,Enable Address feature for GDC,CHG3391506
+6042,,Enhancement,8/8/2025,Application deployment for missing devices,CHG3396123
+"2971, 4047, 6047, 6059, 6074, 6091, 6097, 6858, 7014, 7016",cell010,Enhancement,8/8/2025,Inventory Web UI Pilot Deployment,CHG3383016
+"6056, 6064, 6090, 7010, 7015, 7018, 7024, 7079",CELL000,Enhancement,8/8/2025,Enable DC to DC transfer feature,CHG3396230
+"6056, 6064, 6090, 7010, 7015, 7018, 7024, 7079, 7013, 7021, 7047, 7048, 7077, 7084, 8397, 8852, 2971, 4047, 6047, 6059, 6074, 6091, 6097, 6858, 7014, 7016","CELL000, CELL002, CELL010",Enhancement,8/8/2025,SPN password renewal for Order Tracker,CHG3396316
+"6056, 6064, 6090, 7010, 7015, 7018, 7024, 7079",Cell000,Enhancement,8/8/2025,Create Kafka topics and ACL's for Schaefer,CHG3391828
+"6099, 6095, 6057, 7012, 7021","6099.US, 6095.US, 6057.US, 7012.US, 7021.US",Enhancement,8/8/2025,Shutdown GLS in Atlas Migrated Buildings,CHG3391869
+6064,6064.US,Enhancement,8/8/2025,Shutdown GLS Merchandising Cost Update Tool,CHG3376590

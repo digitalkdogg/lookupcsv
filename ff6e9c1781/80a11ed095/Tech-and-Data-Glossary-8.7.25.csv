@@ -1,0 +1,184 @@
+﻿Term,Definition
+3 Lines of Defense,The three lines of defense model provides guidance for effective risk management and governance (Based on the IIA’s three Lines of Defense Model).
+Access Account,A unique identified vehicle for access‚ assigned to either a user or a system.
+Aggregation Threshold,"See ""Disclosure Threshold"""
+Application,Any deployed program‚ module‚ or group of programs that is designed to provide specific functionality on a computer infrastructure. 
+Application DR Tier,DR Tier assigned to the application rather than the critical business service by Disaster Recovery Governance.
+Application Gate,Predefined checkpoint or process for evaluating software.
+Application Portfolio Management (APM),Walmart enterprise tool for tracking and managing applications.
+Application Portfolio Management (APM) Assessment/Review,An APM process such as Data Classification‚ PCI‚ SOX‚ Contract Review‚ HIPAA‚ Data Governance‚ Vendor‚ AI/ML‚ Privacy to ensure compliance with established standards.
+Application Programming Interface (API),A software interface offering services to other pieces of software. 
+Application Service - Domain,A service type that is a logical representation of a deployed application stack. A Domain application service is a logical grouping of applications/workloads that together provide related functionality. This sits below the Environment application service and is not required but may be used to break large Business Applications down into logical functional domains.
+Application Service - Environment,A service type that is a logical representation of a deployed application stack. The Environment application service is the first layer beneath Business Application and represents all deployed applications/workloads for a particular environment (dev‚ test‚ prod).
+Approved Customer Data Repository,A data store that is approved by Customer Data Stewards and Technology and Data Compliance. It is to be an authoritative source for Customer data‚ supporting defined business functions.
+Architecture Diagram,Design of a solution or application establishing technical requirements such as web server‚ database usage‚ protocols‚ internal or external components‚ and environments implicated. Design details varies by environment.
+Artificial Intelligence (AI),The use of algorithms‚ machine learning‚ and data-driven models to automate decision-making processes or perform tasks typically requiring human intelligence‚ such as recognition‚ analysis‚ decision-making‚ and prediction which may translate into the real world as tools that assist us with tasks such as document drafting and/or summarization‚ automating manual tasks‚ or helping identify patterns and trends from large amounts of data.
+Asset,Something of either tangible or intangible value that should be protected
+Authenticator,Something the claimant possesses and controls that is used to authenticate the claimant’s identity
+Baseline Control,The minimum set of controls to be specified for your area to meet legal‚ regulatory‚ or policy requirements‚ as well as address protection needs for the purpose of managing risk‚ when viewed through the TDC lens of ethical use of data & responsible use of technology.
+Biometric Information,Physical characteristics‚ such as fingerprints‚ that can be used for automated recognition.
+Bring Your Own Device,Walmart program enabling associates to provide a device to which a Walmart user profile and corporate sandbox is added.
+Business Application,Represents all software and infrastructure environments (dev‚ test‚ prod) that are configured to provide functionality.
+Business Capability,High-level capability that an organization requires to execute its business model or fulfill its mission. Typically described in the context of performing one or more specific tasks to achieve business outcomes. For example‚ demand management or financial planning.
+Business Data Owner,Accountable for the business vision and strategy for data use within its Business Unit‚ as well as for ensuring compliance with data governance policies within its Business Unit‚ in coordination with Business Data Stewards and Technical Data Stewards. The Business Data Owner function is typically fulfilled by an officer within a Business Unit.
+Business Data Steward,Responsible for executing the business vision and strategy for data use within its Business Unit‚ as well as accountable‚ within its Business Unit‚ for the implementation‚ maintenance‚ and monitoring of Structured Walmart Data in accordance with Walmart data governance policies and standards and market-level laws and regulations. The Business Data Steward function is typically fulfilled by Product Owners‚ Data Analysts‚ or associates designated as Data Stewards.
+Business Domain,A group of Walmart associates and any third parties responsible for performing a business function‚ such as Finance‚ People Org‚ or Walmart+.
+Business Glossary,Contains terminology used by the business‚ along with the data needed for daily operations‚ communicating needs and requirements‚ building or assessing strategic plans‚ and making data-driven decisions. It consists of a prioritized list of business terms‚ definitions‚ and their relationships to representative data elements‚ e.g.‚ columns‚ data attributes‚ report attributes.
+Business Information,Any information that is not Personal Information.
+Business Lineage,Describes the flow of data in business terms‚ linking data to process‚ rules‚ and decisions to help users understand how and why data is used.
+Business Metadata,Information that adds a business or non-technical context to data and the enterprise. It provides the semantic layer between a company’s systems and their business users. 
+Business Unit,A group of Walmart associates and any third parties responsible for performing a business function‚ such as Finance‚ H.R‚ or Walmart+.
+Cardholder Data,Primary account number (PAN)‚ cardholder name‚ service code‚ expiration date‚ full magnetic stripe data‚ card authentication value (CAV)‚ card validation code (CVC)‚ card verification value (CVV)‚ card identification number‚ personal identification number (PIN)‚ or PIN block
+Change Record,A detailed change event to a system‚ entity‚ or process that is documented for the entire lifecycle.
+Clean Room Owner,"The party responsible for operating and securing the Data Clean Room (DCR) platform‚ managing user access‚ enforcing policy controls‚ and maintaining logs.
+
+In a 1P model‚ Walmart operates the DCR‚ either built internally or provided by platform vendors
+
+In a 3P model‚ the DCR is operated by an external party‚ which may be a partner‚ collaborator‚ or platform provider‚ depending on the contractual agreement."
+Cloud Provider,Organization providing cloud services for compute‚ storage‚ and other managed services.
+Cloud Region,An independent geographic location for cloud infrastructure‚ typically consisting of multiple zones that provide fault tolerance within the region.
+Cloud Zone,A location within a Region that provides fault tolerance
+Cluster,Clusters are a group of inter-connected computers or hosts that work together to support components via resources
+Code Review,Documented evidence of the assessment of source code designed to identify bugs and increase code quality
+Column,An atomic unit of data that has precise meaning or precise semantics that is stored in a database table.
+Confidential Computing,A security model that uses hardware-based trusted execution environments (TEEs) to protect data during processing.
+Configuration Item (CI),Physical and logical components of an infrastructure that are currently or soon will be under configuration management. Might be a single module such as a server‚ database‚ or router or a more complex item‚ such as a complete system. For example‚ a web server‚ database‚ or infrastructure.
+Configuration Item Class,Defines the attributes and relationships of a specific type of Configuration Item.
+Continuous Monitoring  ,Monitoring the same set of risk prioritized controls across multiple review units using automation to detect control breakage.
+Contractor or Vendor,A person or entity contracted (or associated with a prospective or executed contract) to provide a product or service to Walmart
+Control   ,Embedded activities within a process or procedure facilitated by people and technology designed to prevent and detect potential problems (or risks) for the business.
+Corporate Owned Personally Enabled,A Walmart-owned mobile device assigned to an associate or contractor for business purposes with limited personal capabilities enabled. 
+Cost Center,A Cost Center is a subunit of a company that is used to accumulate and report costs of that unit.
+Critical Business Function,Activities or information that have defined limits on the length of unavailability to minimize the impact on the enterprise.
+Critical Business Service,A set of applications needed to support‚ model‚ and provide capabilities to critical business functions.
+Critical Data Element (CDE),An essential piece of data that supports key business processes‚ regulatory compliance‚ risk management‚ and strategic decision making.
+Customer,Any entity‚ individual‚ household‚ or organization that buys or potentially can buy goods and services from Walmart. 
+Customer Data,Data‚ created‚ collected‚ or derived from a customer’s interaction with Walmart.
+Customer Data Repository,A data store‚ serving as a source of Customer data or receiver of Customer data from one or more internal or external sources.
+Customer Identity,The unique identifier for a Customer within a Customer Data Repository.
+Data Clean Room (DCR),A collaborative‚ secure environment where two or more parties can leverage data together for specific‚ agreed-upon purposes while enforcing strict data access limitations.
+Data Consumer,An entity (user‚ application‚ or system) that requests and uses data provisioned by a data producer under a data contract.
+Data Contract,A formal agreement governing the exchange of data between data producers and data consumers at Walmart.
+Data Dictionary,A structured inventory of data elements used in Walmart systems. It provides definitions‚ business descriptions‚ data types‚ allowable values‚ and relationships to ensure consistency and shared understanding across business and technical users.
+Data Domain,A business area or function with defined ownership and accountability over the data products it generates‚ curates‚ or consumes.
+Data Extractor,An associate responsible for accessing and retrieving specific data from a database or data storage system‚ then transmitting that data for further use as outlined in a data access request or similar directive.
+Data Governance Exception,A provision in our data governance policies that allows for certain requirements to be relaxed or alternative methods to be employed under specific conditions. 
+Data Governance Waiver,A formal and documented concession granted under certain conditions to temporarily bypass a specific data governance policy requirement. Justification must be documented‚ and approval must be obtained from a designated authority‚ typically an officer. 
+Data Lake,A storage environment that holds raw‚ structured‚ semi-structured‚ and unstructured data in its native format as received from data sources.
+Data Life Cycle,A sequence of stages that data undergoes from initial creation or collection through transformation‚ storage‚ usage‚ sharing‚ and disposal.
+Data Lineage,The lifecycle of data‚ tracing its origin‚ movement‚ transformations‚ and destination across systems‚ including business and technical lineage perspectives.
+Data Lineage Context,Data that has been replicated from one point to another‚ through various processes‚ carrying the same or similar information.
+Data Producer,An entity (Individual‚ application‚ or system) responsible for creating‚ collecting‚ processing‚ storing‚ and provisioning data from a data domain for consumption by authorized parties.
+Data Product,A curated‚ reusable dataset‚ along with its supporting code‚ schema‚ and metadata‚ made available to consumers for specific business objectives under defined terms of use and service levels.
+Data Sharing,The sending‚ receiving‚ or providing access of Walmart Data to external third parties‚ among separate Walmart legal entities‚ or across international borders. 
+Data Steward (Business),An associate responsible for executing the business vision and strategy for data use within its Business Unit.
+Database-Level Duplicate, Duplicates at the database level; they refer to databases featuring identical or highly similar applications‚ schemas‚ tables‚ datasets‚ columns‚ data elements‚ constraints‚ and relationships.
+Dataset,A collection of related data elements that can be analyzed or stored.
+DCR - Data Consumer,The party or parties accessing aggregated data outputs from DCR for authorized analysis.
+DCR - Data Producer,The party or parties contributing data or a data product into the DCR environment.
+De-identification,The process of removing or obscuring Highly Sensitive and Sensitive information from data that Walmart collects‚ uses‚ stores‚ processes‚ or shares with third parties. De-identification removes identifying information from a dataset so it cannot be reasonably associated with a specific individual or Highly Sensitive or Sensitive business information and includes technical and administrative controls necessary to prevent re-identification of the data. Data de-identified in compliance with regulatory requirements is not considered PI.
+Device,Any physical piece of end user technology which could store‚ process‚ or forward Walmart data.
+Device and Online Identifiers,Electronic mail address‚ cellular‚ mobile/wireless number‚ internet cookies‚ pixels‚ device identifiers‚ IP address
+Differential Privacy,A mathematical technique that introduces random noise into data queries or results to obscure any single individual's information.
+Digital Trust,The confidence that Walmart’s customers‚ employees‚ and partners place in our digital technologies‚ including AI‚ to be safe‚ secure‚ and ethically sound. 
+Disaster Recovery Tier,A Disaster Recovery (DR) Tier is the assigned criticality of an application based on Recovery Time Objective (RTO)‚ Recovery Point Objective (RPO)‚ recovery capability‚ and testing requirements in the event of the declared disaster.
+Disclosure Threshold,"The minimum level of aggregation or statistical transformation required to prevent re-identification of individuals or inference of sensitive attributes in Data Clean Room (DCR) outputs.
+
+ Also referred as ""Aggregation Threshold"""
+Engineering Service Provider,The team which owns a particular service and is responsible for SLAs provided to a Service Consumer. A Service Provider may be internal or external.
+Epic,An epic is a finer grained capability of a sub-initiative that is intended to be implemented and delivered with a defined release date. 
+Exception,An authorized situation where a specification is not met‚ but in which mitigating controls are present.
+First-Party (1P) Clean Room,A Data Clean Room (DCR) that is operated by Walmart.
+Fully Managed System or Device,Fully managed systems and devices are owned or contracted for use by Walmart and include non-corporate issued mobile devices as well as enterprise and corporate-owned compute systems and devices (e.g.‚ servers‚ storage devices‚ hand-held devices‚ laptop computers‚ desktop computers‚ tablets‚ thin client devices‚ and telephones).
+Generative Artificial Intelligence (GenAI),A type of artificial intelligence (AI) that can create new content from existing data.  GenAI systems are trained on large data sets and use complex algorithms to learn patterns and features.
+Global Tech Critical Facilities,Facilities including enterprise‚ colocation‚ and edge data centers along with the associated systems and equipment. These facilities are considered critical infrastructure due to their mission-critical assets and impact of loss to the company’s ongoing operations.
+Global Tech Platforms (GTP) Waiver,An authorized non-compliance with Walmart standards where the posture required cannot be met through alternate controls.
+Guideline,Guidelines are recommended best practices managed by individual Teams and represent ways of working that are loosely coupled within the framework of policies and procedures.
+Highly Sensitive,Highly Sensitive data may comprise of Business or Personal information. Personal information is Highly Sensitive if an individual could suffer moderate to substantial harm due to the information being disclosed to an unauthorized party. Business information is Highly Sensitive if substantial harm to Walmart could occur due to the information being disclosed to an unauthorized party. Highly Sensitive data requires the most stringent level of security and confidentiality.
+Homomorphic Encryption,An encryption method that allows computation on encrypted data without decrypting it. It protects sensitive data by keeping it encrypted throughout processing‚ reducing exposure risks.
+HOPS (Headers‚ Ontologies‚ Protocols‚ and Standards),"The technical specifications and standards that govern the structure‚ format‚ and exchange of data across different systems‚ applications‚ and organizations‚ ensuring seamless integration‚ interoperability‚ and data consistency throughout the data supply chain.
+
+Headers - Metadata elements that provide context about the data being transmitted.
+
+Ontologies - Define relationships between concepts and establish a structured vocabulary for a domain.
+
+Protocols - Rules governing how data is exchanged between systems.
+
+Standards - Established norms ensuring compatibility and consistency across different systems."
+Hybrid-Managed,Hybrid-managed devices have certain elements that are managed by Global Tech and other elements that are managed by the end user. Bring Your Own Device (BYOD) and Corporate Owned Personally Enabled (COPE) devices are examples of hybrid-managed devices.
+Incident,An event that compromises the integrity‚ confidentiality‚ or availability of an information asset.
+Information Security Waiver,An authorized non-compliance with Walmart Information Security policy‚ where the security posture required cannot be met through alternate controls. Waivers should only be pursued when there is clear justification that would warrant a period of time‚ up to 2 years‚ but typically given in 6-month increments‚ where a policy will not be met.  A waiver is not a permanent authorization to not meet policy and steps will be required to move toward the required control either by directly implementing it or by implementing alternate controls to meet the required security posture.
+Intellectual Property (IP),A type of intangible asset that includes inventions and creative or artistic works‚ such as books‚ music‚ designs‚ symbols‚ brand names‚ and logos. IP ownership refers to the ownership of these assets.
+Internal and External Sharing,Data sanctioned for internal and external sharing under controls‚ intended for specific external entities where a contract exists.
+Internal Use Only,Data designated exclusively for use within Walmart‚ accessible to most users for general internal use. Data confined to internal Walmart operations‚ with access based on specific roles or essential functions.
+Level 1 (L1) Monitoring,The first line of defense in the three lines of defense model is usually business/domain level and internal controls in place. Usually consists of identifying and assessing controls and mitigating risks. 
+Level 2 (L2) Monitoring, The second line of defense in the three lines of defense model supports management to help ensure risk and controls are effectively managed.
+Licensed Software,Licensed software refers to a program or application that a user is allowed to use by obtaining a legal license from the software's creator or distributor. This license typically grants the user the right to install‚ run‚ and access the features and functionalities of the software‚ while adhering to the terms and conditions outlined in the software's end-user license agreement (EULA).
+Local Account,A type of user account whose credentials grant access only to the device on which they were created.
+Log,A textual data file that stores events‚ processes‚ messages‚ and other data from applications‚ operating systems‚ or devices.
+Managed Service,A Walmart-managed technology service provided by a centralized group.
+Market,A Market is the hierarchy level in the Business Unit Base Hierarchy to which Business Units are aligned.
+Metadata,Data that defines and describes the characteristics of other data. It can be created‚ managed‚ stored‚ and preserved like any other data.
+Microservice,A discreet unit of business functionality with defined interfaces‚ small in size‚ messaging-enabled‚ bounded by contexts‚ autonomously developed‚ independently deployable‚ decentralized‚ and built and released through automated processes.
+Monitoring , An ongoing review and analysis of key business performance and risk indicators that allows the organization to identify potential compliance violations and process gaps to lead to enhanced programmatic risk.
+Multifactor Authentication,Authentication that requires more than one distinct authentication factor (something you know‚ something you have‚ and something you are).
+Non-Production Data,All data that is not production data.
+Non-Production Environment,An environment that is not a Production Environment.
+Non-Sensitive,Non-Sensitive data comprises of Business information that would not result in harm to Walmart or individuals were it to be disclosed to an unauthorized party. Non-Sensitive data requires a minimum baseline level of security.
+Open-Source,Software or projects where the source code or model is made available to the public and governed by open-source licenses that specify the terms of use and distribution.
+Operational Metadata,Provides information about the processes‚ policies‚ and procedures that govern the creation‚ management‚ and use of business data assets within an organization‚ such as data retention schedules‚ access controls‚ and workflows‚ to ensure compliance with regulations and policies.
+Personal Information,Any Walmart Data (data elements which‚ either alone or in combination with other elements) that identifies or relates to an identified or identifiable person or personal device‚ or is linked to‚ or can reasonably be linked to a person‚ or personal device. (A personal device is a device such as a laptop‚ tablet‚ or smartphone‚ which is used primarily by an individual to transmit and receive electronic information.)
+Planning Entity,Planning Entities are high level groupings of business functions to identify and scope a large-scale operation. Within the Planning Entity there are multiple business functions and Business Impact Analyses (BIA) used to group applications into business use cases tied to appropriate recovery time objectives (RTO).   Responsible for planning the continuity of critical business functions. 
+Policy,Policies tell us broadly what to do. These are basic sets of rules that direct or limit a course of action. They provide strategic direction for the standards‚ procedures‚ and guidelines.
+Pre-processing,Data transformation (filtering‚ de-identification‚ tokenization) before DCR ingestion. 
+Privileged Account,An account with greater privileges than the user’s standard account.
+Problem,Errors that may cause or have already caused incidents. 
+Procedure,Procedures list detailed steps for performing specific actions related to policies or standards. These are managed topically by teams‚ so experts can share requirements for compliance.
+Product,A product is a group of business needs that is being solved by one or more applications.
+Product Release,A product release is the process of launching a new product for a specific market or user base.
+Product Team,A group of people who work on a product. Product team members are tracked in TeamRosters and can be allocated to a certain % of time‚ can be working on multiple initiatives‚ and ideally stick together for a long period of time. One or more product teams can work on a single or multiple product(s).
+Production Data,All data used to or derived from conducting business. Production Data encompasses various forms of data collected‚ processed‚ and stored as part of operational activities‚ such as customer‚ member‚ associate‚ seller or product information‚ transaction records‚ logs‚ sales data‚ etc.
+Production Environment,An environment that is capable of storing or processing production data.
+Pseudonymous ID,"See ""Synthetic Token"""
+Record-Level Duplicate,Duplicate records that are identical or substantially similar within a table or across tables.
+Recovery Point Objective,The age of files that must be recovered from backup storage for normal operations to resume if a computer‚ system‚ or network goes down because of an event.
+Recovery Time Objective,The time within which a business process must be restored‚ after an event has occurred‚ to avoid unacceptable consequences associated with a disruption.
+Responsible Artificial Intelligence,The principle that AI systems should be designed‚ developed‚ and deployed in a manner that is ethical‚ transparent‚ fair‚ and accountable.
+Restricted - No Access,Data intended for use with data scanning technologies to locate data which should not be openly accessible within the Walmart environment.
+Restricted Internal and External Sharing,Data intended for restricted use covered by terms of usage‚ prohibited from download‚ printing‚ or sharing.
+Restricted View Only,Data sanctioned for use only under controls‚ where content may only be viewed and may not be changed‚ manipulated‚ printed‚ copied‚ or shared.
+Risk  ,The possibility that an event will occur which will impact an organization's achievement of objectives.
+Schema,A cluster of one or more columns that store data values to represent information about a data entity.
+Sensitive,Sensitive Data may comprise of Business or Personal information. Personal Information is Sensitive if an individual could suffer a low level of harm due to the information being disclosed to an unauthorized party. Business Information is Sensitive if low or moderate harm to Walmart could occur due to the information being disclosed to an unauthorized party. Sensitive data requires a reasonable level of security and confidentiality.
+Service Registry,A database for the storage of data structures for application-level communication. It serves as a central location where app developers can register and find the schemas used for particular applications.
+Service-level Objectives (SLOs),Specific‚ measurable commitments documented in a data contract.
+Software  ,Software can be divided into two primary categories: system software and application software. System software consists of the operating system‚ device drivers‚ and utilities that manage and maintain the computer's resources‚ enabling both the hardware and application software to function efficiently. Application software includes programs created to execute specific tasks or activities for the user‚ such as word processing‚ managing spreadsheets‚ editing images‚ and browsing the internet. 
+Software as a Service,Software as a Service (SaaS) is a software licensing and delivery model where applications are hosted and provided over the internet by a third-party provider. Instead of purchasing‚ installing‚ and maintaining software on individual devices or local servers‚ users can access the software and its features through a web browser. SaaS operates on a subscription basis‚ with users typically paying a recurring fee to access the software and its updates.  Examples of SaaS applications include cloud-based services like‚ Microsoft Office 365‚ Salesforce‚ and Slack.
+Software Environment,An environment‚ in the context of creating and deploying software‚ is the subset of infrastructure resources used to execute a program under specific constraints. Throughout the various stages of development‚ different environments are used to handle the requirements of the development and operations team members. Each environment allows developers to test their code under the environment’s specific set of resources and constraints.
+Software License Key,Software license keys‚ also known as product keys or serial numbers‚ are unique alphanumeric codes or strings used to validate and authorize the use of a specific software application. These keys serve as proof of purchase and help software developers combat piracy and unauthorized distribution of their products.
+Software License Report,Software compliance reports also known as Enterprise License Reports (ELP) are documents or summaries that provide an overview of an organization's adherence to the software licensing agreements‚ regulations‚ and policies governing the use of software within the organization. These reports help ensure that the organization is using software legally and ethically and avoiding potential risks related to non-compliance‚ such as fines‚ penalties‚ or damage to the organization's reputation.
+Solution,An application‚ software‚ or service and associated hardware and infrastructure that provides functionality to the business. Within the Solution Security Plan (SSP) process‚ the definition also includes the data contained within a solution.
+Solution Security Plan,The Solution Security Plan (SSP) is a living document that contains a record of the software‚ hardware‚ operating system‚ connections and reviews performed on a technology solution. 
+Standard,Standards are specific mandatory requirements for how to implement something within a policy. Standards contain controls that must be satisfied or achieved.
+Structured Walmart Data,Walmart data contained in a database or other formatted repository that organizes information for effective processing and analysis. Structured Walmart data excludes “unstructured data” such as photographs‚ Word documents‚ text messages‚ and audio files unless part of a structured database.
+Submitter,An associate who initiates a data access request to extract specific data from a database or data storage system for a specific purpose‚ such as (but not limited to) analysis‚ reporting‚ developing‚ testing‚ or decision-making.
+Synthetic Data,Artificially generated data that mimics the statistical properties of real-production data.
+Synthetic Token,"A hashed or masked identifier for joining datasets without exposing PII.
+
+Also referred as Pseudonymous ID"
+Table,A collection of related data held in a tabular format within a database‚ consisting of columns and rows.
+Table-Level Duplicate,Tables within a database or across databases that have identical or similar structures and data.
+TAEP,"Concatenation of Tenant‚ Assembly‚ Environment‚ and Platform to uniquely identify a run-time instance of a workload or application. Originated with OneOps. For WCNP‚ Tenant is always ""wcnp."""
+Technical Data Steward,Responsible for working to ensure that the technology used by Walmart is in alignment with business vision as well as the policies‚ standards‚ and processes of Digital Citizenship and Global Tech. The Technical Data Steward function is typically filled by Global Tech associates who are Technology Data Architects or Data Modelers‚ Data Engineering Leads‚ and designated Data Custodians.
+Technical Lineage,Tracks the movement and transformation of data at the system level‚ including databases‚ columns‚ transformation logic‚ and applications‚ to support troubleshooting‚ compliance‚ and engineering tasks.
+Technical Metadata,Comprised of information about the systems‚ assets‚ structures‚ transformations‚ and rules that maintain the structural integrity of the data.
+Technical Metadata Repository,A centralized system that stores and manages technical metadata related to Walmart’s data assets.
+Third Party,Any person or entity external to Walmart‚ excluding customers‚ associated‚ or involved with Walmart technology or physical operations.
+Third-Party (3P) Clean Room,A Data Clean Room (DCR) that is operated by a 3rd party(partner).
+Tracking Technologies,Means any tag‚ pixel‚ cookie‚ algorithm‚ insight engine‚ Adobe Flash local shared object‚ HTML5 local storage‚ beacon‚ computer code‚ or other technology capable of collecting‚ inferring‚ or storing information about users either by a vendor or its subcontractors.
+Unrestricted,Applies only to Non-Sensitive content. Includes data authorized for public dissemination‚ including media communications‚ product launches‚ and post-release financial information for personal use.
+Walmart Configuration Management Database,A database that stores information about all technical services. Within the CMDB‚ the support information for each service offering is stored in a Configuration Item (CI) specific to that service.
+Walmart Data,All types of data‚ new and existing‚ in any format‚ owned‚ controlled‚ gathered‚ or processed by or on behalf of Walmart‚ including data stored on systems owned or operated by Walmart‚ Bring Your Own Device (BYOD)‚ Personal Devices‚ or Applications‚ to the extent the data relates to Walmart business.
+Walmart Entity, “Walmart” means Walmart Inc.‚ its subsidiaries‚ and any operating units in which Walmart Inc. has a majority or controlling interest.
+Walmart Source Code,All types of human-readable instructions written in a programming language‚ regardless of format‚ that define the behavior and functionality of software applications and systems maintained by or on behalf of Walmart.
+Workload,The smallest logical grouping of software and/or data which may be deployed as a singular unit to perform business functionality and/or provide a technical capability.
